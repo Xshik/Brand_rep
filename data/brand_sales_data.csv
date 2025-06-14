@@ -1,0 +1,1001 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit,Sentiment
+PROD9935,Amul,Toothpaste,FMCG,2023-05-21,135,2,Poor quality,322.1,Negative
+PROD1434,Tata,Wheat Flour,Grocery,2023-01-17,25,1,Waste of money,476.34,Negative
+PROD5557,ITC,Shampoo,FMCG,2023-11-29,369,5,Loved it,868.06,Positive
+PROD6514,Godrej,Toothpaste,FMCG,2023-12-24,226,3,Average product,591.85,Negative
+PROD8527,Tata,Soap,FMCG,2023-02-19,193,3,It’s okay,1227.27,Positive
+PROD6925,ITC,Soap,FMCG,2023-02-10,292,3,Could be better,1667.34,Positive
+PROD4814,ITC,Shampoo,FMCG,2023-02-05,33,2,Poor quality,1557.48,Negative
+PROD4432,Godrej,Soap,FMCG,2023-05-23,242,3,Just fine,367.18,Positive
+PROD9751,Amul,Smartwatch,Electronics,2023-12-16,341,1,Not as expected,1237.81,Negative
+PROD4598,Amul,Toothpaste,FMCG,2023-08-25,204,3,Could be better,1979.57,Positive
+PROD5386,Amul,Smartphone,Electronics,2023-04-28,430,1,Stopped working,1619.84,Neutral
+PROD3340,Tata,Shampoo,FMCG,2023-06-11,118,4,Loved it,821.48,Positive
+PROD7543,Hindustan Unilever,Toothpaste,FMCG,2023-10-15,285,3,Not bad,1506.68,Positive
+PROD3504,Hindustan Unilever,Toothpaste,FMCG,2023-09-18,262,1,Poor quality,1523.78,Negative
+PROD8668,Amul,Shampoo,FMCG,2023-08-05,315,1,Waste of money,800.3,Negative
+PROD5371,ITC,Smartwatch,Electronics,2023-01-06,358,1,Waste of money,1379.34,Negative
+PROD5315,Godrej,Wheat Flour,Grocery,2023-02-27,160,4,Very good product,358.41,Positive
+PROD4258,ITC,Shampoo,FMCG,2023-02-24,455,3,Could be better,1691.26,Positive
+PROD6310,Patanjali,Smartphone,Electronics,2023-10-04,498,5,Value for money,1841.06,Neutral
+PROD2290,Reliance,Toothpaste,FMCG,2023-07-05,459,3,Average product,516.93,Negative
+PROD8787,Tata,Wheat Flour,Grocery,2023-02-05,399,5,Highly satisfied,1543.38,Positive
+PROD9835,ITC,Soap,FMCG,2023-09-28,456,5,Highly satisfied,875.12,Positive
+PROD8177,Godrej,Cooking Oil,Grocery,2023-04-13,375,3,Just fine,828.03,Positive
+PROD4770,ITC,Smartphone,Electronics,2023-05-07,125,1,Waste of money,709.27,Negative
+PROD6413,ITC,Toothpaste,FMCG,2023-02-06,372,1,Poor quality,496.44,Negative
+PROD8744,Tata,Basmati Rice,Grocery,2023-05-23,352,4,Highly satisfied,467.76,Positive
+PROD7939,Patanjali,Earphones,Electronics,2023-04-08,58,1,Very bad experience,1335.02,Negative
+PROD2790,Reliance,Smartwatch,Electronics,2023-01-28,354,1,Very bad experience,168.19,Negative
+PROD8579,Patanjali,Toothpaste,FMCG,2023-10-02,239,2,Very bad experience,872.67,Negative
+PROD1241,Patanjali,Soap,FMCG,2023-10-09,60,1,Waste of money,1321.68,Negative
+PROD1960,Tata,Toothpaste,FMCG,2023-07-28,258,4,Loved it,466.81,Positive
+PROD8973,Patanjali,Smartphone,Electronics,2023-07-19,145,4,Value for money,606.24,Neutral
+PROD6138,Patanjali,Soap,FMCG,2023-04-22,39,5,Very good product,1484.69,Positive
+PROD2312,Tata,Shampoo,FMCG,2023-09-02,267,5,Value for money,356.99,Neutral
+PROD5033,Godrej,Toothpaste,FMCG,2023-11-01,44,2,Waste of money,837.36,Negative
+PROD9565,ITC,Basmati Rice,Grocery,2023-11-14,51,4,Value for money,1331.88,Neutral
+PROD3144,Hindustan Unilever,Smartphone,Electronics,2023-12-09,376,3,Not bad,515.44,Positive
+PROD2638,Amul,Wheat Flour,Grocery,2023-08-23,171,1,Waste of money,68.17,Negative
+PROD5002,Tata,Basmati Rice,Grocery,2023-09-17,145,2,Poor quality,1869.86,Negative
+PROD9666,Hindustan Unilever,Smartphone,Electronics,2023-08-13,436,5,Value for money,1421.9,Neutral
+PROD5333,Tata,Cooking Oil,Grocery,2023-06-03,487,1,Not as expected,1880.91,Negative
+PROD6617,Tata,Shampoo,FMCG,2023-10-11,89,3,Average product,599.42,Negative
+PROD2512,Patanjali,Cooking Oil,Grocery,2023-05-16,268,4,Very good product,539.69,Positive
+PROD3647,Amul,Earphones,Electronics,2023-01-23,11,3,Just fine,1553.68,Positive
+PROD3442,Amul,Smartwatch,Electronics,2023-12-28,228,5,Very good product,68.86,Positive
+PROD6050,ITC,Soap,FMCG,2023-10-26,292,2,Poor quality,888.08,Negative
+PROD7658,Hindustan Unilever,Soap,FMCG,2023-04-18,359,2,Very bad experience,1350.52,Negative
+PROD7755,ITC,Basmati Rice,Grocery,2023-05-02,452,2,Not as expected,1953.6,Negative
+PROD5371,Tata,Shampoo,FMCG,2023-06-20,410,4,Highly satisfied,1614.36,Positive
+PROD4269,Patanjali,Basmati Rice,Grocery,2023-07-15,456,1,Not as expected,1724.26,Negative
+PROD7528,Godrej,Earphones,Electronics,2023-06-06,430,2,Not as expected,484.7,Negative
+PROD6425,Hindustan Unilever,Smartphone,Electronics,2023-05-23,189,5,Value for money,829.37,Neutral
+PROD8119,Tata,Soap,FMCG,2023-04-02,307,3,Could be better,124.6,Positive
+PROD4114,Hindustan Unilever,Wheat Flour,Grocery,2023-08-12,320,5,Value for money,275.51,Neutral
+PROD4228,Hindustan Unilever,Shampoo,FMCG,2023-08-12,10,5,Value for money,1854.87,Neutral
+PROD5920,Hindustan Unilever,Smartphone,Electronics,2023-12-07,481,3,It’s okay,1265.15,Positive
+PROD3085,ITC,Smartwatch,Electronics,2023-07-29,177,4,Value for money,1409.56,Neutral
+PROD7653,Patanjali,Smartwatch,Electronics,2023-07-14,356,2,Very bad experience,1250.25,Negative
+PROD6279,ITC,Soap,FMCG,2023-05-27,117,4,Value for money,1582.23,Neutral
+PROD2389,Reliance,Earphones,Electronics,2023-12-12,119,5,Highly satisfied,972.71,Positive
+PROD6085,Hindustan Unilever,Cooking Oil,Grocery,2023-11-21,327,3,Average product,232.11,Negative
+PROD2193,Patanjali,Toothpaste,FMCG,2023-01-13,33,2,Waste of money,1968.68,Negative
+PROD3417,Reliance,Smartwatch,Electronics,2023-10-22,109,4,Highly satisfied,1014.04,Positive
+PROD8611,Amul,Basmati Rice,Grocery,2023-02-24,408,4,Value for money,476.74,Neutral
+PROD6198,Tata,Basmati Rice,Grocery,2023-03-04,243,2,Waste of money,1612.76,Negative
+PROD8777,Godrej,Smartwatch,Electronics,2023-09-16,228,5,Highly satisfied,919.53,Positive
+PROD5499,Reliance,Smartphone,Electronics,2023-11-23,151,5,Highly satisfied,994.96,Positive
+PROD2320,Reliance,Shampoo,FMCG,2023-05-27,130,3,Could be better,704.9,Positive
+PROD7797,Patanjali,Toothpaste,FMCG,2023-07-16,365,2,Poor quality,1427.52,Negative
+PROD7381,Reliance,Smartwatch,Electronics,2023-08-27,222,1,Stopped working,453.33,Neutral
+PROD6763,Godrej,Cooking Oil,Grocery,2023-01-11,448,5,Very good product,791.74,Positive
+PROD8999,Hindustan Unilever,Earphones,Electronics,2023-10-03,392,5,Highly satisfied,1609.74,Positive
+PROD3704,Patanjali,Earphones,Electronics,2023-09-06,24,4,Loved it,705.45,Positive
+PROD1444,Godrej,Smartphone,Electronics,2023-11-15,283,1,Waste of money,1818.51,Negative
+PROD7211,Tata,Wheat Flour,Grocery,2023-03-11,453,4,Works great,404.37,Positive
+PROD5133,Hindustan Unilever,Soap,FMCG,2023-06-17,182,4,Loved it,592.6,Positive
+PROD4673,Godrej,Soap,FMCG,2023-01-10,393,5,Works great,151.57,Positive
+PROD1333,Amul,Shampoo,FMCG,2023-01-21,396,1,Not as expected,1901.74,Negative
+PROD8619,ITC,Toothpaste,FMCG,2023-03-06,252,1,Not as expected,1149.74,Negative
+PROD3683,Amul,Earphones,Electronics,2023-03-27,320,5,Very good product,1929.28,Positive
+PROD7498,Hindustan Unilever,Shampoo,FMCG,2023-01-14,485,3,Not bad,1172.8,Positive
+PROD2983,Amul,Toothpaste,FMCG,2023-10-31,363,2,Very bad experience,248.71,Negative
+PROD9289,Godrej,Basmati Rice,Grocery,2023-06-27,282,4,Very good product,1339.97,Positive
+PROD8532,Amul,Smartphone,Electronics,2023-08-04,431,4,Works great,255.8,Positive
+PROD9817,Amul,Soap,FMCG,2023-04-01,385,5,Works great,1932.67,Positive
+PROD2419,Godrej,Earphones,Electronics,2023-08-12,432,5,Highly satisfied,573.37,Positive
+PROD1470,Hindustan Unilever,Smartphone,Electronics,2023-08-26,301,5,Works great,1352.97,Positive
+PROD5581,Reliance,Smartphone,Electronics,2023-09-07,118,3,Just fine,1605.77,Positive
+PROD4954,ITC,Wheat Flour,Grocery,2023-10-12,15,5,Very good product,1898.72,Positive
+PROD8342,Amul,Earphones,Electronics,2023-10-12,398,2,Stopped working,1396.69,Neutral
+PROD7046,Godrej,Toothpaste,FMCG,2023-05-31,123,4,Works great,1398.98,Positive
+PROD5438,Reliance,Cooking Oil,Grocery,2023-06-26,227,5,Loved it,695.04,Positive
+PROD4033,Hindustan Unilever,Smartphone,Electronics,2023-03-03,379,2,Waste of money,665.32,Negative
+PROD5636,Patanjali,Shampoo,FMCG,2023-09-05,151,5,Value for money,1954.38,Neutral
+PROD3073,Tata,Soap,FMCG,2023-04-27,194,2,Waste of money,639.42,Negative
+PROD2680,Hindustan Unilever,Toothpaste,FMCG,2023-10-11,159,2,Stopped working,1293.85,Neutral
+PROD1841,Godrej,Shampoo,FMCG,2023-05-26,250,4,Highly satisfied,908.91,Positive
+PROD3485,Hindustan Unilever,Smartphone,Electronics,2023-02-03,215,4,Very good product,194.46,Positive
+PROD4697,Patanjali,Wheat Flour,Grocery,2023-02-13,137,1,Stopped working,1138.24,Neutral
+PROD8025,Godrej,Wheat Flour,Grocery,2023-08-19,475,4,Value for money,629.84,Neutral
+PROD4457,Hindustan Unilever,Cooking Oil,Grocery,2023-01-31,322,1,Not as expected,1897.8,Negative
+PROD1043,Hindustan Unilever,Basmati Rice,Grocery,2023-03-22,132,2,Not as expected,1126.38,Negative
+PROD5632,Reliance,Smartwatch,Electronics,2023-11-01,250,3,Just fine,113.65,Positive
+PROD4241,Amul,Smartphone,Electronics,2023-12-18,129,3,Could be better,1586.26,Positive
+PROD2169,Reliance,Shampoo,FMCG,2023-04-26,341,2,Not as expected,1821.4,Negative
+PROD3037,Tata,Soap,FMCG,2023-11-01,393,5,Loved it,1846.33,Positive
+PROD8172,Reliance,Wheat Flour,Grocery,2023-12-25,216,3,Not bad,1025.92,Positive
+PROD2496,Tata,Basmati Rice,Grocery,2023-08-10,386,3,It’s okay,1227.24,Positive
+PROD1659,Patanjali,Cooking Oil,Grocery,2023-10-28,496,1,Very bad experience,1999.17,Negative
+PROD8141,Godrej,Soap,FMCG,2023-09-23,343,4,Highly satisfied,1836.34,Positive
+PROD3634,Amul,Smartphone,Electronics,2023-08-29,188,4,Very good product,699.95,Positive
+PROD1601,Hindustan Unilever,Smartwatch,Electronics,2023-09-11,157,4,Value for money,1636.45,Neutral
+PROD9431,Reliance,Soap,FMCG,2023-05-10,175,1,Stopped working,1941.86,Neutral
+PROD6927,Godrej,Shampoo,FMCG,2023-10-05,246,4,Value for money,155.7,Neutral
+PROD3146,ITC,Smartwatch,Electronics,2023-08-15,399,1,Waste of money,446.94,Negative
+PROD4920,Hindustan Unilever,Smartwatch,Electronics,2023-09-06,72,1,Waste of money,1947.64,Negative
+PROD2858,Amul,Soap,FMCG,2023-10-10,17,5,Highly satisfied,845.58,Positive
+PROD7807,Reliance,Shampoo,FMCG,2023-03-20,265,3,Just fine,1042.3,Positive
+PROD9327,Godrej,Earphones,Electronics,2023-05-05,243,5,Highly satisfied,332.05,Positive
+PROD5377,Amul,Toothpaste,FMCG,2023-05-22,405,4,Value for money,712.76,Neutral
+PROD3434,Godrej,Soap,FMCG,2023-06-02,438,5,Loved it,1180.85,Positive
+PROD8460,Reliance,Wheat Flour,Grocery,2023-06-26,180,5,Loved it,1537.6,Positive
+PROD1715,Hindustan Unilever,Shampoo,FMCG,2023-05-03,302,4,Loved it,505.45,Positive
+PROD9115,Hindustan Unilever,Wheat Flour,Grocery,2023-12-28,477,4,Highly satisfied,802.85,Positive
+PROD2633,Tata,Shampoo,FMCG,2023-10-30,179,1,Stopped working,1754.67,Neutral
+PROD6546,ITC,Smartphone,Electronics,2023-03-15,219,2,Very bad experience,195.92,Negative
+PROD7226,ITC,Wheat Flour,Grocery,2023-11-29,51,3,Could be better,1712.07,Positive
+PROD4846,Hindustan Unilever,Cooking Oil,Grocery,2023-09-07,456,5,Very good product,120.0,Positive
+PROD2646,Amul,Wheat Flour,Grocery,2023-04-27,392,1,Poor quality,896.24,Negative
+PROD5806,Reliance,Shampoo,FMCG,2023-06-03,472,1,Poor quality,139.68,Negative
+PROD3785,Hindustan Unilever,Earphones,Electronics,2023-03-16,135,5,Highly satisfied,853.5,Positive
+PROD3344,Patanjali,Shampoo,FMCG,2023-07-15,327,2,Waste of money,1020.45,Negative
+PROD5712,Patanjali,Smartwatch,Electronics,2023-05-11,245,3,Not bad,1350.34,Positive
+PROD7951,Amul,Basmati Rice,Grocery,2023-02-07,236,3,Just fine,1975.92,Positive
+PROD4886,Amul,Earphones,Electronics,2023-06-04,111,4,Very good product,1714.0,Positive
+PROD5497,Reliance,Wheat Flour,Grocery,2023-10-22,161,3,Not bad,92.78,Positive
+PROD4770,Tata,Cooking Oil,Grocery,2023-01-26,476,5,Works great,1503.09,Positive
+PROD2591,ITC,Smartphone,Electronics,2023-11-22,107,5,Highly satisfied,538.72,Positive
+PROD3153,Amul,Basmati Rice,Grocery,2023-06-08,413,4,Works great,115.06,Positive
+PROD6994,Tata,Earphones,Electronics,2023-08-01,99,2,Waste of money,307.71,Negative
+PROD6549,ITC,Wheat Flour,Grocery,2023-03-26,141,4,Works great,1936.4,Positive
+PROD6992,Godrej,Soap,FMCG,2023-02-08,82,2,Stopped working,1727.27,Neutral
+PROD7242,Tata,Smartphone,Electronics,2023-05-16,284,1,Very bad experience,936.83,Negative
+PROD6374,Godrej,Wheat Flour,Grocery,2023-02-25,355,2,Waste of money,969.38,Negative
+PROD7689,ITC,Shampoo,FMCG,2023-02-02,335,4,Works great,1823.31,Positive
+PROD9807,Tata,Toothpaste,FMCG,2023-01-20,165,4,Highly satisfied,276.43,Positive
+PROD7797,Patanjali,Earphones,Electronics,2023-07-09,353,5,Highly satisfied,867.3,Positive
+PROD4559,Amul,Soap,FMCG,2023-11-12,218,3,Just fine,113.8,Positive
+PROD1992,Reliance,Smartphone,Electronics,2023-07-05,60,3,Just fine,1111.71,Positive
+PROD1349,Reliance,Smartphone,Electronics,2023-03-04,495,4,Highly satisfied,228.76,Positive
+PROD4394,Tata,Smartphone,Electronics,2023-03-06,412,5,Value for money,450.15,Neutral
+PROD1046,ITC,Toothpaste,FMCG,2023-06-18,406,2,Waste of money,1587.86,Negative
+PROD3159,Hindustan Unilever,Toothpaste,FMCG,2023-10-04,138,2,Poor quality,264.36,Negative
+PROD3076,Tata,Smartphone,Electronics,2023-10-29,175,1,Poor quality,389.78,Negative
+PROD9408,Amul,Smartwatch,Electronics,2023-02-28,391,1,Very bad experience,978.68,Negative
+PROD5941,ITC,Soap,FMCG,2023-09-15,123,5,Value for money,134.56,Neutral
+PROD9032,Reliance,Basmati Rice,Grocery,2023-02-01,255,4,Very good product,881.23,Positive
+PROD5505,Amul,Smartphone,Electronics,2023-02-11,174,5,Highly satisfied,339.25,Positive
+PROD9692,ITC,Cooking Oil,Grocery,2023-10-08,374,3,Could be better,792.76,Positive
+PROD4522,Hindustan Unilever,Smartwatch,Electronics,2023-11-06,230,1,Poor quality,1596.54,Negative
+PROD6120,Reliance,Smartphone,Electronics,2023-07-31,183,4,Very good product,827.52,Positive
+PROD2099,Reliance,Smartwatch,Electronics,2023-05-11,201,2,Stopped working,1389.3,Neutral
+PROD1982,Tata,Toothpaste,FMCG,2023-08-10,59,3,Could be better,1632.95,Positive
+PROD1842,ITC,Cooking Oil,Grocery,2023-06-18,353,1,Stopped working,851.08,Neutral
+PROD8900,Hindustan Unilever,Wheat Flour,Grocery,2023-06-30,63,5,Highly satisfied,1039.45,Positive
+PROD4705,Patanjali,Soap,FMCG,2023-10-12,198,1,Waste of money,1537.08,Negative
+PROD1474,Godrej,Smartwatch,Electronics,2023-11-15,324,5,Works great,101.19,Positive
+PROD3347,Patanjali,Smartwatch,Electronics,2023-06-08,481,3,Average product,734.5,Negative
+PROD4524,ITC,Wheat Flour,Grocery,2023-02-05,82,1,Waste of money,228.93,Negative
+PROD2391,Reliance,Earphones,Electronics,2023-06-24,90,3,Just fine,657.69,Positive
+PROD8957,Tata,Toothpaste,FMCG,2023-11-13,35,1,Stopped working,580.6,Neutral
+PROD2816,ITC,Earphones,Electronics,2023-05-20,120,5,Loved it,271.94,Positive
+PROD4612,Hindustan Unilever,Cooking Oil,Grocery,2023-10-31,259,5,Very good product,1350.91,Positive
+PROD5186,Reliance,Basmati Rice,Grocery,2023-01-04,114,3,Average product,1893.38,Negative
+PROD9725,Hindustan Unilever,Smartphone,Electronics,2023-01-04,264,4,Loved it,392.6,Positive
+PROD8147,Amul,Shampoo,FMCG,2023-10-14,436,3,It’s okay,190.55,Positive
+PROD5743,Tata,Smartphone,Electronics,2023-06-10,304,4,Loved it,1168.13,Positive
+PROD2443,Tata,Smartphone,Electronics,2023-06-16,97,5,Works great,947.19,Positive
+PROD6083,Reliance,Toothpaste,FMCG,2023-08-12,311,4,Loved it,1071.73,Positive
+PROD9693,Amul,Smartphone,Electronics,2023-06-20,408,2,Poor quality,198.94,Negative
+PROD5193,ITC,Soap,FMCG,2023-06-29,382,2,Not as expected,510.72,Negative
+PROD8601,Patanjali,Shampoo,FMCG,2023-03-20,399,1,Stopped working,395.43,Neutral
+PROD6295,Godrej,Cooking Oil,Grocery,2023-08-18,358,5,Value for money,1303.83,Neutral
+PROD5500,Godrej,Wheat Flour,Grocery,2023-03-19,235,1,Very bad experience,964.4,Negative
+PROD1932,ITC,Soap,FMCG,2023-09-17,47,3,It’s okay,950.4,Positive
+PROD7299,Hindustan Unilever,Smartphone,Electronics,2023-11-27,452,1,Waste of money,1249.27,Negative
+PROD8792,Reliance,Cooking Oil,Grocery,2023-01-22,240,5,Works great,1321.08,Positive
+PROD9266,ITC,Toothpaste,FMCG,2023-08-19,62,3,It’s okay,1965.65,Positive
+PROD9564,Amul,Toothpaste,FMCG,2023-05-07,372,4,Value for money,1982.42,Neutral
+PROD1857,ITC,Soap,FMCG,2023-07-10,479,3,Just fine,805.46,Positive
+PROD5655,Godrej,Cooking Oil,Grocery,2023-06-21,43,3,Not bad,234.29,Positive
+PROD3317,Hindustan Unilever,Cooking Oil,Grocery,2023-11-05,457,2,Waste of money,700.06,Negative
+PROD6072,Hindustan Unilever,Smartwatch,Electronics,2023-12-24,349,4,Very good product,301.46,Positive
+PROD2531,ITC,Smartwatch,Electronics,2023-06-18,426,2,Waste of money,1356.73,Negative
+PROD4509,Amul,Wheat Flour,Grocery,2023-09-18,195,1,Not as expected,757.07,Negative
+PROD9317,Hindustan Unilever,Smartphone,Electronics,2023-04-26,80,2,Poor quality,200.47,Negative
+PROD3147,Godrej,Cooking Oil,Grocery,2023-09-27,29,3,Could be better,1758.97,Positive
+PROD8170,ITC,Smartphone,Electronics,2023-03-25,102,5,Highly satisfied,1627.64,Positive
+PROD5668,Tata,Earphones,Electronics,2023-12-13,378,2,Waste of money,1940.7,Negative
+PROD4178,Godrej,Wheat Flour,Grocery,2023-04-30,283,2,Stopped working,653.46,Neutral
+PROD9641,Hindustan Unilever,Cooking Oil,Grocery,2023-08-14,246,3,Could be better,1567.34,Positive
+PROD7081,Reliance,Toothpaste,FMCG,2023-11-06,80,3,Not bad,151.75,Positive
+PROD5469,ITC,Shampoo,FMCG,2023-09-22,445,1,Not as expected,605.87,Negative
+PROD1436,Reliance,Basmati Rice,Grocery,2023-08-12,56,2,Very bad experience,1642.57,Negative
+PROD7142,Reliance,Soap,FMCG,2023-09-15,201,2,Poor quality,803.02,Negative
+PROD1627,Patanjali,Soap,FMCG,2023-02-20,439,3,Average product,1593.19,Negative
+PROD2298,Hindustan Unilever,Smartwatch,Electronics,2023-03-13,398,4,Very good product,924.77,Positive
+PROD5720,Tata,Smartphone,Electronics,2023-03-18,290,5,Very good product,1079.15,Positive
+PROD8489,Patanjali,Smartphone,Electronics,2023-01-25,132,4,Value for money,1295.96,Neutral
+PROD4963,Tata,Soap,FMCG,2023-11-02,284,1,Waste of money,1282.31,Negative
+PROD7825,Amul,Soap,FMCG,2023-08-08,10,5,Value for money,737.99,Neutral
+PROD9914,Patanjali,Cooking Oil,Grocery,2023-02-13,278,3,Could be better,181.97,Positive
+PROD7116,ITC,Cooking Oil,Grocery,2023-01-11,209,4,Loved it,134.89,Positive
+PROD6447,Hindustan Unilever,Basmati Rice,Grocery,2023-07-02,413,1,Poor quality,722.36,Negative
+PROD8840,Patanjali,Soap,FMCG,2023-10-07,183,2,Stopped working,1669.25,Neutral
+PROD1717,Amul,Toothpaste,FMCG,2023-02-02,376,4,Highly satisfied,122.12,Positive
+PROD8756,Godrej,Toothpaste,FMCG,2023-06-11,487,3,Could be better,1055.0,Positive
+PROD6438,Hindustan Unilever,Shampoo,FMCG,2023-04-08,156,3,It’s okay,1731.17,Positive
+PROD6554,Hindustan Unilever,Soap,FMCG,2023-08-12,465,4,Loved it,1499.45,Positive
+PROD7955,Patanjali,Smartwatch,Electronics,2023-09-12,198,5,Very good product,570.11,Positive
+PROD6372,Tata,Smartwatch,Electronics,2023-04-03,289,3,It’s okay,676.36,Positive
+PROD6759,Amul,Earphones,Electronics,2023-08-17,318,4,Loved it,374.96,Positive
+PROD2229,Reliance,Shampoo,FMCG,2023-06-30,324,4,Very good product,585.38,Positive
+PROD8179,Amul,Wheat Flour,Grocery,2023-07-06,272,2,Not as expected,1907.94,Negative
+PROD1530,Tata,Toothpaste,FMCG,2023-05-01,408,3,Could be better,756.19,Positive
+PROD3255,ITC,Shampoo,FMCG,2023-08-19,495,3,It’s okay,775.43,Positive
+PROD1424,ITC,Earphones,Electronics,2023-06-10,342,3,It’s okay,536.74,Positive
+PROD8311,Amul,Soap,FMCG,2023-09-23,208,5,Works great,279.63,Positive
+PROD2213,Patanjali,Wheat Flour,Grocery,2023-12-22,479,4,Highly satisfied,440.35,Positive
+PROD9882,Reliance,Shampoo,FMCG,2023-08-16,54,3,It’s okay,1352.29,Positive
+PROD4673,Hindustan Unilever,Smartphone,Electronics,2023-12-31,373,2,Waste of money,1597.71,Negative
+PROD7044,Tata,Toothpaste,FMCG,2023-05-02,414,4,Value for money,101.25,Neutral
+PROD8842,Reliance,Basmati Rice,Grocery,2023-11-10,462,1,Stopped working,178.21,Neutral
+PROD8372,ITC,Earphones,Electronics,2023-10-22,47,2,Poor quality,1946.14,Negative
+PROD3114,Reliance,Cooking Oil,Grocery,2023-06-26,75,5,Highly satisfied,1297.6,Positive
+PROD6286,Reliance,Basmati Rice,Grocery,2023-03-05,275,2,Not as expected,643.04,Negative
+PROD4216,Amul,Soap,FMCG,2023-09-23,468,3,Just fine,1699.57,Positive
+PROD9234,Amul,Wheat Flour,Grocery,2023-03-06,330,3,It’s okay,1248.14,Positive
+PROD6531,Amul,Shampoo,FMCG,2023-10-25,88,2,Waste of money,1334.53,Negative
+PROD5336,Godrej,Basmati Rice,Grocery,2023-01-15,51,1,Waste of money,1899.67,Negative
+PROD5745,Amul,Shampoo,FMCG,2023-08-02,326,1,Waste of money,1021.17,Negative
+PROD1981,Amul,Earphones,Electronics,2023-05-06,422,4,Very good product,630.0,Positive
+PROD6121,Patanjali,Earphones,Electronics,2023-09-05,247,2,Not as expected,713.38,Negative
+PROD2739,Godrej,Wheat Flour,Grocery,2023-06-26,214,2,Waste of money,1533.3,Negative
+PROD1829,Hindustan Unilever,Soap,FMCG,2023-03-04,146,4,Very good product,533.44,Positive
+PROD6123,Hindustan Unilever,Smartwatch,Electronics,2023-08-03,137,2,Waste of money,1636.28,Negative
+PROD1379,Patanjali,Soap,FMCG,2023-09-21,249,4,Loved it,1764.2,Positive
+PROD1828,Tata,Smartwatch,Electronics,2023-08-23,133,2,Poor quality,1187.52,Negative
+PROD2761,Hindustan Unilever,Smartwatch,Electronics,2023-12-01,354,4,Very good product,607.21,Positive
+PROD1838,Reliance,Soap,FMCG,2023-07-07,401,4,Loved it,763.58,Positive
+PROD8378,ITC,Basmati Rice,Grocery,2023-07-05,293,3,Could be better,193.39,Positive
+PROD7453,Godrej,Wheat Flour,Grocery,2023-11-16,358,5,Very good product,281.68,Positive
+PROD7576,Hindustan Unilever,Smartwatch,Electronics,2023-07-07,396,2,Waste of money,438.16,Negative
+PROD8487,ITC,Toothpaste,FMCG,2023-01-20,80,3,Could be better,1617.73,Positive
+PROD5902,Patanjali,Cooking Oil,Grocery,2023-03-13,177,5,Loved it,671.13,Positive
+PROD8780,ITC,Smartwatch,Electronics,2023-09-18,282,4,Works great,1432.04,Positive
+PROD6040,Godrej,Soap,FMCG,2023-06-19,354,1,Waste of money,1960.8,Negative
+PROD4728,Godrej,Cooking Oil,Grocery,2023-11-19,23,5,Value for money,975.45,Neutral
+PROD7229,Amul,Shampoo,FMCG,2023-09-03,97,5,Value for money,1276.6,Neutral
+PROD6139,Patanjali,Basmati Rice,Grocery,2023-01-17,303,1,Stopped working,422.03,Neutral
+PROD8726,Reliance,Soap,FMCG,2023-12-20,114,4,Value for money,1028.55,Neutral
+PROD6325,Godrej,Cooking Oil,Grocery,2023-02-01,371,2,Waste of money,1061.43,Negative
+PROD6608,Amul,Smartwatch,Electronics,2023-07-12,170,2,Waste of money,946.34,Negative
+PROD5038,ITC,Smartwatch,Electronics,2023-12-15,339,3,Average product,1239.65,Negative
+PROD9011,Hindustan Unilever,Wheat Flour,Grocery,2023-04-26,492,3,Average product,1553.79,Negative
+PROD9899,Hindustan Unilever,Earphones,Electronics,2023-10-14,488,3,Could be better,611.19,Positive
+PROD6674,Reliance,Earphones,Electronics,2023-03-16,158,1,Poor quality,610.88,Negative
+PROD5450,Reliance,Wheat Flour,Grocery,2023-09-03,119,2,Very bad experience,1664.51,Negative
+PROD4697,Patanjali,Shampoo,FMCG,2023-10-28,132,2,Waste of money,148.99,Negative
+PROD3252,Amul,Toothpaste,FMCG,2023-02-21,221,3,It’s okay,1448.85,Positive
+PROD5706,Tata,Basmati Rice,Grocery,2023-07-28,344,4,Highly satisfied,981.02,Positive
+PROD9767,Hindustan Unilever,Smartwatch,Electronics,2023-01-31,474,1,Not as expected,1321.98,Negative
+PROD7504,Amul,Basmati Rice,Grocery,2023-03-31,223,2,Poor quality,1871.15,Negative
+PROD2758,Godrej,Smartphone,Electronics,2023-05-29,458,1,Waste of money,68.07,Negative
+PROD9261,Hindustan Unilever,Earphones,Electronics,2023-11-25,288,5,Highly satisfied,1013.13,Positive
+PROD4050,Reliance,Smartphone,Electronics,2023-02-27,179,2,Very bad experience,1475.68,Negative
+PROD8007,Tata,Wheat Flour,Grocery,2023-06-01,300,2,Stopped working,392.22,Neutral
+PROD8822,ITC,Smartphone,Electronics,2023-07-25,352,1,Not as expected,410.32,Negative
+PROD6400,Hindustan Unilever,Toothpaste,FMCG,2023-05-14,206,2,Very bad experience,921.13,Negative
+PROD2017,Hindustan Unilever,Cooking Oil,Grocery,2023-10-21,15,3,Average product,1324.68,Negative
+PROD2923,Amul,Soap,FMCG,2023-06-07,91,4,Works great,1387.84,Positive
+PROD3509,Amul,Earphones,Electronics,2023-11-11,123,2,Stopped working,1916.85,Neutral
+PROD4578,Reliance,Cooking Oil,Grocery,2023-07-11,222,5,Value for money,1829.95,Neutral
+PROD6927,Godrej,Shampoo,FMCG,2023-11-02,457,1,Waste of money,1074.74,Negative
+PROD9792,Tata,Basmati Rice,Grocery,2023-02-01,434,5,Highly satisfied,1810.63,Positive
+PROD9008,Patanjali,Soap,FMCG,2023-09-24,236,1,Waste of money,1376.58,Negative
+PROD1945,Tata,Wheat Flour,Grocery,2023-01-29,242,2,Stopped working,1050.83,Neutral
+PROD4570,ITC,Smartwatch,Electronics,2023-06-07,380,1,Poor quality,822.1,Negative
+PROD2130,ITC,Toothpaste,FMCG,2023-08-05,186,1,Poor quality,1105.27,Negative
+PROD7135,Reliance,Soap,FMCG,2023-07-29,102,2,Stopped working,1543.36,Neutral
+PROD2943,Reliance,Earphones,Electronics,2023-07-12,51,5,Works great,309.33,Positive
+PROD5888,Patanjali,Wheat Flour,Grocery,2023-09-28,75,2,Poor quality,1677.9,Negative
+PROD5055,Reliance,Cooking Oil,Grocery,2023-10-06,227,5,Highly satisfied,789.59,Positive
+PROD1256,Reliance,Smartphone,Electronics,2023-05-22,106,1,Stopped working,112.82,Neutral
+PROD5009,Patanjali,Toothpaste,FMCG,2023-02-21,314,1,Poor quality,920.56,Negative
+PROD3295,Amul,Soap,FMCG,2023-08-13,129,5,Very good product,473.67,Positive
+PROD4881,ITC,Smartphone,Electronics,2023-10-22,173,5,Works great,1215.94,Positive
+PROD3869,Hindustan Unilever,Shampoo,FMCG,2023-09-24,123,4,Very good product,635.98,Positive
+PROD9592,Amul,Wheat Flour,Grocery,2023-10-12,263,1,Stopped working,1945.97,Neutral
+PROD8758,Hindustan Unilever,Wheat Flour,Grocery,2023-07-29,86,3,Could be better,784.1,Positive
+PROD7761,Patanjali,Soap,FMCG,2023-12-29,83,4,Value for money,1833.75,Neutral
+PROD2295,Reliance,Cooking Oil,Grocery,2023-03-10,208,2,Very bad experience,547.24,Negative
+PROD1647,Reliance,Smartphone,Electronics,2023-10-02,380,2,Stopped working,150.5,Neutral
+PROD6455,Godrej,Toothpaste,FMCG,2023-10-28,380,5,Highly satisfied,473.18,Positive
+PROD4974,Hindustan Unilever,Toothpaste,FMCG,2023-04-08,389,1,Stopped working,1506.41,Neutral
+PROD7236,Amul,Cooking Oil,Grocery,2023-04-15,213,2,Very bad experience,1126.55,Negative
+PROD8635,Reliance,Cooking Oil,Grocery,2023-07-03,167,3,Not bad,751.31,Positive
+PROD1749,Tata,Wheat Flour,Grocery,2023-06-13,478,2,Stopped working,772.87,Neutral
+PROD7841,ITC,Shampoo,FMCG,2023-03-16,18,3,Could be better,1128.96,Positive
+PROD9180,Hindustan Unilever,Toothpaste,FMCG,2023-06-18,127,4,Highly satisfied,1161.09,Positive
+PROD8550,ITC,Cooking Oil,Grocery,2023-06-22,141,4,Loved it,1934.69,Positive
+PROD1962,Patanjali,Wheat Flour,Grocery,2023-03-28,81,5,Value for money,1002.22,Neutral
+PROD2113,ITC,Toothpaste,FMCG,2023-12-09,34,1,Not as expected,854.16,Negative
+PROD8916,Amul,Toothpaste,FMCG,2023-04-22,268,4,Value for money,777.74,Neutral
+PROD9673,Amul,Smartphone,Electronics,2023-01-04,282,5,Very good product,852.11,Positive
+PROD3937,Amul,Smartwatch,Electronics,2023-05-27,18,5,Loved it,1635.66,Positive
+PROD6807,Tata,Shampoo,FMCG,2023-03-18,133,2,Very bad experience,1258.57,Negative
+PROD5914,Hindustan Unilever,Smartphone,Electronics,2023-07-11,217,4,Highly satisfied,1151.75,Positive
+PROD7179,Amul,Shampoo,FMCG,2023-11-29,398,1,Stopped working,232.33,Neutral
+PROD6427,ITC,Smartphone,Electronics,2023-11-23,14,2,Stopped working,211.24,Neutral
+PROD8790,ITC,Shampoo,FMCG,2023-01-22,127,2,Waste of money,1807.48,Negative
+PROD1539,Hindustan Unilever,Toothpaste,FMCG,2023-12-17,483,3,Could be better,1803.66,Positive
+PROD2260,Patanjali,Smartphone,Electronics,2023-04-17,310,2,Stopped working,1516.9,Neutral
+PROD6435,Hindustan Unilever,Shampoo,FMCG,2023-05-04,300,4,Value for money,1370.22,Neutral
+PROD1879,Reliance,Basmati Rice,Grocery,2023-12-19,380,1,Very bad experience,1026.55,Negative
+PROD7499,Tata,Smartphone,Electronics,2023-02-08,184,5,Value for money,1549.56,Neutral
+PROD7150,Godrej,Smartphone,Electronics,2023-11-21,149,4,Works great,1006.68,Positive
+PROD5839,Reliance,Shampoo,FMCG,2023-10-27,348,4,Value for money,217.1,Neutral
+PROD7383,Godrej,Shampoo,FMCG,2023-02-07,52,3,Average product,350.73,Negative
+PROD2674,Hindustan Unilever,Smartphone,Electronics,2023-02-16,12,3,Just fine,917.23,Positive
+PROD2692,Patanjali,Toothpaste,FMCG,2023-08-09,239,5,Loved it,1131.74,Positive
+PROD7311,Tata,Soap,FMCG,2023-10-11,57,5,Works great,1216.19,Positive
+PROD4977,Tata,Earphones,Electronics,2023-07-18,408,1,Waste of money,1463.45,Negative
+PROD5397,ITC,Basmati Rice,Grocery,2023-12-17,204,2,Very bad experience,320.74,Negative
+PROD2260,Reliance,Toothpaste,FMCG,2023-03-27,232,3,Not bad,871.15,Positive
+PROD2752,Hindustan Unilever,Smartphone,Electronics,2023-11-17,263,5,Loved it,1252.5,Positive
+PROD8212,Patanjali,Smartphone,Electronics,2023-07-22,180,5,Works great,790.79,Positive
+PROD8848,Hindustan Unilever,Smartwatch,Electronics,2023-11-01,79,3,Average product,675.3,Negative
+PROD6339,Hindustan Unilever,Soap,FMCG,2023-06-13,159,4,Highly satisfied,1937.14,Positive
+PROD3947,Reliance,Earphones,Electronics,2023-07-06,68,5,Value for money,439.61,Neutral
+PROD2133,Amul,Basmati Rice,Grocery,2023-08-25,492,2,Very bad experience,904.99,Negative
+PROD7932,Godrej,Smartwatch,Electronics,2023-09-13,81,3,Average product,521.94,Negative
+PROD9300,Godrej,Smartphone,Electronics,2023-08-18,316,4,Value for money,1185.38,Neutral
+PROD2392,Godrej,Wheat Flour,Grocery,2023-10-06,28,3,Could be better,1418.19,Positive
+PROD7547,Tata,Shampoo,FMCG,2023-12-07,191,2,Poor quality,1311.65,Negative
+PROD9499,Godrej,Earphones,Electronics,2023-02-24,15,1,Waste of money,554.54,Negative
+PROD9199,ITC,Cooking Oil,Grocery,2023-10-22,123,4,Loved it,779.53,Positive
+PROD2901,Patanjali,Smartphone,Electronics,2023-09-05,63,3,It’s okay,861.15,Positive
+PROD9537,Godrej,Basmati Rice,Grocery,2023-06-28,169,3,Average product,937.9,Negative
+PROD1732,Reliance,Earphones,Electronics,2023-02-19,234,4,Works great,671.87,Positive
+PROD4996,Godrej,Basmati Rice,Grocery,2023-01-12,444,3,Average product,1313.54,Negative
+PROD4798,ITC,Shampoo,FMCG,2023-03-23,179,5,Loved it,881.42,Positive
+PROD4232,Godrej,Smartwatch,Electronics,2023-04-05,105,4,Value for money,821.39,Neutral
+PROD2667,Reliance,Wheat Flour,Grocery,2023-07-19,12,2,Poor quality,451.28,Negative
+PROD9019,Godrej,Basmati Rice,Grocery,2023-07-07,176,2,Very bad experience,942.22,Negative
+PROD6700,ITC,Wheat Flour,Grocery,2023-11-02,208,5,Very good product,815.46,Positive
+PROD2388,Hindustan Unilever,Smartwatch,Electronics,2023-03-30,426,3,Could be better,1841.43,Positive
+PROD3316,Amul,Soap,FMCG,2023-03-02,132,3,Just fine,278.05,Positive
+PROD8973,ITC,Earphones,Electronics,2023-11-02,80,5,Highly satisfied,798.23,Positive
+PROD5732,Amul,Cooking Oil,Grocery,2023-11-27,486,2,Stopped working,1132.08,Neutral
+PROD8939,Patanjali,Soap,FMCG,2023-08-19,327,1,Poor quality,1737.77,Negative
+PROD7809,Patanjali,Soap,FMCG,2023-10-15,268,4,Loved it,847.81,Positive
+PROD5785,Amul,Earphones,Electronics,2023-03-27,52,5,Highly satisfied,110.18,Positive
+PROD9115,Tata,Smartphone,Electronics,2023-10-03,157,2,Waste of money,1572.44,Negative
+PROD9880,ITC,Basmati Rice,Grocery,2023-10-21,68,3,Just fine,1561.47,Positive
+PROD5055,Godrej,Shampoo,FMCG,2023-08-14,289,2,Poor quality,1980.06,Negative
+PROD4882,Hindustan Unilever,Soap,FMCG,2023-05-15,188,1,Poor quality,906.19,Negative
+PROD3281,Patanjali,Cooking Oil,Grocery,2023-12-19,189,5,Highly satisfied,1283.9,Positive
+PROD9827,Godrej,Toothpaste,FMCG,2023-01-31,301,3,Could be better,1087.95,Positive
+PROD2560,Patanjali,Smartwatch,Electronics,2023-05-30,158,5,Value for money,571.32,Neutral
+PROD5090,Patanjali,Smartphone,Electronics,2023-05-22,453,2,Not as expected,1417.78,Negative
+PROD5402,Patanjali,Wheat Flour,Grocery,2023-05-07,399,4,Value for money,1004.44,Neutral
+PROD7046,Amul,Earphones,Electronics,2023-08-20,48,1,Very bad experience,835.56,Negative
+PROD6869,Reliance,Earphones,Electronics,2023-10-25,11,1,Stopped working,1475.32,Neutral
+PROD5399,Godrej,Shampoo,FMCG,2023-07-23,121,4,Loved it,1658.45,Positive
+PROD6631,Hindustan Unilever,Earphones,Electronics,2023-10-08,305,2,Stopped working,1153.98,Neutral
+PROD8230,Amul,Toothpaste,FMCG,2023-02-20,330,4,Highly satisfied,81.75,Positive
+PROD3604,Reliance,Soap,FMCG,2023-04-14,362,2,Very bad experience,1770.19,Negative
+PROD1848,Godrej,Smartphone,Electronics,2023-12-02,194,3,Average product,210.72,Negative
+PROD2559,Reliance,Wheat Flour,Grocery,2023-12-25,396,2,Poor quality,887.0,Negative
+PROD1152,Tata,Soap,FMCG,2023-02-09,77,5,Loved it,491.07,Positive
+PROD2160,Tata,Wheat Flour,Grocery,2023-03-03,450,4,Loved it,1403.36,Positive
+PROD3246,Patanjali,Smartphone,Electronics,2023-02-22,62,3,Just fine,766.75,Positive
+PROD3688,Reliance,Shampoo,FMCG,2023-12-13,83,1,Poor quality,1084.49,Negative
+PROD8248,Reliance,Smartwatch,Electronics,2023-04-20,331,2,Waste of money,1843.79,Negative
+PROD6759,Godrej,Toothpaste,FMCG,2023-02-21,81,1,Stopped working,1199.67,Neutral
+PROD5668,Reliance,Smartphone,Electronics,2023-05-07,151,1,Waste of money,533.93,Negative
+PROD9348,Godrej,Basmati Rice,Grocery,2023-12-04,458,3,Could be better,450.62,Positive
+PROD9108,Patanjali,Wheat Flour,Grocery,2023-06-01,340,1,Not as expected,1578.41,Negative
+PROD6916,Reliance,Toothpaste,FMCG,2023-09-13,336,5,Very good product,188.47,Positive
+PROD8717,Hindustan Unilever,Soap,FMCG,2023-10-19,225,3,Average product,1115.39,Negative
+PROD1990,Godrej,Toothpaste,FMCG,2023-10-28,44,1,Poor quality,561.26,Negative
+PROD7590,Godrej,Smartwatch,Electronics,2023-05-27,331,5,Loved it,1545.86,Positive
+PROD2294,Tata,Cooking Oil,Grocery,2023-10-03,325,2,Very bad experience,591.06,Negative
+PROD6081,ITC,Toothpaste,FMCG,2023-10-02,177,4,Very good product,1193.55,Positive
+PROD2900,Amul,Smartwatch,Electronics,2023-05-03,39,2,Stopped working,218.11,Neutral
+PROD1185,Reliance,Cooking Oil,Grocery,2023-01-29,168,2,Not as expected,282.91,Negative
+PROD5403,Patanjali,Earphones,Electronics,2023-09-25,274,3,Average product,375.58,Negative
+PROD5308,Amul,Toothpaste,FMCG,2023-06-21,423,4,Very good product,580.36,Positive
+PROD9185,Amul,Cooking Oil,Grocery,2023-02-09,264,4,Very good product,1046.02,Positive
+PROD2889,Godrej,Basmati Rice,Grocery,2023-07-08,90,3,Could be better,1557.99,Positive
+PROD6963,Patanjali,Cooking Oil,Grocery,2023-01-02,32,1,Stopped working,526.88,Neutral
+PROD7819,Reliance,Toothpaste,FMCG,2023-01-19,293,4,Highly satisfied,487.8,Positive
+PROD3938,Amul,Earphones,Electronics,2023-02-09,302,3,It’s okay,282.83,Positive
+PROD6362,Patanjali,Basmati Rice,Grocery,2023-07-25,45,4,Works great,1738.76,Positive
+PROD4974,Tata,Wheat Flour,Grocery,2023-01-05,198,2,Very bad experience,618.61,Negative
+PROD5016,Reliance,Smartwatch,Electronics,2023-09-10,405,2,Waste of money,1478.3,Negative
+PROD6488,Patanjali,Soap,FMCG,2023-01-13,129,5,Very good product,725.53,Positive
+PROD7878,Tata,Wheat Flour,Grocery,2023-06-07,63,2,Not as expected,1083.14,Negative
+PROD9515,Reliance,Toothpaste,FMCG,2023-12-31,153,1,Not as expected,135.61,Negative
+PROD3187,Reliance,Wheat Flour,Grocery,2023-08-23,392,1,Waste of money,1182.5,Negative
+PROD4879,Amul,Smartphone,Electronics,2023-10-31,300,1,Not as expected,898.22,Negative
+PROD4827,Hindustan Unilever,Earphones,Electronics,2023-07-21,368,3,Just fine,670.21,Positive
+PROD8635,Tata,Toothpaste,FMCG,2023-10-27,65,2,Stopped working,256.03,Neutral
+PROD5341,Hindustan Unilever,Smartphone,Electronics,2023-10-02,193,2,Stopped working,931.24,Neutral
+PROD1660,Godrej,Toothpaste,FMCG,2023-03-22,423,3,Could be better,1661.45,Positive
+PROD9412,Patanjali,Smartphone,Electronics,2023-02-16,374,2,Stopped working,1938.38,Neutral
+PROD8408,Tata,Wheat Flour,Grocery,2023-05-14,429,2,Stopped working,110.61,Neutral
+PROD2989,ITC,Cooking Oil,Grocery,2023-05-08,58,4,Highly satisfied,248.72,Positive
+PROD5240,Tata,Toothpaste,FMCG,2023-03-08,111,4,Very good product,775.87,Positive
+PROD6432,Godrej,Toothpaste,FMCG,2023-02-03,111,4,Very good product,1628.13,Positive
+PROD9128,Tata,Soap,FMCG,2023-01-26,96,5,Loved it,894.65,Positive
+PROD5505,Tata,Smartwatch,Electronics,2023-08-07,98,3,Average product,468.7,Negative
+PROD9173,Hindustan Unilever,Smartphone,Electronics,2023-01-18,324,5,Works great,1253.11,Positive
+PROD4267,Reliance,Wheat Flour,Grocery,2023-02-01,54,3,Not bad,796.88,Positive
+PROD6883,Amul,Basmati Rice,Grocery,2023-11-19,420,5,Loved it,1599.95,Positive
+PROD5430,Reliance,Wheat Flour,Grocery,2023-06-26,477,5,Loved it,1029.67,Positive
+PROD1959,Patanjali,Soap,FMCG,2023-11-02,122,1,Very bad experience,1796.74,Negative
+PROD2640,Godrej,Smartwatch,Electronics,2023-07-03,402,5,Highly satisfied,1999.23,Positive
+PROD7363,Patanjali,Basmati Rice,Grocery,2023-05-17,283,1,Not as expected,1539.9,Negative
+PROD1462,Hindustan Unilever,Toothpaste,FMCG,2023-05-02,313,3,Just fine,1622.11,Positive
+PROD9064,Amul,Wheat Flour,Grocery,2023-10-18,298,2,Not as expected,1148.06,Negative
+PROD4584,ITC,Smartphone,Electronics,2023-09-09,29,1,Waste of money,159.53,Negative
+PROD6582,Tata,Wheat Flour,Grocery,2023-01-01,179,5,Highly satisfied,442.86,Positive
+PROD2817,Amul,Soap,FMCG,2023-01-31,21,2,Not as expected,1193.89,Negative
+PROD5944,Godrej,Wheat Flour,Grocery,2023-02-07,201,4,Works great,1192.73,Positive
+PROD6846,Hindustan Unilever,Toothpaste,FMCG,2023-08-12,415,4,Highly satisfied,1315.9,Positive
+PROD3086,Patanjali,Cooking Oil,Grocery,2023-03-31,203,3,Just fine,1481.29,Positive
+PROD1530,Patanjali,Basmati Rice,Grocery,2023-12-26,495,5,Value for money,813.62,Neutral
+PROD3304,Patanjali,Wheat Flour,Grocery,2023-11-10,123,5,Loved it,253.01,Positive
+PROD6500,Hindustan Unilever,Basmati Rice,Grocery,2023-05-02,187,3,It’s okay,377.38,Positive
+PROD1020,Reliance,Soap,FMCG,2023-04-18,137,1,Poor quality,733.44,Negative
+PROD6754,Tata,Earphones,Electronics,2023-08-03,95,4,Loved it,1011.51,Positive
+PROD3664,ITC,Smartphone,Electronics,2023-09-03,413,5,Highly satisfied,1319.39,Positive
+PROD2215,Reliance,Toothpaste,FMCG,2023-05-31,20,3,It’s okay,559.2,Positive
+PROD6536,Hindustan Unilever,Soap,FMCG,2023-03-24,384,1,Poor quality,1116.74,Negative
+PROD8113,ITC,Wheat Flour,Grocery,2023-12-27,25,4,Highly satisfied,1887.76,Positive
+PROD9849,Patanjali,Toothpaste,FMCG,2023-06-19,115,2,Waste of money,848.1,Negative
+PROD9043,Hindustan Unilever,Wheat Flour,Grocery,2023-06-02,131,1,Waste of money,146.79,Negative
+PROD8869,Patanjali,Soap,FMCG,2023-01-02,228,1,Waste of money,624.37,Negative
+PROD2892,Patanjali,Toothpaste,FMCG,2023-04-16,97,3,Not bad,1955.26,Positive
+PROD7349,Hindustan Unilever,Earphones,Electronics,2023-09-08,468,3,Could be better,227.72,Positive
+PROD8619,Patanjali,Earphones,Electronics,2023-07-09,105,4,Loved it,137.0,Positive
+PROD2404,Hindustan Unilever,Soap,FMCG,2023-10-16,41,2,Poor quality,1516.86,Negative
+PROD7342,Amul,Smartwatch,Electronics,2023-07-31,397,5,Very good product,493.65,Positive
+PROD8803,Godrej,Wheat Flour,Grocery,2023-10-02,361,4,Highly satisfied,1166.79,Positive
+PROD3415,Hindustan Unilever,Soap,FMCG,2024-01-01,27,5,Value for money,1163.88,Neutral
+PROD2283,Tata,Smartphone,Electronics,2023-03-27,118,2,Stopped working,296.06,Neutral
+PROD2425,Amul,Smartphone,Electronics,2023-11-18,85,5,Very good product,552.88,Positive
+PROD9561,Reliance,Wheat Flour,Grocery,2023-10-10,176,3,It’s okay,1063.39,Positive
+PROD2641,Godrej,Smartphone,Electronics,2023-08-01,86,2,Waste of money,1154.86,Negative
+PROD5327,Tata,Basmati Rice,Grocery,2023-05-27,454,5,Loved it,1766.26,Positive
+PROD7602,Reliance,Wheat Flour,Grocery,2023-10-20,321,4,Works great,123.06,Positive
+PROD4892,Patanjali,Cooking Oil,Grocery,2023-12-15,365,4,Works great,125.63,Positive
+PROD6094,Tata,Wheat Flour,Grocery,2023-05-18,469,3,Just fine,89.45,Positive
+PROD6257,Hindustan Unilever,Smartwatch,Electronics,2023-12-17,60,2,Stopped working,312.05,Neutral
+PROD7671,Hindustan Unilever,Wheat Flour,Grocery,2023-11-06,340,1,Not as expected,416.47,Negative
+PROD2075,Amul,Smartwatch,Electronics,2023-07-11,430,1,Not as expected,1054.78,Negative
+PROD3846,Hindustan Unilever,Cooking Oil,Grocery,2023-07-26,79,5,Very good product,1764.7,Positive
+PROD4262,Patanjali,Toothpaste,FMCG,2023-05-08,26,4,Works great,148.59,Positive
+PROD7102,Hindustan Unilever,Earphones,Electronics,2023-09-16,213,1,Not as expected,1378.29,Negative
+PROD6640,Reliance,Wheat Flour,Grocery,2023-04-01,455,4,Works great,1194.42,Positive
+PROD3669,Patanjali,Smartwatch,Electronics,2023-12-19,56,3,It’s okay,103.53,Positive
+PROD7709,Godrej,Basmati Rice,Grocery,2023-04-24,341,2,Very bad experience,1371.51,Negative
+PROD1138,ITC,Shampoo,FMCG,2023-01-05,252,2,Waste of money,1312.37,Negative
+PROD6713,Patanjali,Smartwatch,Electronics,2023-06-06,374,3,Not bad,876.42,Positive
+PROD2676,Reliance,Smartphone,Electronics,2023-08-27,164,5,Loved it,1657.41,Positive
+PROD2771,Tata,Cooking Oil,Grocery,2023-07-11,297,5,Works great,1237.65,Positive
+PROD5895,Reliance,Soap,FMCG,2023-05-22,337,3,Just fine,1729.91,Positive
+PROD7620,Patanjali,Shampoo,FMCG,2023-05-04,470,1,Waste of money,1620.59,Negative
+PROD5250,Amul,Smartwatch,Electronics,2023-03-13,379,1,Very bad experience,1328.03,Negative
+PROD4643,Reliance,Earphones,Electronics,2023-01-19,308,5,Works great,1641.23,Positive
+PROD3967,Amul,Cooking Oil,Grocery,2023-09-01,474,3,Average product,1039.26,Negative
+PROD3999,Hindustan Unilever,Soap,FMCG,2023-03-07,389,3,Could be better,1464.11,Positive
+PROD7889,Amul,Smartwatch,Electronics,2023-02-15,123,3,Just fine,485.49,Positive
+PROD8709,Godrej,Earphones,Electronics,2023-05-14,309,3,It’s okay,954.33,Positive
+PROD9199,Tata,Cooking Oil,Grocery,2023-10-25,493,5,Highly satisfied,188.87,Positive
+PROD3250,Tata,Wheat Flour,Grocery,2023-09-29,162,4,Highly satisfied,155.42,Positive
+PROD2324,Patanjali,Earphones,Electronics,2023-10-19,467,4,Highly satisfied,329.29,Positive
+PROD4430,Reliance,Smartwatch,Electronics,2023-04-01,170,1,Very bad experience,59.19,Negative
+PROD8035,Godrej,Shampoo,FMCG,2023-03-23,260,1,Stopped working,302.34,Neutral
+PROD1230,Reliance,Earphones,Electronics,2023-07-16,12,1,Very bad experience,1090.88,Negative
+PROD4707,Hindustan Unilever,Basmati Rice,Grocery,2023-01-10,356,1,Not as expected,1272.04,Negative
+PROD3736,Amul,Earphones,Electronics,2023-03-08,62,4,Works great,1031.51,Positive
+PROD8105,Tata,Soap,FMCG,2023-05-29,243,5,Works great,1212.92,Positive
+PROD1313,Amul,Soap,FMCG,2023-09-08,193,2,Stopped working,371.52,Neutral
+PROD3017,Patanjali,Shampoo,FMCG,2023-03-09,118,1,Not as expected,1199.9,Negative
+PROD1796,Hindustan Unilever,Cooking Oil,Grocery,2023-01-20,202,3,Could be better,1553.94,Positive
+PROD7828,ITC,Shampoo,FMCG,2023-02-25,344,1,Poor quality,144.06,Negative
+PROD1152,Reliance,Smartphone,Electronics,2023-10-08,139,4,Highly satisfied,1418.64,Positive
+PROD3247,Hindustan Unilever,Smartwatch,Electronics,2023-02-21,349,5,Value for money,576.46,Neutral
+PROD9154,Reliance,Shampoo,FMCG,2023-11-13,70,3,It’s okay,272.32,Positive
+PROD7713,Patanjali,Basmati Rice,Grocery,2023-05-15,435,5,Works great,1947.58,Positive
+PROD6416,Hindustan Unilever,Toothpaste,FMCG,2023-10-08,264,2,Stopped working,1392.0,Neutral
+PROD3443,Patanjali,Toothpaste,FMCG,2023-12-10,55,1,Stopped working,1678.7,Neutral
+PROD5850,Tata,Basmati Rice,Grocery,2023-02-21,473,3,Not bad,1306.46,Positive
+PROD6901,Hindustan Unilever,Smartphone,Electronics,2023-02-21,426,2,Very bad experience,1754.57,Negative
+PROD1158,Godrej,Wheat Flour,Grocery,2023-08-07,388,1,Poor quality,235.25,Negative
+PROD5395,Godrej,Shampoo,FMCG,2023-11-28,97,3,Not bad,747.18,Positive
+PROD5453,Amul,Soap,FMCG,2023-06-25,103,1,Stopped working,831.52,Neutral
+PROD2852,Godrej,Smartwatch,Electronics,2023-09-02,419,4,Highly satisfied,1315.25,Positive
+PROD8908,Patanjali,Cooking Oil,Grocery,2023-01-31,492,2,Waste of money,252.24,Negative
+PROD1472,Godrej,Cooking Oil,Grocery,2023-08-13,102,5,Works great,790.51,Positive
+PROD8220,Godrej,Cooking Oil,Grocery,2023-03-08,257,4,Loved it,270.23,Positive
+PROD4669,Tata,Soap,FMCG,2023-12-02,170,1,Waste of money,1423.91,Negative
+PROD8895,Amul,Smartwatch,Electronics,2023-09-25,362,5,Highly satisfied,235.72,Positive
+PROD1894,Hindustan Unilever,Cooking Oil,Grocery,2023-11-25,207,2,Waste of money,1686.11,Negative
+PROD2226,Tata,Basmati Rice,Grocery,2023-09-16,444,4,Highly satisfied,1711.15,Positive
+PROD7203,Godrej,Earphones,Electronics,2023-05-04,179,3,Average product,148.18,Negative
+PROD8324,Reliance,Toothpaste,FMCG,2023-08-24,237,5,Loved it,923.79,Positive
+PROD9996,Hindustan Unilever,Soap,FMCG,2023-12-01,19,1,Poor quality,836.71,Negative
+PROD4389,Tata,Shampoo,FMCG,2023-11-13,336,3,Could be better,1785.72,Positive
+PROD6439,Amul,Wheat Flour,Grocery,2023-06-24,196,1,Stopped working,1642.35,Neutral
+PROD2596,ITC,Cooking Oil,Grocery,2023-08-31,376,3,It’s okay,1446.03,Positive
+PROD9973,Godrej,Basmati Rice,Grocery,2023-01-02,184,3,Just fine,1668.27,Positive
+PROD2752,ITC,Smartwatch,Electronics,2023-02-24,33,2,Stopped working,1010.22,Neutral
+PROD6536,Hindustan Unilever,Basmati Rice,Grocery,2023-04-07,71,4,Highly satisfied,470.4,Positive
+PROD8493,Tata,Smartphone,Electronics,2023-11-21,438,5,Loved it,290.28,Positive
+PROD8091,Amul,Cooking Oil,Grocery,2023-03-10,265,1,Poor quality,1084.21,Negative
+PROD3103,Godrej,Wheat Flour,Grocery,2023-09-18,409,2,Not as expected,1399.04,Negative
+PROD7859,Tata,Smartwatch,Electronics,2023-11-04,320,3,Not bad,1033.01,Positive
+PROD3185,ITC,Basmati Rice,Grocery,2023-05-21,213,3,Not bad,1942.46,Positive
+PROD6143,Patanjali,Smartwatch,Electronics,2023-12-25,463,5,Value for money,632.88,Neutral
+PROD6657,Amul,Cooking Oil,Grocery,2023-11-20,121,2,Very bad experience,458.94,Negative
+PROD2890,Amul,Shampoo,FMCG,2023-11-29,500,2,Very bad experience,1032.59,Negative
+PROD9747,Godrej,Smartwatch,Electronics,2023-09-03,308,5,Loved it,1888.21,Positive
+PROD1927,Hindustan Unilever,Smartphone,Electronics,2023-09-25,64,1,Poor quality,792.7,Negative
+PROD5835,Patanjali,Smartphone,Electronics,2023-05-27,359,3,It’s okay,335.54,Positive
+PROD4675,Patanjali,Basmati Rice,Grocery,2023-07-03,426,4,Value for money,249.84,Neutral
+PROD1769,Amul,Cooking Oil,Grocery,2023-07-19,131,5,Works great,1579.4,Positive
+PROD4327,Reliance,Earphones,Electronics,2023-12-17,170,5,Works great,154.91,Positive
+PROD4218,ITC,Smartphone,Electronics,2023-11-21,370,3,Could be better,1522.46,Positive
+PROD4063,Godrej,Basmati Rice,Grocery,2023-05-31,239,2,Poor quality,1967.73,Negative
+PROD5329,Patanjali,Cooking Oil,Grocery,2023-03-03,203,1,Waste of money,885.59,Negative
+PROD1654,Patanjali,Shampoo,FMCG,2023-05-11,12,3,Average product,959.35,Negative
+PROD9037,Patanjali,Smartwatch,Electronics,2023-01-27,406,5,Works great,1694.12,Positive
+PROD9529,Godrej,Cooking Oil,Grocery,2023-07-03,47,3,Average product,1074.52,Negative
+PROD4624,Tata,Basmati Rice,Grocery,2023-08-01,288,5,Works great,836.66,Positive
+PROD9691,Patanjali,Wheat Flour,Grocery,2023-06-19,194,3,Could be better,475.97,Positive
+PROD4994,Reliance,Cooking Oil,Grocery,2023-01-05,68,3,Could be better,919.05,Positive
+PROD5633,Tata,Wheat Flour,Grocery,2023-07-15,478,1,Waste of money,802.46,Negative
+PROD5856,Tata,Wheat Flour,Grocery,2023-09-21,421,5,Very good product,918.84,Positive
+PROD9736,Amul,Soap,FMCG,2023-09-21,52,1,Waste of money,376.42,Negative
+PROD2702,Tata,Basmati Rice,Grocery,2023-04-18,353,2,Stopped working,1736.65,Neutral
+PROD1389,Patanjali,Cooking Oil,Grocery,2023-08-11,341,1,Not as expected,1506.44,Negative
+PROD2154,Reliance,Wheat Flour,Grocery,2023-01-20,54,1,Very bad experience,155.82,Negative
+PROD6183,ITC,Soap,FMCG,2023-07-28,208,4,Loved it,1278.92,Positive
+PROD2036,Tata,Smartwatch,Electronics,2023-03-02,283,1,Waste of money,1300.77,Negative
+PROD2738,Godrej,Cooking Oil,Grocery,2023-01-24,368,1,Waste of money,747.52,Negative
+PROD7249,Hindustan Unilever,Wheat Flour,Grocery,2023-11-07,54,3,Not bad,1542.28,Positive
+PROD9941,Reliance,Basmati Rice,Grocery,2023-08-31,90,5,Loved it,478.74,Positive
+PROD3316,Hindustan Unilever,Basmati Rice,Grocery,2023-06-02,356,3,It’s okay,1916.91,Positive
+PROD5992,Tata,Toothpaste,FMCG,2023-10-21,315,4,Very good product,1097.45,Positive
+PROD3333,Patanjali,Cooking Oil,Grocery,2023-06-26,118,4,Value for money,1815.97,Neutral
+PROD1891,Patanjali,Toothpaste,FMCG,2023-11-12,437,3,Average product,428.94,Negative
+PROD5107,Godrej,Wheat Flour,Grocery,2023-11-27,291,1,Poor quality,616.77,Negative
+PROD2639,Tata,Shampoo,FMCG,2023-10-25,259,3,Average product,746.42,Negative
+PROD6008,Hindustan Unilever,Basmati Rice,Grocery,2023-04-10,172,4,Value for money,928.76,Neutral
+PROD3762,Amul,Basmati Rice,Grocery,2023-10-17,300,3,Not bad,1625.01,Positive
+PROD3200,Tata,Smartphone,Electronics,2023-04-24,374,4,Works great,589.53,Positive
+PROD8978,Amul,Wheat Flour,Grocery,2023-09-03,246,4,Works great,749.55,Positive
+PROD9824,ITC,Toothpaste,FMCG,2023-11-27,320,1,Not as expected,1691.5,Negative
+PROD1511,Patanjali,Smartwatch,Electronics,2023-11-17,49,1,Waste of money,1789.61,Negative
+PROD5269,Godrej,Cooking Oil,Grocery,2023-07-27,403,5,Very good product,464.88,Positive
+PROD5767,ITC,Wheat Flour,Grocery,2023-12-01,406,2,Not as expected,763.35,Negative
+PROD4913,Patanjali,Smartwatch,Electronics,2023-09-19,56,4,Very good product,759.54,Positive
+PROD3935,Godrej,Cooking Oil,Grocery,2023-03-26,397,5,Highly satisfied,323.72,Positive
+PROD4585,ITC,Cooking Oil,Grocery,2023-03-16,386,4,Very good product,1881.39,Positive
+PROD9485,Godrej,Smartphone,Electronics,2023-02-02,145,3,Average product,506.34,Negative
+PROD6309,Godrej,Earphones,Electronics,2023-08-29,479,4,Very good product,1769.03,Positive
+PROD9918,Tata,Cooking Oil,Grocery,2023-11-21,434,3,Just fine,1678.0,Positive
+PROD9465,ITC,Soap,FMCG,2023-12-01,203,3,It’s okay,1195.97,Positive
+PROD8976,Hindustan Unilever,Smartphone,Electronics,2023-09-22,217,3,Just fine,1643.61,Positive
+PROD2263,Godrej,Smartwatch,Electronics,2023-01-04,266,2,Not as expected,907.8,Negative
+PROD2938,ITC,Wheat Flour,Grocery,2023-04-19,86,2,Waste of money,356.85,Negative
+PROD8848,Amul,Soap,FMCG,2023-06-19,378,1,Stopped working,988.96,Neutral
+PROD3095,Patanjali,Basmati Rice,Grocery,2023-11-28,436,4,Very good product,93.77,Positive
+PROD3406,ITC,Basmati Rice,Grocery,2023-03-10,332,5,Value for money,126.42,Neutral
+PROD1305,Tata,Soap,FMCG,2023-04-03,274,4,Value for money,1218.75,Neutral
+PROD8723,Amul,Cooking Oil,Grocery,2023-05-26,494,1,Waste of money,472.36,Negative
+PROD3979,Godrej,Smartphone,Electronics,2023-04-23,435,4,Value for money,1221.64,Neutral
+PROD2127,ITC,Cooking Oil,Grocery,2023-05-16,95,3,Could be better,1848.59,Positive
+PROD7877,Patanjali,Earphones,Electronics,2023-03-09,65,1,Waste of money,444.58,Negative
+PROD1639,Godrej,Shampoo,FMCG,2023-02-19,100,4,Value for money,1808.14,Neutral
+PROD9835,Godrej,Cooking Oil,Grocery,2023-03-02,57,4,Value for money,1335.82,Neutral
+PROD9680,Godrej,Shampoo,FMCG,2023-11-29,230,5,Very good product,870.33,Positive
+PROD2600,Reliance,Soap,FMCG,2023-07-15,189,5,Value for money,1619.01,Neutral
+PROD5641,Reliance,Soap,FMCG,2023-09-02,402,2,Poor quality,1824.67,Negative
+PROD9561,ITC,Wheat Flour,Grocery,2023-05-12,106,1,Poor quality,1432.84,Negative
+PROD7698,Tata,Basmati Rice,Grocery,2023-07-12,345,2,Very bad experience,1391.15,Negative
+PROD7939,Hindustan Unilever,Toothpaste,FMCG,2023-08-07,343,5,Value for money,544.58,Neutral
+PROD8904,ITC,Smartwatch,Electronics,2023-05-22,358,4,Loved it,1522.2,Positive
+PROD6641,Patanjali,Smartwatch,Electronics,2023-10-12,257,3,Could be better,1977.59,Positive
+PROD3650,Godrej,Wheat Flour,Grocery,2023-03-12,447,1,Stopped working,1508.24,Neutral
+PROD1852,Tata,Shampoo,FMCG,2023-07-25,412,3,Could be better,1611.66,Positive
+PROD8133,Patanjali,Smartwatch,Electronics,2023-01-03,421,1,Stopped working,1655.35,Neutral
+PROD7564,Tata,Soap,FMCG,2023-04-24,199,1,Stopped working,1237.61,Neutral
+PROD9099,ITC,Cooking Oil,Grocery,2023-05-27,374,5,Highly satisfied,162.05,Positive
+PROD9364,Reliance,Toothpaste,FMCG,2023-12-03,486,5,Very good product,607.71,Positive
+PROD3579,ITC,Basmati Rice,Grocery,2023-11-11,96,1,Poor quality,751.49,Negative
+PROD9482,Tata,Earphones,Electronics,2023-06-30,352,4,Highly satisfied,840.63,Positive
+PROD6703,Tata,Cooking Oil,Grocery,2023-02-05,480,1,Waste of money,1121.71,Negative
+PROD1076,Hindustan Unilever,Smartphone,Electronics,2023-11-07,109,4,Value for money,1862.94,Neutral
+PROD6570,Hindustan Unilever,Soap,FMCG,2023-09-17,64,5,Works great,191.15,Positive
+PROD7178,Tata,Wheat Flour,Grocery,2023-10-03,426,5,Loved it,537.78,Positive
+PROD1448,ITC,Smartphone,Electronics,2023-06-23,407,4,Value for money,1379.11,Neutral
+PROD6172,Reliance,Soap,FMCG,2023-02-04,205,2,Not as expected,1369.98,Negative
+PROD7536,Reliance,Smartwatch,Electronics,2023-10-02,14,3,It’s okay,534.1,Positive
+PROD4580,Amul,Wheat Flour,Grocery,2023-02-08,293,2,Very bad experience,979.28,Negative
+PROD4847,ITC,Smartphone,Electronics,2023-12-16,486,2,Not as expected,1023.05,Negative
+PROD6833,Amul,Soap,FMCG,2023-04-16,127,2,Waste of money,1678.13,Negative
+PROD1692,Patanjali,Toothpaste,FMCG,2023-02-10,356,4,Value for money,1246.96,Neutral
+PROD5501,Godrej,Earphones,Electronics,2023-11-14,171,4,Value for money,1801.34,Neutral
+PROD1887,Reliance,Shampoo,FMCG,2023-05-24,213,2,Not as expected,1512.83,Negative
+PROD8490,ITC,Earphones,Electronics,2023-10-04,26,5,Highly satisfied,727.21,Positive
+PROD7216,Tata,Cooking Oil,Grocery,2023-08-24,171,1,Not as expected,73.05,Negative
+PROD4885,ITC,Soap,FMCG,2023-07-05,323,3,Just fine,414.95,Positive
+PROD7866,Hindustan Unilever,Smartwatch,Electronics,2023-06-25,197,2,Not as expected,1022.6,Negative
+PROD4744,Amul,Earphones,Electronics,2023-07-25,153,4,Highly satisfied,400.78,Positive
+PROD4212,Godrej,Shampoo,FMCG,2023-05-19,421,2,Stopped working,1132.91,Neutral
+PROD3203,Patanjali,Basmati Rice,Grocery,2023-08-31,422,1,Stopped working,394.38,Neutral
+PROD5111,Godrej,Cooking Oil,Grocery,2023-10-01,378,3,Just fine,1581.4,Positive
+PROD8807,ITC,Basmati Rice,Grocery,2023-07-23,60,2,Very bad experience,167.07,Negative
+PROD5222,Godrej,Basmati Rice,Grocery,2023-08-19,391,3,Just fine,556.55,Positive
+PROD9821,Hindustan Unilever,Soap,FMCG,2023-03-04,189,5,Value for money,437.97,Neutral
+PROD2284,Patanjali,Earphones,Electronics,2023-06-16,354,5,Loved it,1000.61,Positive
+PROD7911,Reliance,Wheat Flour,Grocery,2023-08-26,333,2,Very bad experience,1743.1,Negative
+PROD4739,Amul,Cooking Oil,Grocery,2023-07-27,444,1,Very bad experience,204.27,Negative
+PROD5444,Hindustan Unilever,Smartwatch,Electronics,2023-05-30,373,3,Not bad,1230.5,Positive
+PROD1378,Reliance,Smartwatch,Electronics,2023-10-28,276,4,Highly satisfied,857.28,Positive
+PROD2687,Patanjali,Basmati Rice,Grocery,2023-12-05,138,1,Stopped working,460.61,Neutral
+PROD2363,Tata,Soap,FMCG,2023-10-08,37,1,Waste of money,1553.32,Negative
+PROD5655,Tata,Smartwatch,Electronics,2023-03-21,53,4,Highly satisfied,653.27,Positive
+PROD6328,Reliance,Basmati Rice,Grocery,2023-03-09,279,2,Very bad experience,105.71,Negative
+PROD9835,Godrej,Earphones,Electronics,2023-10-04,488,3,Average product,1119.66,Negative
+PROD6073,Patanjali,Cooking Oil,Grocery,2023-08-22,333,5,Value for money,898.21,Neutral
+PROD7753,Hindustan Unilever,Smartwatch,Electronics,2023-04-27,422,1,Very bad experience,911.63,Negative
+PROD6634,Hindustan Unilever,Soap,FMCG,2023-01-06,10,5,Highly satisfied,1639.99,Positive
+PROD5908,Hindustan Unilever,Smartwatch,Electronics,2023-01-05,362,4,Loved it,1896.57,Positive
+PROD7745,Tata,Earphones,Electronics,2023-11-02,128,1,Not as expected,1119.01,Negative
+PROD5308,ITC,Earphones,Electronics,2023-05-08,93,4,Highly satisfied,1665.43,Positive
+PROD5664,Tata,Smartwatch,Electronics,2023-05-03,274,5,Works great,1624.77,Positive
+PROD3238,Amul,Cooking Oil,Grocery,2023-05-18,221,2,Not as expected,1714.29,Negative
+PROD9060,Hindustan Unilever,Shampoo,FMCG,2023-08-22,326,4,Value for money,580.66,Neutral
+PROD5622,Patanjali,Smartphone,Electronics,2023-03-19,35,5,Very good product,93.16,Positive
+PROD1241,Hindustan Unilever,Shampoo,FMCG,2023-08-13,382,1,Not as expected,503.98,Negative
+PROD1519,Reliance,Soap,FMCG,2023-08-04,169,4,Loved it,1996.03,Positive
+PROD3975,Hindustan Unilever,Toothpaste,FMCG,2023-01-29,146,4,Loved it,189.2,Positive
+PROD5049,Patanjali,Earphones,Electronics,2023-01-07,72,2,Stopped working,800.36,Neutral
+PROD8746,Amul,Toothpaste,FMCG,2023-08-24,386,1,Not as expected,1066.22,Negative
+PROD9534,Reliance,Wheat Flour,Grocery,2023-06-15,91,1,Waste of money,1502.21,Negative
+PROD4568,Tata,Earphones,Electronics,2023-11-23,162,2,Poor quality,752.83,Negative
+PROD2960,Tata,Shampoo,FMCG,2023-08-11,176,1,Very bad experience,376.35,Negative
+PROD7084,Reliance,Toothpaste,FMCG,2023-01-22,307,4,Highly satisfied,1392.39,Positive
+PROD1983,Godrej,Toothpaste,FMCG,2023-03-22,265,1,Very bad experience,1387.59,Negative
+PROD8992,Tata,Smartwatch,Electronics,2023-03-20,369,5,Highly satisfied,1593.36,Positive
+PROD4161,Patanjali,Smartwatch,Electronics,2023-11-27,397,3,Not bad,1620.77,Positive
+PROD8951,Tata,Wheat Flour,Grocery,2023-07-03,380,2,Poor quality,538.86,Negative
+PROD9906,Amul,Smartwatch,Electronics,2023-05-31,287,4,Highly satisfied,420.06,Positive
+PROD3627,Hindustan Unilever,Smartwatch,Electronics,2023-08-28,150,5,Value for money,1833.22,Neutral
+PROD1011,Tata,Basmati Rice,Grocery,2023-08-19,161,3,Not bad,1106.13,Positive
+PROD6965,Godrej,Cooking Oil,Grocery,2023-07-14,385,2,Waste of money,1771.72,Negative
+PROD7348,Godrej,Basmati Rice,Grocery,2023-06-14,379,1,Waste of money,1333.66,Negative
+PROD6285,Patanjali,Cooking Oil,Grocery,2023-09-12,402,5,Works great,350.56,Positive
+PROD3126,Reliance,Wheat Flour,Grocery,2023-02-26,59,5,Very good product,1334.84,Positive
+PROD7366,Patanjali,Toothpaste,FMCG,2023-02-24,258,2,Waste of money,242.57,Negative
+PROD4616,Amul,Smartwatch,Electronics,2023-11-16,369,5,Works great,549.08,Positive
+PROD8668,ITC,Basmati Rice,Grocery,2023-01-07,486,2,Poor quality,1328.71,Negative
+PROD5355,Godrej,Basmati Rice,Grocery,2023-07-04,295,4,Very good product,1652.95,Positive
+PROD9511,ITC,Shampoo,FMCG,2023-02-06,437,3,Average product,201.97,Negative
+PROD5075,Tata,Shampoo,FMCG,2023-04-29,282,4,Value for money,419.45,Neutral
+PROD6864,ITC,Basmati Rice,Grocery,2023-10-13,393,5,Very good product,859.61,Positive
+PROD7579,Amul,Smartwatch,Electronics,2023-12-07,228,1,Not as expected,375.28,Negative
+PROD6163,ITC,Smartwatch,Electronics,2023-03-22,283,5,Works great,913.87,Positive
+PROD4943,ITC,Earphones,Electronics,2023-07-31,401,4,Works great,1661.0,Positive
+PROD6898,ITC,Basmati Rice,Grocery,2023-07-12,402,5,Works great,1855.99,Positive
+PROD1267,Reliance,Earphones,Electronics,2023-01-01,381,1,Waste of money,1966.77,Negative
+PROD1355,ITC,Soap,FMCG,2023-01-04,163,2,Very bad experience,468.9,Negative
+PROD3534,Godrej,Wheat Flour,Grocery,2023-10-11,271,5,Value for money,1162.8,Neutral
+PROD5093,Tata,Soap,FMCG,2023-07-02,89,2,Waste of money,566.73,Negative
+PROD2264,Patanjali,Earphones,Electronics,2023-02-17,302,4,Highly satisfied,1159.68,Positive
+PROD5921,Amul,Earphones,Electronics,2023-03-30,259,5,Very good product,1648.05,Positive
+PROD6700,Tata,Cooking Oil,Grocery,2023-07-15,50,1,Very bad experience,1847.65,Negative
+PROD1187,Godrej,Earphones,Electronics,2023-03-03,455,2,Waste of money,1507.97,Negative
+PROD3450,Amul,Wheat Flour,Grocery,2023-01-28,166,5,Value for money,130.31,Neutral
+PROD8300,Hindustan Unilever,Cooking Oil,Grocery,2023-04-24,88,1,Stopped working,1363.59,Neutral
+PROD3425,Godrej,Cooking Oil,Grocery,2023-09-16,56,2,Stopped working,892.27,Neutral
+PROD2393,Patanjali,Smartphone,Electronics,2023-09-01,302,1,Very bad experience,1118.9,Negative
+PROD8993,Reliance,Wheat Flour,Grocery,2023-12-24,76,2,Not as expected,987.8,Negative
+PROD5034,Reliance,Cooking Oil,Grocery,2023-04-11,297,5,Value for money,1994.3,Neutral
+PROD7939,Patanjali,Soap,FMCG,2023-08-09,175,5,Loved it,224.71,Positive
+PROD3773,Hindustan Unilever,Smartphone,Electronics,2023-06-14,186,5,Works great,1328.05,Positive
+PROD4271,Hindustan Unilever,Wheat Flour,Grocery,2023-11-16,84,4,Highly satisfied,137.51,Positive
+PROD3419,Amul,Smartphone,Electronics,2023-02-13,67,1,Waste of money,523.94,Negative
+PROD1372,Godrej,Smartphone,Electronics,2023-06-25,365,1,Stopped working,644.98,Neutral
+PROD9991,Hindustan Unilever,Shampoo,FMCG,2023-10-03,118,2,Very bad experience,1115.53,Negative
+PROD1712,Reliance,Cooking Oil,Grocery,2023-03-14,365,1,Waste of money,784.38,Negative
+PROD1136,Hindustan Unilever,Toothpaste,FMCG,2023-05-26,112,5,Loved it,579.0,Positive
+PROD5792,Tata,Smartwatch,Electronics,2023-05-19,349,3,It’s okay,1735.35,Positive
+PROD6168,Godrej,Wheat Flour,Grocery,2023-04-29,204,5,Very good product,1954.39,Positive
+PROD1352,Reliance,Cooking Oil,Grocery,2023-02-15,105,2,Stopped working,1026.27,Neutral
+PROD1301,Tata,Shampoo,FMCG,2023-06-06,180,4,Highly satisfied,817.13,Positive
+PROD5519,Hindustan Unilever,Wheat Flour,Grocery,2023-07-01,330,3,Could be better,510.6,Positive
+PROD5590,Godrej,Shampoo,FMCG,2023-05-12,459,4,Very good product,1786.28,Positive
+PROD9531,Patanjali,Soap,FMCG,2023-07-21,346,2,Stopped working,221.2,Neutral
+PROD7987,Amul,Cooking Oil,Grocery,2023-12-18,126,4,Highly satisfied,518.7,Positive
+PROD9869,Hindustan Unilever,Wheat Flour,Grocery,2023-08-18,287,2,Not as expected,453.18,Negative
+PROD3378,Amul,Toothpaste,FMCG,2023-06-08,362,5,Loved it,1823.65,Positive
+PROD4016,Amul,Basmati Rice,Grocery,2023-06-12,44,5,Very good product,1089.28,Positive
+PROD7737,Hindustan Unilever,Shampoo,FMCG,2023-01-16,401,3,Not bad,1766.26,Positive
+PROD2749,Hindustan Unilever,Smartwatch,Electronics,2023-11-23,487,3,Average product,346.32,Negative
+PROD4783,Patanjali,Toothpaste,FMCG,2023-11-10,325,3,Could be better,1230.93,Positive
+PROD3196,ITC,Toothpaste,FMCG,2023-12-18,23,3,Not bad,204.98,Positive
+PROD9051,ITC,Wheat Flour,Grocery,2023-12-31,342,3,Not bad,408.75,Positive
+PROD5421,Reliance,Toothpaste,FMCG,2023-04-09,125,1,Poor quality,846.75,Negative
+PROD9027,Reliance,Shampoo,FMCG,2023-12-10,113,2,Stopped working,178.97,Neutral
+PROD7232,Amul,Earphones,Electronics,2023-05-07,228,4,Value for money,1563.62,Neutral
+PROD1630,Amul,Earphones,Electronics,2023-11-10,490,5,Value for money,1207.92,Neutral
+PROD9498,ITC,Soap,FMCG,2023-08-22,433,1,Not as expected,1761.67,Negative
+PROD4110,ITC,Smartwatch,Electronics,2023-01-21,295,4,Very good product,1056.45,Positive
+PROD5823,Hindustan Unilever,Earphones,Electronics,2023-06-05,406,3,Not bad,949.63,Positive
+PROD2481,ITC,Shampoo,FMCG,2023-09-22,472,2,Stopped working,953.98,Neutral
+PROD3216,Amul,Basmati Rice,Grocery,2023-04-03,408,5,Value for money,1878.79,Neutral
+PROD8449,Reliance,Earphones,Electronics,2023-08-19,22,2,Not as expected,934.68,Negative
+PROD2494,Tata,Earphones,Electronics,2023-12-21,342,2,Poor quality,1450.83,Negative
+PROD9383,Tata,Wheat Flour,Grocery,2023-11-21,195,1,Stopped working,1071.44,Neutral
+PROD3459,ITC,Soap,FMCG,2023-10-09,204,1,Very bad experience,1548.11,Negative
+PROD5731,Patanjali,Toothpaste,FMCG,2023-12-31,36,4,Loved it,650.72,Positive
+PROD1200,Amul,Toothpaste,FMCG,2023-03-09,113,1,Very bad experience,1263.99,Negative
+PROD4897,Reliance,Earphones,Electronics,2023-10-06,423,1,Stopped working,1235.57,Neutral
+PROD1107,Patanjali,Cooking Oil,Grocery,2023-09-01,242,4,Value for money,911.66,Neutral
+PROD1801,Patanjali,Wheat Flour,Grocery,2023-11-14,331,5,Highly satisfied,1649.24,Positive
+PROD5889,Patanjali,Toothpaste,FMCG,2023-12-01,188,1,Poor quality,333.48,Negative
+PROD3906,Hindustan Unilever,Toothpaste,FMCG,2023-02-25,223,2,Very bad experience,364.6,Negative
+PROD6289,Reliance,Cooking Oil,Grocery,2023-07-04,486,1,Very bad experience,231.6,Negative
+PROD3204,Hindustan Unilever,Smartphone,Electronics,2023-08-07,441,5,Loved it,176.61,Positive
+PROD1953,Tata,Wheat Flour,Grocery,2023-06-18,279,4,Highly satisfied,1073.06,Positive
+PROD5705,Tata,Cooking Oil,Grocery,2023-11-19,280,1,Waste of money,993.14,Negative
+PROD3125,Reliance,Wheat Flour,Grocery,2023-05-13,279,5,Works great,1990.3,Positive
+PROD4812,ITC,Wheat Flour,Grocery,2023-09-24,383,4,Highly satisfied,1010.38,Positive
+PROD4396,Amul,Smartphone,Electronics,2023-01-01,70,1,Poor quality,956.53,Negative
+PROD1185,Godrej,Wheat Flour,Grocery,2023-07-31,33,3,Average product,731.82,Negative
+PROD6307,Amul,Shampoo,FMCG,2023-05-25,140,1,Waste of money,650.16,Negative
+PROD1477,Godrej,Toothpaste,FMCG,2023-12-18,180,3,Could be better,822.3,Positive
+PROD8774,Godrej,Toothpaste,FMCG,2023-06-19,436,3,Not bad,1848.45,Positive
+PROD6490,Godrej,Shampoo,FMCG,2023-03-11,256,2,Waste of money,1273.04,Negative
+PROD9779,Reliance,Smartwatch,Electronics,2023-01-29,437,5,Works great,633.72,Positive
+PROD5595,Tata,Shampoo,FMCG,2023-12-17,179,3,Average product,179.12,Negative
+PROD7382,Godrej,Soap,FMCG,2023-07-12,330,5,Value for money,1692.69,Neutral
+PROD7780,Patanjali,Basmati Rice,Grocery,2023-06-07,371,3,Just fine,1434.19,Positive
+PROD3867,Tata,Smartphone,Electronics,2023-07-10,241,3,Just fine,471.47,Positive
+PROD8907,Tata,Smartphone,Electronics,2023-04-14,477,1,Poor quality,915.36,Negative
+PROD6084,ITC,Toothpaste,FMCG,2023-06-24,482,4,Value for money,1478.26,Neutral
+PROD4361,Godrej,Smartphone,Electronics,2023-02-20,430,5,Highly satisfied,1369.6,Positive
+PROD1721,Amul,Soap,FMCG,2023-07-18,375,5,Works great,275.88,Positive
+PROD1368,Amul,Basmati Rice,Grocery,2023-06-20,249,1,Very bad experience,251.05,Negative
+PROD9720,ITC,Smartwatch,Electronics,2023-04-18,174,2,Very bad experience,425.46,Negative
+PROD1249,Hindustan Unilever,Smartwatch,Electronics,2023-03-02,149,2,Poor quality,357.12,Negative
+PROD5440,ITC,Cooking Oil,Grocery,2023-02-22,115,5,Works great,733.12,Positive
+PROD6549,Patanjali,Wheat Flour,Grocery,2023-10-21,135,2,Waste of money,188.92,Negative
+PROD2735,ITC,Smartphone,Electronics,2023-03-08,24,4,Very good product,1811.42,Positive
+PROD8304,Reliance,Toothpaste,FMCG,2023-08-07,210,2,Waste of money,1424.12,Negative
+PROD2286,ITC,Earphones,Electronics,2023-06-20,428,2,Waste of money,1440.15,Negative
+PROD8625,Godrej,Smartwatch,Electronics,2023-03-09,57,4,Works great,239.66,Positive
+PROD7423,Reliance,Toothpaste,FMCG,2023-03-15,450,5,Works great,553.2,Positive
+PROD2070,Patanjali,Cooking Oil,Grocery,2023-06-19,413,3,It’s okay,933.9,Positive
+PROD3087,Reliance,Soap,FMCG,2023-09-03,246,2,Very bad experience,600.4,Negative
+PROD5949,ITC,Soap,FMCG,2024-01-01,417,1,Poor quality,685.45,Negative
+PROD3605,ITC,Earphones,Electronics,2023-10-30,221,2,Waste of money,1260.71,Negative
+PROD6606,Reliance,Smartphone,Electronics,2023-06-24,116,5,Loved it,890.74,Positive
+PROD8972,ITC,Basmati Rice,Grocery,2023-03-30,349,1,Waste of money,1491.77,Negative
+PROD3886,Tata,Cooking Oil,Grocery,2023-08-26,176,5,Loved it,240.43,Positive
+PROD6364,Hindustan Unilever,Smartphone,Electronics,2023-11-03,65,5,Loved it,1554.12,Positive
+PROD1003,Reliance,Cooking Oil,Grocery,2023-02-01,56,2,Waste of money,1643.22,Negative
+PROD8326,Godrej,Shampoo,FMCG,2023-03-18,241,5,Value for money,618.43,Neutral
+PROD8122,Patanjali,Shampoo,FMCG,2023-06-12,163,5,Works great,1598.98,Positive
+PROD3089,Amul,Smartphone,Electronics,2023-10-26,14,5,Loved it,1973.52,Positive
+PROD6885,Godrej,Smartphone,Electronics,2023-07-09,471,5,Very good product,1937.4,Positive
+PROD7271,Tata,Smartphone,Electronics,2023-05-01,231,5,Works great,818.82,Positive
+PROD7301,Reliance,Earphones,Electronics,2023-10-07,118,2,Not as expected,976.0,Negative
+PROD1257,Godrej,Earphones,Electronics,2023-03-20,157,2,Poor quality,311.84,Negative
+PROD8471,Patanjali,Wheat Flour,Grocery,2023-12-03,233,2,Stopped working,215.09,Neutral
+PROD8373,Godrej,Cooking Oil,Grocery,2023-08-06,329,2,Stopped working,936.07,Neutral
+PROD4878,Reliance,Smartphone,Electronics,2023-04-06,227,5,Loved it,64.49,Positive
+PROD1620,Amul,Wheat Flour,Grocery,2023-07-30,484,5,Very good product,1173.89,Positive
+PROD3327,ITC,Smartwatch,Electronics,2023-07-08,67,5,Very good product,988.99,Positive
+PROD2449,Amul,Cooking Oil,Grocery,2023-05-24,248,5,Value for money,202.56,Neutral
+PROD6119,Patanjali,Smartwatch,Electronics,2023-12-06,352,1,Waste of money,1383.94,Negative
+PROD8687,ITC,Soap,FMCG,2023-10-01,408,1,Waste of money,964.29,Negative
+PROD5981,ITC,Wheat Flour,Grocery,2023-08-04,190,3,It’s okay,613.96,Positive
+PROD1845,Amul,Wheat Flour,Grocery,2023-02-01,332,4,Value for money,1177.38,Neutral
+PROD9283,Amul,Smartwatch,Electronics,2023-11-16,23,3,Average product,995.28,Negative
+PROD1232,Tata,Earphones,Electronics,2023-03-09,325,3,Just fine,586.67,Positive
+PROD7058,Amul,Shampoo,FMCG,2023-03-31,475,5,Loved it,1490.99,Positive
+PROD1542,Godrej,Soap,FMCG,2023-12-25,130,4,Value for money,402.58,Neutral
+PROD7277,Hindustan Unilever,Toothpaste,FMCG,2023-11-01,488,2,Stopped working,1683.35,Neutral
+PROD1890,Patanjali,Wheat Flour,Grocery,2023-11-23,95,2,Very bad experience,1176.63,Negative
+PROD8803,Amul,Smartphone,Electronics,2023-01-27,95,4,Works great,827.55,Positive
+PROD9690,Amul,Basmati Rice,Grocery,2023-07-14,359,4,Highly satisfied,975.45,Positive
+PROD9687,Godrej,Smartphone,Electronics,2023-05-28,484,4,Works great,794.91,Positive
+PROD5466,Amul,Toothpaste,FMCG,2023-09-30,336,3,Not bad,1914.56,Positive
+PROD4193,Hindustan Unilever,Earphones,Electronics,2023-02-20,140,5,Highly satisfied,812.75,Positive
+PROD2113,ITC,Smartwatch,Electronics,2023-12-20,102,3,It’s okay,1117.84,Positive
+PROD5127,Tata,Smartphone,Electronics,2023-09-26,63,4,Works great,735.46,Positive
+PROD2995,Patanjali,Toothpaste,FMCG,2023-11-14,57,1,Not as expected,1880.09,Negative
+PROD4027,Amul,Toothpaste,FMCG,2023-11-06,76,4,Value for money,1329.97,Neutral
+PROD8429,Tata,Basmati Rice,Grocery,2023-05-10,160,4,Very good product,1337.93,Positive
+PROD5543,Hindustan Unilever,Smartwatch,Electronics,2023-12-08,404,3,It’s okay,551.81,Positive
+PROD3915,Godrej,Soap,FMCG,2023-07-18,180,1,Very bad experience,553.57,Negative
+PROD2776,Reliance,Soap,FMCG,2023-04-13,322,4,Loved it,397.96,Positive
+PROD2692,Patanjali,Wheat Flour,Grocery,2023-04-22,324,1,Very bad experience,1829.59,Negative
+PROD9154,Tata,Toothpaste,FMCG,2023-10-20,382,3,It’s okay,1565.61,Positive
+PROD3483,Patanjali,Cooking Oil,Grocery,2023-01-01,487,1,Very bad experience,1345.98,Negative
+PROD8833,Amul,Earphones,Electronics,2023-10-22,11,5,Loved it,1429.83,Positive
+PROD2985,Reliance,Smartwatch,Electronics,2023-02-05,286,2,Stopped working,56.45,Neutral
+PROD6985,ITC,Wheat Flour,Grocery,2023-06-20,359,3,It’s okay,831.2,Positive
+PROD1644,ITC,Smartphone,Electronics,2023-08-24,399,3,Average product,1313.2,Negative
+PROD8970,Reliance,Basmati Rice,Grocery,2023-06-03,366,4,Works great,1798.1,Positive
+PROD4907,Tata,Wheat Flour,Grocery,2023-04-08,81,1,Waste of money,426.53,Negative
+PROD1268,Reliance,Smartphone,Electronics,2023-10-04,339,3,Not bad,1024.38,Positive
+PROD9570,Tata,Smartphone,Electronics,2023-06-22,413,1,Not as expected,840.74,Negative
+PROD1604,Reliance,Cooking Oil,Grocery,2023-03-18,389,5,Very good product,504.32,Positive
+PROD1750,Amul,Soap,FMCG,2023-12-01,19,4,Value for money,1819.0,Neutral
+PROD2594,Patanjali,Cooking Oil,Grocery,2023-03-08,17,2,Very bad experience,1283.69,Negative
+PROD4613,Reliance,Basmati Rice,Grocery,2023-10-30,42,1,Waste of money,272.65,Negative
+PROD9943,Tata,Soap,FMCG,2023-06-22,425,4,Value for money,682.26,Neutral
+PROD5487,Patanjali,Smartphone,Electronics,2023-01-24,313,2,Poor quality,704.23,Negative
+PROD1666,Patanjali,Smartphone,Electronics,2023-12-23,199,5,Highly satisfied,371.76,Positive
+PROD2322,Patanjali,Shampoo,FMCG,2023-11-10,202,2,Stopped working,80.48,Neutral
+PROD8798,Tata,Toothpaste,FMCG,2023-02-15,371,5,Loved it,1779.48,Positive
+PROD4919,Amul,Toothpaste,FMCG,2023-03-15,337,3,Not bad,1070.02,Positive
+PROD2442,Patanjali,Cooking Oil,Grocery,2023-01-20,315,2,Waste of money,1448.54,Negative
+PROD9686,Amul,Earphones,Electronics,2023-08-03,12,5,Very good product,509.5,Positive
+PROD5528,Tata,Wheat Flour,Grocery,2023-10-04,269,2,Not as expected,955.22,Negative
+PROD1706,Tata,Toothpaste,FMCG,2023-03-18,360,4,Highly satisfied,1020.15,Positive
+PROD8424,Tata,Wheat Flour,Grocery,2023-05-26,117,4,Value for money,540.19,Neutral
+PROD8947,Tata,Shampoo,FMCG,2023-01-27,483,5,Very good product,392.98,Positive
+PROD7865,ITC,Toothpaste,FMCG,2023-05-01,379,4,Works great,1205.78,Positive
+PROD4884,Patanjali,Cooking Oil,Grocery,2023-06-16,127,1,Poor quality,685.96,Negative
+PROD8936,Amul,Smartphone,Electronics,2023-07-12,466,2,Waste of money,193.38,Negative
+PROD7119,Tata,Smartphone,Electronics,2023-04-21,485,5,Loved it,937.23,Positive
+PROD6503,Patanjali,Smartwatch,Electronics,2023-04-10,333,3,Average product,1952.33,Negative
+PROD8513,Patanjali,Shampoo,FMCG,2023-10-19,40,3,Not bad,316.18,Positive
+PROD3784,Reliance,Soap,FMCG,2023-04-23,463,3,Could be better,1227.09,Positive
+PROD8757,ITC,Basmati Rice,Grocery,2023-02-14,220,5,Highly satisfied,1003.97,Positive
+PROD5060,Godrej,Earphones,Electronics,2023-01-08,383,4,Highly satisfied,1485.55,Positive
+PROD1083,Hindustan Unilever,Smartwatch,Electronics,2023-04-24,466,5,Value for money,1895.19,Neutral
+PROD7460,Reliance,Toothpaste,FMCG,2023-08-29,385,5,Value for money,115.56,Neutral
+PROD7662,Reliance,Basmati Rice,Grocery,2023-08-20,263,2,Poor quality,212.03,Negative
+PROD3650,Patanjali,Soap,FMCG,2023-06-01,132,1,Very bad experience,81.06,Negative
+PROD7641,Amul,Smartwatch,Electronics,2023-10-26,22,4,Highly satisfied,954.33,Positive
+PROD7305,Patanjali,Smartwatch,Electronics,2023-08-26,370,1,Poor quality,1727.75,Negative
+PROD9887,Amul,Smartwatch,Electronics,2023-01-17,161,4,Value for money,1518.13,Neutral
+PROD9433,ITC,Shampoo,FMCG,2023-02-11,327,3,It’s okay,1484.73,Positive
+PROD6989,Amul,Smartphone,Electronics,2023-02-26,206,3,It’s okay,957.44,Positive
+PROD3267,Hindustan Unilever,Shampoo,FMCG,2023-10-14,370,1,Not as expected,1143.48,Negative
+PROD4437,Hindustan Unilever,Shampoo,FMCG,2023-02-28,342,4,Value for money,1487.89,Neutral
+PROD5540,Godrej,Basmati Rice,Grocery,2023-06-14,190,3,Not bad,1031.95,Positive
+PROD8703,Tata,Soap,FMCG,2023-06-26,241,4,Very good product,1027.83,Positive
+PROD2075,Amul,Cooking Oil,Grocery,2023-09-30,470,3,Just fine,931.36,Positive
+PROD2791,Patanjali,Smartphone,Electronics,2023-02-11,210,2,Poor quality,612.33,Negative
+PROD9530,Patanjali,Smartphone,Electronics,2023-12-23,85,4,Highly satisfied,343.47,Positive
+PROD6680,Amul,Soap,FMCG,2023-08-02,359,5,Loved it,1866.86,Positive
+PROD4806,Reliance,Smartwatch,Electronics,2023-11-27,20,3,It’s okay,418.67,Positive
+PROD8965,Godrej,Cooking Oil,Grocery,2023-06-21,220,5,Works great,718.45,Positive
+PROD3161,ITC,Cooking Oil,Grocery,2023-09-29,441,5,Works great,918.25,Positive
+PROD1775,Godrej,Smartphone,Electronics,2023-05-14,126,4,Works great,775.21,Positive
+PROD9770,Patanjali,Earphones,Electronics,2023-08-22,499,2,Not as expected,1256.33,Negative
+PROD1674,Hindustan Unilever,Toothpaste,FMCG,2023-12-29,364,2,Poor quality,364.45,Negative
+PROD1568,Hindustan Unilever,Basmati Rice,Grocery,2023-08-14,143,3,Could be better,409.77,Positive
+PROD9743,Amul,Earphones,Electronics,2023-03-17,200,4,Highly satisfied,1102.74,Positive
+PROD6246,Hindustan Unilever,Toothpaste,FMCG,2023-07-27,486,4,Loved it,1548.61,Positive
+PROD8764,Patanjali,Shampoo,FMCG,2023-10-07,269,3,Just fine,1312.13,Positive
+PROD6549,Hindustan Unilever,Cooking Oil,Grocery,2023-03-17,419,5,Loved it,1470.66,Positive
+PROD2914,Amul,Shampoo,FMCG,2023-09-03,470,1,Waste of money,321.88,Negative
+PROD6347,Hindustan Unilever,Soap,FMCG,2023-11-13,440,2,Poor quality,919.65,Negative
+PROD4206,Tata,Cooking Oil,Grocery,2023-04-10,308,5,Works great,483.18,Positive
+PROD4185,Tata,Shampoo,FMCG,2023-08-17,356,1,Stopped working,1952.89,Neutral
+PROD7513,Reliance,Smartwatch,Electronics,2023-11-06,271,1,Very bad experience,1821.47,Negative
+PROD6756,Patanjali,Wheat Flour,Grocery,2023-07-09,207,3,Just fine,73.77,Positive
+PROD8249,Hindustan Unilever,Smartwatch,Electronics,2023-02-14,120,4,Loved it,1495.98,Positive
+PROD2410,Hindustan Unilever,Shampoo,FMCG,2023-08-06,383,4,Value for money,322.16,Neutral
+PROD7156,Patanjali,Soap,FMCG,2023-09-01,454,5,Very good product,1973.94,Positive
+PROD8571,Tata,Soap,FMCG,2023-11-24,478,3,Could be better,858.3,Positive
+PROD1691,Amul,Basmati Rice,Grocery,2023-04-13,105,4,Loved it,614.45,Positive
+PROD1439,Godrej,Smartwatch,Electronics,2023-06-05,262,5,Highly satisfied,1492.72,Positive
+PROD7834,Godrej,Toothpaste,FMCG,2023-05-15,163,4,Works great,292.15,Positive
+PROD9078,Patanjali,Smartwatch,Electronics,2023-11-27,135,1,Very bad experience,282.74,Negative
+PROD8799,Tata,Cooking Oil,Grocery,2023-07-05,307,4,Works great,1152.87,Positive
+PROD3668,Amul,Soap,FMCG,2023-09-20,385,5,Works great,84.21,Positive
+PROD5467,ITC,Toothpaste,FMCG,2023-06-13,246,2,Poor quality,746.9,Negative
+PROD9419,Hindustan Unilever,Smartwatch,Electronics,2023-07-02,34,3,It’s okay,618.74,Positive
+PROD5932,Patanjali,Basmati Rice,Grocery,2023-02-18,316,2,Very bad experience,1110.24,Negative
+PROD3354,Hindustan Unilever,Cooking Oil,Grocery,2023-12-19,195,1,Very bad experience,1092.12,Negative
+PROD2678,Tata,Shampoo,FMCG,2023-05-25,200,4,Highly satisfied,853.39,Positive
+PROD9612,Patanjali,Shampoo,FMCG,2023-04-24,435,2,Waste of money,1600.46,Negative
+PROD2909,Godrej,Cooking Oil,Grocery,2023-10-10,369,1,Poor quality,863.83,Negative
+PROD8240,Godrej,Toothpaste,FMCG,2023-09-03,188,3,Average product,1397.55,Negative
+PROD4643,ITC,Wheat Flour,Grocery,2023-03-30,373,3,It’s okay,106.08,Positive
+PROD2287,Patanjali,Basmati Rice,Grocery,2023-12-19,126,3,Average product,294.42,Negative
+PROD4217,Reliance,Basmati Rice,Grocery,2023-02-09,19,4,Very good product,1526.8,Positive
+PROD1709,Tata,Shampoo,FMCG,2023-09-20,313,1,Very bad experience,964.71,Negative
+PROD4365,Tata,Smartwatch,Electronics,2023-01-06,396,1,Waste of money,1575.62,Negative
+PROD6698,ITC,Toothpaste,FMCG,2023-12-10,189,1,Very bad experience,227.02,Negative
+PROD1229,Hindustan Unilever,Shampoo,FMCG,2023-11-10,133,5,Very good product,1161.96,Positive
+PROD1070,ITC,Shampoo,FMCG,2023-04-09,154,2,Waste of money,1808.24,Negative
+PROD4033,Amul,Toothpaste,FMCG,2023-09-16,445,4,Value for money,764.6,Neutral
+PROD4510,Reliance,Basmati Rice,Grocery,2023-04-03,437,3,Not bad,1963.54,Positive
+PROD9515,ITC,Soap,FMCG,2023-02-27,399,3,It’s okay,291.05,Positive
+PROD6375,Patanjali,Earphones,Electronics,2023-12-27,157,5,Very good product,1458.17,Positive
+PROD4700,Reliance,Soap,FMCG,2023-05-26,243,5,Loved it,1485.54,Positive
+PROD7020,ITC,Earphones,Electronics,2023-08-08,106,1,Stopped working,1794.77,Neutral
+PROD2392,Patanjali,Shampoo,FMCG,2023-09-09,354,1,Waste of money,822.92,Negative
+PROD2060,Tata,Soap,FMCG,2023-07-25,365,5,Highly satisfied,1956.26,Positive
+PROD9177,Hindustan Unilever,Soap,FMCG,2023-04-13,314,4,Loved it,289.39,Positive
+PROD7626,Hindustan Unilever,Cooking Oil,Grocery,2023-10-31,149,4,Value for money,744.39,Neutral
+PROD9017,Reliance,Wheat Flour,Grocery,2023-03-17,403,4,Works great,260.67,Positive
+PROD9161,Reliance,Shampoo,FMCG,2023-03-10,25,1,Poor quality,1488.71,Negative
+PROD2578,Amul,Toothpaste,FMCG,2023-07-15,319,3,Could be better,347.84,Positive
+PROD5809,Godrej,Shampoo,FMCG,2023-09-24,402,4,Highly satisfied,1595.83,Positive
+PROD9955,Amul,Earphones,Electronics,2023-09-16,143,5,Value for money,720.05,Neutral
+PROD8250,Tata,Soap,FMCG,2023-03-02,206,4,Loved it,663.39,Positive
+PROD9052,Reliance,Toothpaste,FMCG,2023-04-01,295,3,Average product,1775.17,Negative
+PROD9837,Reliance,Soap,FMCG,2023-07-19,259,1,Stopped working,1159.27,Neutral
+PROD5315,ITC,Earphones,Electronics,2023-10-15,447,2,Stopped working,1038.04,Neutral
+PROD6250,Reliance,Wheat Flour,Grocery,2023-11-12,356,3,Just fine,1544.62,Positive
+PROD1440,Tata,Shampoo,FMCG,2023-01-24,75,3,Could be better,730.31,Positive
+PROD7749,Godrej,Wheat Flour,Grocery,2023-07-14,59,4,Works great,723.03,Positive
+PROD2391,Hindustan Unilever,Shampoo,FMCG,2023-05-06,136,2,Waste of money,1313.76,Negative
+PROD1612,Amul,Soap,FMCG,2023-02-28,182,2,Very bad experience,88.44,Negative
+PROD1364,Reliance,Wheat Flour,Grocery,2023-10-18,273,4,Loved it,569.91,Positive
+PROD2639,Hindustan Unilever,Smartwatch,Electronics,2023-07-19,175,5,Loved it,240.57,Positive
+PROD3730,Amul,Basmati Rice,Grocery,2023-06-22,264,5,Works great,1632.34,Positive
+PROD9779,ITC,Earphones,Electronics,2023-08-12,113,4,Very good product,1289.12,Positive
+PROD2506,Patanjali,Earphones,Electronics,2023-01-25,162,5,Highly satisfied,833.95,Positive
+PROD8786,Amul,Basmati Rice,Grocery,2023-10-31,182,3,Could be better,181.18,Positive
+PROD8092,Reliance,Soap,FMCG,2023-02-09,343,3,Just fine,1034.05,Positive
+PROD8425,Amul,Wheat Flour,Grocery,2023-04-13,222,4,Value for money,539.97,Neutral
+PROD9178,Amul,Basmati Rice,Grocery,2023-01-10,331,5,Value for money,1732.28,Neutral
+PROD1981,Patanjali,Cooking Oil,Grocery,2023-08-28,147,5,Loved it,1627.42,Positive
+PROD8133,ITC,Soap,FMCG,2023-08-25,85,2,Very bad experience,343.42,Negative
+PROD3631,Reliance,Smartphone,Electronics,2023-11-21,114,4,Works great,570.52,Positive
+PROD1453,Hindustan Unilever,Cooking Oil,Grocery,2023-05-01,217,2,Not as expected,271.44,Negative
+PROD4309,Patanjali,Earphones,Electronics,2023-09-06,296,4,Very good product,872.94,Positive
+PROD1691,Patanjali,Smartphone,Electronics,2023-01-15,142,3,Average product,1334.41,Negative
+PROD2041,Amul,Smartphone,Electronics,2023-01-29,450,1,Very bad experience,662.11,Negative
+PROD4867,Reliance,Smartwatch,Electronics,2023-12-03,463,1,Not as expected,823.95,Negative
+PROD9605,Tata,Cooking Oil,Grocery,2023-09-14,487,1,Waste of money,1067.82,Negative
+PROD6395,Hindustan Unilever,Smartphone,Electronics,2023-05-02,317,1,Very bad experience,1557.72,Negative
+PROD3363,Godrej,Cooking Oil,Grocery,2023-07-19,422,2,Not as expected,1874.23,Negative
+PROD1916,Tata,Toothpaste,FMCG,2023-05-21,235,4,Value for money,545.9,Neutral
+PROD8780,Reliance,Wheat Flour,Grocery,2023-12-25,495,1,Stopped working,667.16,Neutral
+PROD1345,Amul,Soap,FMCG,2023-03-16,195,4,Works great,1445.56,Positive
+PROD5144,Amul,Basmati Rice,Grocery,2023-12-06,419,1,Not as expected,1396.83,Negative
+PROD9763,ITC,Earphones,Electronics,2023-11-24,500,3,It’s okay,1811.16,Positive
+PROD5929,Godrej,Soap,FMCG,2023-07-18,14,4,Works great,1858.64,Positive
+PROD7656,Tata,Soap,FMCG,2023-04-18,450,2,Very bad experience,1835.99,Negative
+PROD6451,Godrej,Soap,FMCG,2023-02-11,431,4,Loved it,968.63,Positive
+PROD7895,Amul,Smartphone,Electronics,2023-03-24,367,3,Just fine,1037.35,Positive
+PROD8264,ITC,Cooking Oil,Grocery,2023-06-17,242,1,Not as expected,1535.85,Negative
+PROD2347,Godrej,Basmati Rice,Grocery,2023-01-02,215,2,Very bad experience,1275.18,Negative
+PROD6233,Tata,Toothpaste,FMCG,2023-09-22,375,2,Stopped working,1701.57,Neutral
+PROD5616,Reliance,Smartwatch,Electronics,2023-03-10,143,2,Very bad experience,1390.56,Negative
+PROD4677,Patanjali,Soap,FMCG,2023-07-08,103,4,Value for money,1758.96,Neutral
+PROD4248,Tata,Shampoo,FMCG,2023-11-28,323,2,Stopped working,1818.35,Neutral
+PROD3445,Hindustan Unilever,Basmati Rice,Grocery,2023-01-26,215,5,Works great,886.36,Positive
+PROD8433,Tata,Smartphone,Electronics,2023-10-18,70,1,Stopped working,1451.24,Neutral
+PROD5717,Godrej,Wheat Flour,Grocery,2023-03-02,124,2,Very bad experience,421.56,Negative
+PROD4102,Amul,Earphones,Electronics,2023-03-08,230,2,Very bad experience,1220.16,Negative
+PROD8388,Reliance,Soap,FMCG,2023-03-16,24,3,Average product,1953.45,Negative
+PROD3182,Patanjali,Smartwatch,Electronics,2023-12-17,341,4,Loved it,217.19,Positive
+PROD5198,Godrej,Smartwatch,Electronics,2023-07-23,361,2,Stopped working,1441.01,Neutral
+PROD6804,Tata,Shampoo,FMCG,2023-01-31,36,3,Not bad,1865.58,Positive
+PROD7241,ITC,Cooking Oil,Grocery,2023-12-30,393,1,Waste of money,60.45,Negative
+PROD5264,Hindustan Unilever,Smartwatch,Electronics,2023-07-09,77,5,Highly satisfied,130.19,Positive
+PROD9690,Patanjali,Wheat Flour,Grocery,2023-06-23,459,4,Works great,307.24,Positive
+PROD5603,Reliance,Soap,FMCG,2023-03-01,170,1,Stopped working,1958.11,Neutral
+PROD9470,Amul,Earphones,Electronics,2023-05-25,472,3,Just fine,1245.22,Positive
+PROD8208,Hindustan Unilever,Smartphone,Electronics,2023-06-11,387,4,Highly satisfied,1539.17,Positive
+PROD3679,Tata,Toothpaste,FMCG,2023-01-28,127,2,Very bad experience,119.93,Negative
+PROD8949,Amul,Earphones,Electronics,2023-03-01,468,4,Works great,129.54,Positive
+PROD3959,Reliance,Smartphone,Electronics,2023-03-17,73,3,Just fine,232.48,Positive
+PROD4479,Godrej,Shampoo,FMCG,2023-09-18,431,3,Could be better,1148.33,Positive
+PROD9161,ITC,Shampoo,FMCG,2023-10-20,102,4,Highly satisfied,1844.81,Positive
+PROD2737,Amul,Soap,FMCG,2023-01-14,155,1,Waste of money,818.63,Negative
+PROD8439,Godrej,Smartphone,Electronics,2023-01-15,51,4,Loved it,1669.86,Positive
+PROD8423,Amul,Smartwatch,Electronics,2023-12-03,12,3,Could be better,1941.05,Positive
+PROD6294,Hindustan Unilever,Cooking Oil,Grocery,2023-10-19,76,2,Very bad experience,1733.39,Negative
+PROD5180,Godrej,Shampoo,FMCG,2023-02-06,290,5,Loved it,793.71,Positive
+PROD5668,Patanjali,Soap,FMCG,2023-02-15,20,2,Stopped working,367.73,Neutral

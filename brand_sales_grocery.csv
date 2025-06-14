@@ -1,0 +1,201 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit
+PROD4068,Godrej,Wheat Flour,Grocery,2023-01-01,324,5,Works well,561.58
+PROD1333,Amul,Cooking Oil,Grocery,2023-02-04,498,5,Value for money,812.79
+PROD6850,Tata,Wheat Flour,Grocery,2023-11-22,208,3,It’s okay,1472.51
+PROD3185,Patanjali,Wheat Flour,Grocery,2023-12-03,331,5,Loved it,200.31
+PROD3986,ITC,Wheat Flour,Grocery,2023-06-23,426,4,Works well,982.05
+PROD1686,HUL,Basmati Rice,Grocery,2023-08-23,28,1,Poor quality,475.49
+PROD4131,ITC,Wheat Flour,Grocery,2023-07-23,427,3,It’s okay,837.39
+PROD7029,Reliance,Wheat Flour,Grocery,2023-01-25,453,3,It’s okay,1000.81
+PROD9129,HUL,Wheat Flour,Grocery,2023-08-14,468,3,Average product,1436.89
+PROD8055,Reliance,Wheat Flour,Grocery,2023-09-23,146,4,Excellent product,1211.66
+PROD8305,Amul,Cooking Oil,Grocery,2023-06-14,62,3,Fine,166.1
+PROD8126,HUL,Basmati Rice,Grocery,2023-08-16,189,3,Could be better,698.34
+PROD9406,Reliance,Cooking Oil,Grocery,2023-01-30,48,4,Loved it,1023.22
+PROD2101,Patanjali,Basmati Rice,Grocery,2023-11-08,357,1,Poor quality,1182.9
+PROD3513,Amul,Cooking Oil,Grocery,2023-07-05,206,1,Disappointed,1426.73
+PROD7012,Amul,Wheat Flour,Grocery,2023-08-16,400,2,Disappointed,161.48
+PROD9176,HUL,Wheat Flour,Grocery,2023-05-23,137,1,Poor quality,1442.75
+PROD5678,Tata,Cooking Oil,Grocery,2023-05-15,406,4,Very good quality,427.42
+PROD2438,Tata,Basmati Rice,Grocery,2023-03-11,446,2,Stopped working,157.38
+PROD3580,Amul,Cooking Oil,Grocery,2023-12-30,43,3,Fine,847.5
+PROD9094,ITC,Wheat Flour,Grocery,2023-04-25,72,2,Poor quality,1478.44
+PROD2412,ITC,Wheat Flour,Grocery,2023-10-21,198,5,Very good quality,727.74
+PROD2208,Godrej,Wheat Flour,Grocery,2023-09-03,279,4,Value for money,645.65
+PROD3102,HUL,Wheat Flour,Grocery,2023-02-07,240,5,Loved it,725.46
+PROD3507,Godrej,Basmati Rice,Grocery,2023-09-15,476,1,Disappointed,1308.91
+PROD5653,Patanjali,Basmati Rice,Grocery,2023-06-15,488,3,Could be better,1078.53
+PROD9740,Patanjali,Wheat Flour,Grocery,2023-11-22,499,2,Very bad experience,848.72
+PROD6531,HUL,Cooking Oil,Grocery,2023-03-28,313,2,Poor quality,1415.33
+PROD4453,Tata,Basmati Rice,Grocery,2023-01-24,495,5,Loved it,980.11
+PROD5949,HUL,Cooking Oil,Grocery,2023-01-16,264,5,Loved it,1339.05
+PROD3589,Reliance,Basmati Rice,Grocery,2023-12-17,217,1,Not worth it,481.28
+PROD6231,Godrej,Wheat Flour,Grocery,2023-08-26,114,2,Very bad experience,543.28
+PROD8642,Patanjali,Wheat Flour,Grocery,2023-07-09,273,3,Average product,864.39
+PROD7850,Godrej,Wheat Flour,Grocery,2023-05-07,82,3,Neutral feeling,190.38
+PROD3610,Reliance,Basmati Rice,Grocery,2023-06-17,488,3,Average product,887.65
+PROD7442,Godrej,Cooking Oil,Grocery,2023-09-13,460,1,Not worth it,497.38
+PROD8710,Patanjali,Basmati Rice,Grocery,2023-10-26,190,3,Neutral feeling,120.55
+PROD7606,Tata,Cooking Oil,Grocery,2023-02-25,230,3,Fine,244.21
+PROD5728,Godrej,Basmati Rice,Grocery,2023-01-27,301,3,Could be better,864.63
+PROD2946,ITC,Wheat Flour,Grocery,2023-08-19,401,5,Value for money,847.29
+PROD3363,Godrej,Basmati Rice,Grocery,2023-07-11,416,5,Loved it,1480.84
+PROD6456,ITC,Cooking Oil,Grocery,2023-07-25,266,1,Poor quality,108.37
+PROD6218,Godrej,Cooking Oil,Grocery,2023-03-18,320,2,Very bad experience,1345.04
+PROD9025,ITC,Wheat Flour,Grocery,2023-06-03,313,5,Value for money,537.74
+PROD6040,Reliance,Wheat Flour,Grocery,2023-01-09,198,1,Stopped working,530.3
+PROD4728,Godrej,Cooking Oil,Grocery,2023-05-16,345,5,Value for money,1185.21
+PROD3421,Godrej,Cooking Oil,Grocery,2023-03-29,278,5,Works well,962.09
+PROD7861,ITC,Basmati Rice,Grocery,2023-12-25,66,4,Loved it,326.64
+PROD2020,HUL,Wheat Flour,Grocery,2023-04-15,220,5,Works well,777.64
+PROD7173,Patanjali,Cooking Oil,Grocery,2023-10-15,176,4,Value for money,1497.28
+PROD8932,Godrej,Basmati Rice,Grocery,2023-09-30,185,3,Could be better,842.1
+PROD4396,Amul,Basmati Rice,Grocery,2023-10-13,162,3,Fine,376.06
+PROD2996,Godrej,Wheat Flour,Grocery,2023-06-28,296,3,Fine,1403.87
+PROD1689,Reliance,Wheat Flour,Grocery,2023-06-26,498,2,Very bad experience,1170.94
+PROD4505,Tata,Cooking Oil,Grocery,2023-06-27,483,3,Neutral feeling,691.45
+PROD4920,Amul,Cooking Oil,Grocery,2023-10-15,366,1,Disappointed,443.85
+PROD7771,HUL,Basmati Rice,Grocery,2023-09-29,125,1,Not worth it,975.02
+PROD3587,Godrej,Cooking Oil,Grocery,2023-02-21,358,1,Disappointed,1167.61
+PROD5676,Godrej,Cooking Oil,Grocery,2023-09-02,343,3,Fine,339.21
+PROD7846,HUL,Basmati Rice,Grocery,2023-10-21,128,1,Poor quality,825.97
+PROD1151,Reliance,Basmati Rice,Grocery,2023-07-23,413,3,It’s okay,768.31
+PROD9901,ITC,Cooking Oil,Grocery,2023-02-24,485,3,Neutral feeling,1475.34
+PROD3662,Reliance,Basmati Rice,Grocery,2023-09-16,249,1,Very bad experience,445.61
+PROD4164,Amul,Cooking Oil,Grocery,2023-04-06,17,3,Could be better,1118.1
+PROD6372,Reliance,Cooking Oil,Grocery,2023-11-24,469,4,Value for money,637.96
+PROD5064,HUL,Wheat Flour,Grocery,2023-02-18,104,4,Loved it,1473.44
+PROD1187,Godrej,Wheat Flour,Grocery,2023-05-01,238,3,Fine,1142.95
+PROD6026,Amul,Cooking Oil,Grocery,2023-12-21,130,1,Stopped working,140.08
+PROD5833,HUL,Wheat Flour,Grocery,2023-09-15,482,3,It’s okay,1347.92
+PROD7121,Patanjali,Cooking Oil,Grocery,2023-04-23,500,2,Stopped working,243.67
+PROD2341,ITC,Cooking Oil,Grocery,2023-08-30,397,2,Poor quality,829.4
+PROD9972,HUL,Cooking Oil,Grocery,2023-07-05,49,1,Not worth it,1380.0
+PROD2904,ITC,Cooking Oil,Grocery,2023-03-18,94,5,Works well,525.77
+PROD8429,ITC,Cooking Oil,Grocery,2023-09-08,56,4,Excellent product,1353.39
+PROD1356,Godrej,Cooking Oil,Grocery,2023-08-22,298,4,Loved it,133.72
+PROD7941,Reliance,Wheat Flour,Grocery,2023-01-02,391,1,Not worth it,365.96
+PROD1519,Tata,Cooking Oil,Grocery,2023-10-05,40,1,Stopped working,1405.15
+PROD7266,Patanjali,Wheat Flour,Grocery,2023-03-11,402,4,Loved it,980.21
+PROD6697,Godrej,Wheat Flour,Grocery,2023-02-11,359,5,Very good quality,1448.01
+PROD1372,ITC,Basmati Rice,Grocery,2023-07-21,280,2,Not worth it,234.65
+PROD8546,HUL,Wheat Flour,Grocery,2023-10-06,227,2,Poor quality,821.3
+PROD7868,Amul,Basmati Rice,Grocery,2023-04-07,489,1,Not worth it,1319.05
+PROD1797,Patanjali,Basmati Rice,Grocery,2023-02-04,61,4,Value for money,911.22
+PROD3295,Tata,Cooking Oil,Grocery,2023-07-25,234,2,Not worth it,389.79
+PROD5944,Reliance,Basmati Rice,Grocery,2023-10-22,173,3,Average product,887.34
+PROD3869,ITC,Cooking Oil,Grocery,2023-04-24,221,1,Disappointed,485.73
+PROD6222,Godrej,Cooking Oil,Grocery,2023-01-25,186,4,Value for money,1415.3
+PROD4948,Patanjali,Wheat Flour,Grocery,2023-06-03,202,5,Works well,316.62
+PROD7761,Reliance,Wheat Flour,Grocery,2023-12-29,83,1,Disappointed,1218.38
+PROD2295,ITC,Cooking Oil,Grocery,2023-03-10,208,2,Very bad experience,402.14
+PROD7179,Tata,Wheat Flour,Grocery,2023-10-02,380,1,Very bad experience,1252.64
+PROD4422,Patanjali,Basmati Rice,Grocery,2023-10-28,380,2,Stopped working,1023.6
+PROD4974,Tata,Wheat Flour,Grocery,2023-04-19,489,1,Stopped working,325.53
+PROD9743,Patanjali,Wheat Flour,Grocery,2023-10-10,174,4,Works well,1174.5
+PROD8692,Amul,Wheat Flour,Grocery,2023-07-04,272,4,Excellent product,1330.08
+PROD1265,Amul,Basmati Rice,Grocery,2023-06-10,221,2,Poor quality,116.29
+PROD6404,ITC,Cooking Oil,Grocery,2023-10-24,378,2,Poor quality,655.49
+PROD9005,ITC,Wheat Flour,Grocery,2023-05-06,265,3,Fine,848.43
+PROD4015,Patanjali,Wheat Flour,Grocery,2023-06-30,96,5,Works well,252.94
+PROD7756,Tata,Cooking Oil,Grocery,2023-02-08,493,1,Not worth it,1236.09
+PROD8471,Patanjali,Cooking Oil,Grocery,2023-02-04,372,2,Disappointed,268.99
+PROD1257,ITC,Basmati Rice,Grocery,2023-11-23,351,4,Works well,1404.16
+PROD5697,ITC,Cooking Oil,Grocery,2023-07-30,16,3,Could be better,74.25
+PROD2578,Reliance,Cooking Oil,Grocery,2023-12-24,355,2,Not worth it,674.33
+PROD7502,Patanjali,Basmati Rice,Grocery,2023-11-14,279,3,Fine,416.01
+PROD2320,Godrej,Wheat Flour,Grocery,2023-08-24,299,2,Very bad experience,402.65
+PROD3807,Godrej,Basmati Rice,Grocery,2023-07-14,203,1,Not worth it,851.42
+PROD9653,Reliance,Wheat Flour,Grocery,2023-08-11,340,5,Excellent product,1187.35
+PROD2218,Patanjali,Basmati Rice,Grocery,2023-12-21,464,3,It’s okay,871.84
+PROD4394,ITC,Cooking Oil,Grocery,2023-12-03,26,3,It’s okay,310.06
+PROD4939,Reliance,Cooking Oil,Grocery,2023-07-23,485,2,Disappointed,161.56
+PROD9204,ITC,Cooking Oil,Grocery,2023-06-19,206,2,Not worth it,1145.63
+PROD7499,Tata,Basmati Rice,Grocery,2023-08-12,128,3,Could be better,1266.08
+PROD6829,HUL,Basmati Rice,Grocery,2023-05-20,411,4,Very good quality,1489.25
+PROD5839,Patanjali,Wheat Flour,Grocery,2023-12-15,309,1,Disappointed,1007.97
+PROD6188,Tata,Cooking Oil,Grocery,2023-02-12,147,2,Stopped working,273.62
+PROD2674,Tata,Basmati Rice,Grocery,2023-01-03,492,3,Fine,496.99
+PROD2692,Patanjali,Basmati Rice,Grocery,2023-08-09,239,5,Works well,857.63
+PROD1202,Amul,Basmati Rice,Grocery,2023-10-11,57,3,Neutral feeling,915.54
+PROD9537,Godrej,Wheat Flour,Grocery,2023-02-13,381,2,Disappointed,1356.65
+PROD3390,Godrej,Cooking Oil,Grocery,2023-03-28,81,3,Neutral feeling,439.93
+PROD5123,Godrej,Basmati Rice,Grocery,2023-05-22,225,1,Very bad experience,484.64
+PROD3219,HUL,Cooking Oil,Grocery,2023-09-11,314,4,Excellent product,944.17
+PROD6484,Godrej,Basmati Rice,Grocery,2023-06-20,440,3,Neutral feeling,949.28
+PROD6147,ITC,Cooking Oil,Grocery,2023-03-11,163,2,Stopped working,514.96
+PROD4971,Amul,Wheat Flour,Grocery,2023-05-30,386,4,Value for money,1057.69
+PROD9939,Amul,Wheat Flour,Grocery,2023-07-21,196,5,Very good quality,215.14
+PROD8183,Reliance,Cooking Oil,Grocery,2023-10-09,23,4,Very good quality,1431.86
+PROD5139,Tata,Cooking Oil,Grocery,2023-07-29,354,3,Average product,773.99
+PROD7566,Godrej,Cooking Oil,Grocery,2023-07-13,47,5,Works well,701.15
+PROD2392,Tata,Cooking Oil,Grocery,2023-07-04,369,5,Value for money,1348.48
+PROD7547,HUL,Basmati Rice,Grocery,2023-12-07,191,5,Excellent product,291.19
+PROD4621,Tata,Wheat Flour,Grocery,2023-01-06,60,5,Value for money,425.17
+PROD6651,Godrej,Wheat Flour,Grocery,2023-08-26,405,5,Very good quality,1035.36
+PROD3321,Tata,Wheat Flour,Grocery,2023-06-01,222,1,Not worth it,1384.79
+PROD8801,Amul,Wheat Flour,Grocery,2023-08-22,411,4,Loved it,349.96
+PROD2885,HUL,Wheat Flour,Grocery,2023-12-23,241,3,It’s okay,512.42
+PROD3858,HUL,Wheat Flour,Grocery,2023-02-25,356,2,Disappointed,1210.07
+PROD4053,ITC,Wheat Flour,Grocery,2023-08-07,500,4,Very good quality,719.98
+PROD7370,Tata,Wheat Flour,Grocery,2023-11-11,462,5,Works well,336.12
+PROD2667,Patanjali,Cooking Oil,Grocery,2023-04-16,152,1,Disappointed,1140.87
+PROD6134,Amul,Wheat Flour,Grocery,2023-04-11,244,4,Value for money,215.23
+PROD3826,Godrej,Cooking Oil,Grocery,2023-10-28,68,4,Value for money,554.49
+PROD6003,ITC,Cooking Oil,Grocery,2023-02-13,354,1,Poor quality,244.22
+PROD3258,Amul,Basmati Rice,Grocery,2023-12-22,82,4,Value for money,790.7
+PROD3733,Patanjali,Wheat Flour,Grocery,2023-09-07,335,2,Disappointed,829.2
+PROD6882,Patanjali,Wheat Flour,Grocery,2023-04-06,171,5,Excellent product,1270.88
+PROD9109,Patanjali,Wheat Flour,Grocery,2023-04-10,427,5,Value for money,606.72
+PROD2354,Godrej,Cooking Oil,Grocery,2023-08-01,373,4,Very good quality,1267.84
+PROD8492,Amul,Basmati Rice,Grocery,2023-01-17,150,3,Average product,376.02
+PROD9880,ITC,Cooking Oil,Grocery,2023-02-27,303,5,Loved it,215.6
+PROD5877,Godrej,Cooking Oil,Grocery,2023-10-07,121,1,Poor quality,1485.17
+PROD4882,Amul,Wheat Flour,Grocery,2023-06-28,451,4,Excellent product,1234.26
+PROD3719,ITC,Cooking Oil,Grocery,2023-12-19,189,5,Works well,1298.52
+PROD5605,Reliance,Basmati Rice,Grocery,2023-04-16,422,3,Could be better,136.07
+PROD3221,HUL,Wheat Flour,Grocery,2023-05-30,158,5,Excellent product,880.47
+PROD3396,Amul,Basmati Rice,Grocery,2023-12-02,74,2,Poor quality,1067.07
+PROD7786,Reliance,Basmati Rice,Grocery,2023-12-13,211,5,Loved it,759.72
+PROD9447,Tata,Wheat Flour,Grocery,2023-11-21,416,1,Stopped working,1326.18
+PROD2526,Amul,Cooking Oil,Grocery,2023-08-21,496,5,Excellent product,757.66
+PROD4568,HUL,Cooking Oil,Grocery,2023-12-24,193,5,Works well,1282.65
+PROD3139,Godrej,Basmati Rice,Grocery,2023-05-18,175,3,Could be better,1251.1
+PROD3035,HUL,Wheat Flour,Grocery,2023-01-25,33,4,Excellent product,194.38
+PROD3604,Godrej,Wheat Flour,Grocery,2023-01-01,500,2,Very bad experience,670.31
+PROD7493,HUL,Basmati Rice,Grocery,2023-07-04,138,2,Not worth it,169.51
+PROD4496,HUL,Cooking Oil,Grocery,2023-04-30,229,1,Not worth it,1000.45
+PROD1132,Patanjali,Basmati Rice,Grocery,2023-10-31,125,4,Excellent product,803.19
+PROD7276,Reliance,Basmati Rice,Grocery,2023-08-05,365,1,Poor quality,241.65
+PROD7270,Reliance,Cooking Oil,Grocery,2023-02-22,62,3,Average product,504.36
+PROD3688,HUL,Cooking Oil,Grocery,2023-03-15,45,1,Disappointed,819.24
+PROD8248,HUL,Wheat Flour,Grocery,2023-04-20,331,4,Value for money,1134.99
+PROD8035,Tata,Basmati Rice,Grocery,2023-03-13,395,4,Loved it,228.58
+PROD5668,Patanjali,Basmati Rice,Grocery,2023-05-22,340,5,Value for money,172.16
+PROD5842,Amul,Cooking Oil,Grocery,2023-04-16,275,2,Stopped working,930.04
+PROD9655,Godrej,Basmati Rice,Grocery,2023-07-17,67,5,Excellent product,399.57
+PROD6986,Amul,Wheat Flour,Grocery,2023-03-09,208,5,Works well,1298.18
+PROD4534,Reliance,Wheat Flour,Grocery,2023-02-07,18,1,Very bad experience,901.68
+PROD7939,Reliance,Basmati Rice,Grocery,2023-07-23,269,5,Works well,465.41
+PROD6077,HUL,Basmati Rice,Grocery,2023-10-02,285,3,It’s okay,943.27
+PROD6081,Patanjali,Cooking Oil,Grocery,2023-03-21,284,5,Excellent product,523.79
+PROD8428,Reliance,Cooking Oil,Grocery,2023-05-03,39,4,Excellent product,404.5
+PROD1185,HUL,Wheat Flour,Grocery,2023-12-03,389,1,Poor quality,304.69
+PROD7092,Amul,Wheat Flour,Grocery,2023-09-25,274,3,Average product,1185.33
+PROD8034,Reliance,Cooking Oil,Grocery,2023-05-18,385,1,Very bad experience,1335.3
+PROD8457,Tata,Cooking Oil,Grocery,2023-05-15,374,1,Stopped working,1463.82
+PROD2889,Godrej,Basmati Rice,Grocery,2023-10-18,95,3,It’s okay,583.15
+PROD1753,ITC,Cooking Oil,Grocery,2023-01-02,32,1,Poor quality,1295.1
+PROD7870,Godrej,Wheat Flour,Grocery,2023-03-18,101,1,Disappointed,1400.18
+PROD7108,Patanjali,Wheat Flour,Grocery,2023-08-02,478,3,It’s okay,1094.42
+PROD7568,HUL,Cooking Oil,Grocery,2023-01-27,101,5,Excellent product,373.62
+PROD8483,Reliance,Wheat Flour,Grocery,2023-05-25,406,3,It’s okay,1275.03
+PROD8600,Patanjali,Wheat Flour,Grocery,2023-05-30,298,5,Very good quality,1187.54
+PROD1104,Godrej,Cooking Oil,Grocery,2023-04-11,385,2,Poor quality,1355.64
+PROD1023,Patanjali,Basmati Rice,Grocery,2023-10-05,187,1,Very bad experience,972.12
+PROD9061,HUL,Cooking Oil,Grocery,2023-06-07,63,2,Stopped working,347.53
+PROD7767,HUL,Basmati Rice,Grocery,2023-05-24,57,2,Disappointed,113.66
+PROD2226,HUL,Wheat Flour,Grocery,2023-02-13,307,2,Stopped working,188.59
+PROD6345,HUL,Wheat Flour,Grocery,2023-03-08,131,3,Neutral feeling,472.93
+PROD2785,Amul,Wheat Flour,Grocery,2023-04-30,48,2,Disappointed,1418.15
+PROD6870,Patanjali,Basmati Rice,Grocery,2023-08-19,248,1,Disappointed,505.35

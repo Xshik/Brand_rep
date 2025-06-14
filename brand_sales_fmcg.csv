@@ -1,0 +1,201 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit
+PROD2424,HUL,Shampoo,FMCG,21-05-2023,135,1,Disappointed,373.66
+PROD4257,Tata,Shampoo,FMCG,17-02-2023,121,5,Excellent product,387.36
+PROD7924,Godrej,Shampoo,FMCG,29-10-2023,152,1,Poor quality,1223.67
+PROD7224,Patanjali,Soap,FMCG,21-04-2023,500,1,Not worth it,1157.07
+PROD9785,Reliance,Soap,FMCG,26-06-2023,319,1,Stopped working,433.56
+PROD4150,Tata,Soap,FMCG,10-10-2023,160,5,Loved it,1252.64
+PROD2654,HUL,Shampoo,FMCG,27-04-2023,405,1,Poor quality,469.61
+PROD4432,Godrej,Soap,FMCG,22-11-2023,437,3,Fine,579.01
+PROD5010,HUL,Toothpaste,FMCG,28-11-2023,46,2,Disappointed,933.24
+PROD6313,Godrej,Soap,FMCG,19-05-2023,483,5,Very good quality,978
+PROD4456,Reliance,Shampoo,FMCG,17-01-2023,422,3,Fine,507.41
+PROD5339,HUL,Shampoo,FMCG,13-09-2023,212,4,Very good quality,1332.79
+PROD7543,HUL,Shampoo,FMCG,15-10-2023,285,5,Works well,430.98
+PROD3504,Patanjali,Shampoo,FMCG,18-09-2023,262,1,Not worth it,181.82
+PROD9669,Godrej,Toothpaste,FMCG,02-11-2023,42,5,Works well,607.91
+PROD6573,Reliance,Toothpaste,FMCG,06-01-2023,358,5,Loved it,1095.05
+PROD3927,Godrej,Soap,FMCG,22-03-2023,242,3,Could be better,54.71
+PROD3646,Amul,Toothpaste,FMCG,24-11-2023,269,2,Very bad experience,933.01
+PROD4923,Amul,Toothpaste,FMCG,08-09-2023,19,3,Fine,212.21
+PROD3060,ITC,Shampoo,FMCG,10-02-2023,53,1,Disappointed,1111.27
+PROD4470,Godrej,Toothpaste,FMCG,09-10-2023,94,5,Works well,434.33
+PROD8397,Amul,Toothpaste,FMCG,24-07-2023,353,4,Value for money,992.32
+PROD4608,Patanjali,Shampoo,FMCG,02-02-2023,183,5,Very good quality,80.5
+PROD2160,HUL,Shampoo,FMCG,20-11-2023,40,1,Very bad experience,381.97
+PROD8744,HUL,Soap,FMCG,06-09-2023,119,5,Value for money,831.89
+PROD7939,Reliance,Soap,FMCG,28-07-2023,107,4,Loved it,186.77
+PROD7596,Reliance,Soap,FMCG,28-01-2023,354,1,Not worth it,997.51
+PROD4006,Patanjali,Shampoo,FMCG,09-04-2023,107,2,Stopped working,827.61
+PROD1828,Patanjali,Soap,FMCG,08-02-2023,236,5,Excellent product,1221.63
+PROD7570,Reliance,Shampoo,FMCG,02-05-2023,95,4,Very good quality,639.3
+PROD7930,Godrej,Shampoo,FMCG,02-01-2023,209,4,Loved it,434.54
+PROD1998,Patanjali,Shampoo,FMCG,01-06-2023,121,5,Value for money,1454.63
+PROD1931,Tata,Shampoo,FMCG,27-10-2023,254,5,Very good quality,779.13
+PROD2964,Tata,Shampoo,FMCG,01-11-2023,44,2,Stopped working,1029.06
+PROD9565,ITC,Toothpaste,FMCG,21-01-2023,327,5,Value for money,168.88
+PROD3144,Patanjali,Soap,FMCG,09-12-2023,376,3,Neutral feeling,505.57
+PROD2200,Amul,Soap,FMCG,07-02-2023,14,5,Excellent product,714.51
+PROD7054,Amul,Toothpaste,FMCG,09-03-2023,487,1,Poor quality,556.06
+PROD5905,Godrej,Shampoo,FMCG,06-10-2023,370,5,Excellent product,488.65
+PROD5462,Amul,Shampoo,FMCG,01-03-2023,465,5,Very good quality,205.2
+PROD9004,Patanjali,Toothpaste,FMCG,25-06-2023,114,3,Could be better,1046.87
+PROD6464,Tata,Shampoo,FMCG,21-11-2023,226,1,Not worth it,1252.55
+PROD1158,Amul,Toothpaste,FMCG,24-03-2023,389,4,Value for money,690.66
+PROD3426,HUL,Shampoo,FMCG,18-03-2023,289,3,Could be better,102.24
+PROD4441,Tata,Shampoo,FMCG,07-06-2023,196,1,Very bad experience,1353.52
+PROD3532,Tata,Toothpaste,FMCG,01-07-2023,409,4,Value for money,861.83
+PROD7745,Reliance,Shampoo,FMCG,01-04-2023,461,2,Very bad experience,647.83
+PROD4644,Patanjali,Soap,FMCG,26-12-2023,65,1,Stopped working,604.69
+PROD1387,Amul,Soap,FMCG,06-06-2023,430,2,Poor quality,1203.25
+PROD9346,Amul,Soap,FMCG,23-05-2023,452,3,Fine,150.66
+PROD3925,Reliance,Toothpaste,FMCG,02-10-2023,179,1,Very bad experience,1411.89
+PROD9379,Tata,Shampoo,FMCG,02-11-2023,232,3,Neutral feeling,551.25
+PROD9518,ITC,Soap,FMCG,08-04-2023,140,4,Excellent product,114.36
+PROD6143,Godrej,Soap,FMCG,05-02-2023,495,3,Could be better,1013.14
+PROD5844,Amul,Toothpaste,FMCG,17-09-2023,168,3,Neutral feeling,1016.99
+PROD5930,Godrej,Shampoo,FMCG,07-12-2023,491,2,Disappointed,599.76
+PROD6279,Reliance,Toothpaste,FMCG,01-01-2023,165,4,Value for money,466.02
+PROD5649,Godrej,Soap,FMCG,12-12-2023,119,2,Not worth it,791.2
+PROD1400,Reliance,Shampoo,FMCG,01-05-2023,354,2,Poor quality,500.11
+PROD4185,Godrej,Shampoo,FMCG,09-11-2023,445,4,Works well,1164.31
+PROD7965,Godrej,Soap,FMCG,05-05-2023,85,1,Not worth it,1001.28
+PROD2988,Reliance,Shampoo,FMCG,23-12-2023,275,5,Very good quality,723.6
+PROD6198,Reliance,Shampoo,FMCG,26-08-2023,351,5,Value for money,820.14
+PROD3607,Reliance,Toothpaste,FMCG,16-09-2023,228,5,Works well,1254.33
+PROD4919,Amul,Soap,FMCG,07-05-2023,440,5,Works well,974.61
+PROD9849,Tata,Soap,FMCG,01-01-2024,156,3,Fine,390.02
+PROD7797,Patanjali,Shampoo,FMCG,29-04-2023,206,2,Not worth it,1056.23
+PROD1320,ITC,Soap,FMCG,27-08-2023,222,4,Works well,140.29
+PROD9947,Tata,Soap,FMCG,30-06-2023,162,4,Value for money,1142.54
+PROD7624,Patanjali,Soap,FMCG,20-05-2023,233,4,Loved it,754.18
+PROD1444,Patanjali,Soap,FMCG,15-11-2023,283,4,Value for money,89.1
+PROD7211,Godrej,Toothpaste,FMCG,11-03-2023,453,1,Very bad experience,719.46
+PROD7906,Godrej,Shampoo,FMCG,17-06-2023,182,4,Loved it,1153.78
+PROD2124,Godrej,Shampoo,FMCG,10-01-2023,393,3,Average product,832.16
+PROD3068,Patanjali,Shampoo,FMCG,13-04-2023,439,2,Poor quality,79.55
+PROD3749,Tata,Toothpaste,FMCG,16-10-2023,495,3,Fine,366.05
+PROD7149,Amul,Shampoo,FMCG,25-02-2023,306,3,Could be better,87.23
+PROD5941,Patanjali,Toothpaste,FMCG,08-02-2023,313,2,Not worth it,1051.39
+PROD9289,Reliance,Toothpaste,FMCG,22-01-2023,187,3,Fine,822.48
+PROD8532,Reliance,Shampoo,FMCG,04-08-2023,431,4,Loved it,760.79
+PROD8616,Patanjali,Soap,FMCG,25-09-2023,343,5,Works well,441.62
+PROD8385,ITC,Toothpaste,FMCG,18-05-2023,175,1,Very bad experience,1284.98
+PROD6325,ITC,Soap,FMCG,09-11-2023,352,1,Stopped working,599.53
+PROD5526,Patanjali,Soap,FMCG,01-07-2023,418,3,Could be better,424.61
+PROD4937,Patanjali,Toothpaste,FMCG,13-02-2023,133,4,Value for money,1094.11
+PROD4630,HUL,Toothpaste,FMCG,09-09-2023,239,1,Very bad experience,1199.75
+PROD9698,Patanjali,Toothpaste,FMCG,06-06-2023,349,4,Value for money,893.26
+PROD6023,HUL,Soap,FMCG,09-10-2023,179,4,Loved it,560.13
+PROD4138,Tata,Shampoo,FMCG,09-04-2023,171,5,Very good quality,223.35
+PROD5636,Godrej,Toothpaste,FMCG,22-05-2023,380,5,Value for money,904.9
+PROD3073,Amul,Shampoo,FMCG,27-04-2023,194,1,Disappointed,310.19
+PROD2680,Tata,Shampoo,FMCG,11-10-2023,159,2,Stopped working,1061.26
+PROD5136,Amul,Toothpaste,FMCG,29-08-2023,255,2,Not worth it,688.68
+PROD3485,Reliance,Shampoo,FMCG,03-02-2023,215,5,Excellent product,763.03
+PROD4697,Amul,Toothpaste,FMCG,13-02-2023,137,4,Value for money,221.75
+PROD1986,Godrej,Soap,FMCG,02-06-2023,450,4,Loved it,903.36
+PROD3847,HUL,Shampoo,FMCG,19-04-2023,145,2,Poor quality,1007.62
+PROD1534,Tata,Shampoo,FMCG,29-07-2023,240,4,Loved it,1049.59
+PROD5334,HUL,Soap,FMCG,25-05-2023,369,1,Poor quality,1296.43
+PROD2169,Tata,Soap,FMCG,06-10-2023,125,3,Average product,989.07
+PROD8195,Reliance,Shampoo,FMCG,07-06-2023,314,5,Loved it,1135.99
+PROD9847,HUL,Soap,FMCG,05-06-2023,368,3,Could be better,633.64
+PROD5102,Tata,Soap,FMCG,03-11-2023,30,3,Could be better,1339.66
+PROD5415,Patanjali,Shampoo,FMCG,12-12-2023,438,5,Excellent product,1297.75
+PROD8141,Godrej,Shampoo,FMCG,23-09-2023,343,3,Average product,691.23
+PROD6403,Godrej,Shampoo,FMCG,28-06-2023,219,1,Poor quality,533.3
+PROD8451,Godrej,Toothpaste,FMCG,28-05-2023,349,5,Excellent product,1420.53
+PROD1018,Amul,Soap,FMCG,15-06-2023,69,4,Value for money,1456.77
+PROD1845,Tata,Soap,FMCG,07-04-2023,275,4,Works well,574.58
+PROD1472,ITC,Soap,FMCG,09-03-2023,484,4,Excellent product,467.64
+PROD4681,Patanjali,Toothpaste,FMCG,09-06-2023,292,4,Excellent product,69.83
+PROD5479,Tata,Soap,FMCG,28-11-2023,436,3,Could be better,273.26
+PROD9327,Godrej,Soap,FMCG,05-05-2023,243,4,Very good quality,849.33
+PROD1042,Amul,Shampoo,FMCG,01-08-2023,184,5,Loved it,1404.66
+PROD8316,Amul,Toothpaste,FMCG,28-10-2023,306,4,Very good quality,1498.41
+PROD4090,Amul,Soap,FMCG,10-10-2023,400,4,Loved it,837.97
+PROD8749,Godrej,Toothpaste,FMCG,30-04-2023,448,1,Very bad experience,1174.54
+PROD9229,HUL,Soap,FMCG,30-11-2023,87,1,Poor quality,768.23
+PROD3361,Reliance,Shampoo,FMCG,14-08-2023,61,4,Excellent product,812.63
+PROD7512,Patanjali,Toothpaste,FMCG,08-02-2023,250,3,Fine,1183.21
+PROD9864,Reliance,Soap,FMCG,12-12-2023,449,3,Neutral feeling,823.75
+PROD2480,Tata,Toothpaste,FMCG,01-05-2023,333,3,Average product,1042.38
+PROD5906,Reliance,Shampoo,FMCG,21-11-2023,370,4,Very good quality,1315.24
+PROD5000,Amul,Shampoo,FMCG,29-01-2023,160,4,Very good quality,569.77
+PROD4945,HUL,Toothpaste,FMCG,03-04-2023,97,5,Works well,303.85
+PROD1153,Patanjali,Toothpaste,FMCG,29-04-2023,246,4,Loved it,974.96
+PROD5901,HUL,Soap,FMCG,07-10-2023,90,3,Could be better,157.1
+PROD2747,Amul,Toothpaste,FMCG,22-08-2023,442,4,Works well,488.08
+PROD7484,ITC,Soap,FMCG,03-07-2023,304,3,It’s okay,479.01
+PROD9138,ITC,Shampoo,FMCG,18-12-2023,408,1,Disappointed,1129.77
+PROD3240,ITC,Shampoo,FMCG,30-06-2023,122,5,Loved it,973.1
+PROD6977,HUL,Toothpaste,FMCG,21-01-2023,168,1,Disappointed,1193.49
+PROD9837,Amul,Shampoo,FMCG,17-06-2023,392,2,Poor quality,652.48
+PROD6549,ITC,Toothpaste,FMCG,20-05-2023,435,4,Loved it,288.59
+PROD6992,Tata,Soap,FMCG,14-03-2023,396,4,Value for money,1451.43
+PROD7242,Tata,Soap,FMCG,16-05-2023,284,3,Fine,229.2
+PROD4626,HUL,Shampoo,FMCG,30-04-2023,251,5,Loved it,86.29
+PROD3290,Reliance,Toothpaste,FMCG,26-08-2023,475,4,Excellent product,1066.56
+PROD7367,Amul,Shampoo,FMCG,10-09-2023,69,5,Very good quality,190.93
+PROD7797,HUL,Soap,FMCG,23-12-2023,494,5,Very good quality,833.28
+PROD4559,ITC,Soap,FMCG,28-07-2023,490,1,Very bad experience,1429.71
+PROD6876,Patanjali,Soap,FMCG,05-07-2023,60,3,Could be better,1472.35
+PROD4475,Amul,Soap,FMCG,08-04-2023,72,4,Excellent product,1426.07
+PROD2124,Reliance,Shampoo,FMCG,20-06-2023,134,5,Very good quality,1483.79
+PROD5542,Patanjali,Toothpaste,FMCG,30-04-2023,178,5,Excellent product,1172.83
+PROD1243,ITC,Shampoo,FMCG,09-05-2023,418,1,Poor quality,303.02
+PROD7897,ITC,Shampoo,FMCG,15-06-2023,18,1,Poor quality,302.66
+PROD2786,Tata,Toothpaste,FMCG,01-09-2023,239,5,Value for money,1178.12
+PROD8504,Patanjali,Toothpaste,FMCG,11-11-2023,32,5,Loved it,1104.5
+PROD2204,Godrej,Shampoo,FMCG,25-07-2023,228,4,Works well,1044.84
+PROD9984,ITC,Soap,FMCG,17-03-2023,43,5,Value for money,232.98
+PROD2624,ITC,Soap,FMCG,29-09-2023,160,5,Works well,707.89
+PROD4743,HUL,Toothpaste,FMCG,10-10-2023,379,4,Works well,1304.96
+PROD7992,Reliance,Soap,FMCG,21-08-2023,214,1,Very bad experience,653.18
+PROD2494,Amul,Toothpaste,FMCG,11-07-2023,498,4,Excellent product,271.33
+PROD1982,Godrej,Shampoo,FMCG,19-02-2023,391,2,Disappointed,1121.25
+PROD5712,Tata,Toothpaste,FMCG,30-07-2023,191,4,Excellent product,1316.73
+PROD2773,Tata,Soap,FMCG,23-10-2023,269,4,Very good quality,358.47
+PROD1430,Amul,Toothpaste,FMCG,28-02-2023,400,2,Stopped working,453.92
+PROD1100,Patanjali,Shampoo,FMCG,20-05-2023,369,3,Fine,1155.49
+PROD9691,ITC,Shampoo,FMCG,03-12-2023,215,1,Not worth it,150.9
+PROD2391,Godrej,Soap,FMCG,21-08-2023,184,3,Fine,278.24
+PROD7947,Patanjali,Shampoo,FMCG,13-11-2023,35,3,Neutral feeling,1027.25
+PROD6655,Godrej,Toothpaste,FMCG,01-08-2023,149,5,Excellent product,362.57
+PROD1744,Amul,Shampoo,FMCG,14-12-2023,357,5,Loved it,910.04
+PROD5186,ITC,Soap,FMCG,29-01-2023,13,2,Poor quality,346.41
+PROD7229,Tata,Soap,FMCG,04-01-2023,264,2,Poor quality,1133.17
+PROD8147,ITC,Toothpaste,FMCG,09-12-2023,422,4,Excellent product,563.54
+PROD5743,Tata,Soap,FMCG,10-06-2023,304,4,Works well,672.46
+PROD6928,Tata,Soap,FMCG,16-06-2023,97,5,Works well,1211.92
+PROD2288,Reliance,Soap,FMCG,24-02-2023,134,4,Value for money,681.73
+PROD9363,HUL,Soap,FMCG,23-06-2023,123,2,Not worth it,532.95
+PROD4871,ITC,Toothpaste,FMCG,10-04-2023,473,3,Average product,1175.53
+PROD9095,Amul,Shampoo,FMCG,12-04-2023,98,1,Poor quality,923.48
+PROD6295,Reliance,Toothpaste,FMCG,24-10-2023,239,5,Value for money,1037.64
+PROD1920,Godrej,Shampoo,FMCG,04-02-2023,250,3,Fine,691.2
+PROD5703,Tata,Toothpaste,FMCG,08-06-2023,246,1,Very bad experience,705.28
+PROD1672,Reliance,Toothpaste,FMCG,16-02-2023,324,4,Works well,911.42
+PROD2013,HUL,Toothpaste,FMCG,07-04-2023,174,5,Very good quality,927.26
+PROD5059,Reliance,Shampoo,FMCG,25-06-2023,375,2,Not worth it,172.28
+PROD7347,ITC,Soap,FMCG,25-09-2023,322,3,Fine,280.18
+PROD6401,HUL,Soap,FMCG,03-11-2023,36,3,Fine,1194.38
+PROD6461,HUL,Toothpaste,FMCG,17-07-2023,155,5,Very good quality,415.39
+PROD2388,HUL,Toothpaste,FMCG,14-03-2023,479,4,Very good quality,557.24
+PROD2531,Godrej,Toothpaste,FMCG,26-11-2023,415,2,Disappointed,526.29
+PROD8967,Amul,Toothpaste,FMCG,10-01-2023,195,2,Very bad experience,497.86
+PROD9843,Patanjali,Shampoo,FMCG,21-03-2023,49,1,Disappointed,478.9
+PROD3962,Amul,Toothpaste,FMCG,13-11-2023,77,2,Poor quality,916.01
+PROD5668,Godrej,Toothpaste,FMCG,23-01-2023,220,2,Stopped working,578.23
+PROD7026,ITC,Shampoo,FMCG,03-05-2023,168,4,Very good quality,1450.12
+PROD3655,Reliance,Soap,FMCG,25-05-2023,408,5,Works well,603.72
+PROD2680,Patanjali,Toothpaste,FMCG,09-05-2023,36,3,Could be better,979.71
+PROD8167,Tata,Soap,FMCG,24-03-2023,149,5,Very good quality,701.51
+PROD1872,Reliance,Shampoo,FMCG,19-08-2023,462,1,Stopped working,556.9
+PROD1461,Amul,Toothpaste,FMCG,01-05-2023,207,3,Average product,1492.06
+PROD1627,Reliance,Shampoo,FMCG,01-01-2024,342,2,Poor quality,536.17
+PROD1086,HUL,Soap,FMCG,13-03-2023,398,4,Value for money,1073.03
+PROD7934,Amul,Shampoo,FMCG,21-04-2023,437,5,Value for money,266.8
+PROD8489,Patanjali,Soap,FMCG,04-06-2023,72,4,Value for money,119.24
+PROD4963,Reliance,Shampoo,FMCG,13-09-2023,315,5,Value for money,827.28

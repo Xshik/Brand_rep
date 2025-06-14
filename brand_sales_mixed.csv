@@ -1,0 +1,201 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit
+PROD9613,Amul,Toothpaste,FMCG,2023-07-23,123,2,Not worth it,1137.75
+PROD2972,ITC,Wheat Flour,Grocery,2023-01-17,267,2,Stopped working,553.57
+PROD2650,Godrej,Earphones,Electronics,2023-06-11,362,2,Stopped working,62.21
+PROD8722,ITC,Wheat Flour,Grocery,2023-05-13,105,2,Very bad experience,845.42
+PROD6981,Amul,Smartphone,Electronics,2023-04-05,265,4,Loved it,664.72
+PROD2636,Godrej,Wheat Flour,Grocery,2023-04-03,302,5,Very good quality,240.15
+PROD3389,Reliance,Smartphone,Electronics,2023-05-01,294,4,Very good quality,676.72
+PROD9748,Godrej,Smartwatch,Electronics,2023-01-05,100,2,Disappointed,661.2
+PROD7527,Reliance,Smartphone,Electronics,2023-09-07,163,5,Excellent product,413.91
+PROD8370,Patanjali,Toothpaste,FMCG,2023-01-31,120,4,Excellent product,1230.04
+PROD1324,Amul,Smartphone,Electronics,2023-07-04,194,3,Fine,862.51
+PROD3859,Amul,Basmati Rice,Grocery,2023-12-14,320,5,Value for money,338.49
+PROD7243,Amul,Wheat Flour,Grocery,2023-12-11,271,4,Excellent product,756.87
+PROD7911,Godrej,Smartphone,Electronics,2023-11-20,499,2,Very bad experience,260.03
+PROD6629,ITC,Earphones,Electronics,2023-07-27,444,1,Poor quality,1365.26
+PROD5444,Amul,Soap,FMCG,2023-12-01,159,5,Works well,1080.13
+PROD4012,HUL,Wheat Flour,Grocery,2023-10-28,276,4,Very good quality,1450.01
+PROD3734,HUL,Shampoo,FMCG,2023-05-01,348,1,Poor quality,414.89
+PROD1431,Tata,Basmati Rice,Grocery,2023-02-02,489,5,Excellent product,1324.1
+PROD7387,Reliance,Cooking Oil,Grocery,2023-02-12,63,2,Not worth it,430.56
+PROD3795,Patanjali,Basmati Rice,Grocery,2023-05-26,236,2,Disappointed,958.4
+PROD9856,HUL,Shampoo,FMCG,2023-07-02,450,4,Works well,1377.14
+PROD8480,Godrej,Cooking Oil,Grocery,2023-03-11,495,2,Disappointed,1061.55
+PROD6688,HUL,Earphones,Electronics,2023-10-16,232,5,Loved it,809.02
+PROD3551,Patanjali,Cooking Oil,Grocery,2023-02-15,236,4,Loved it,496.41
+PROD5698,Tata,Basmati Rice,Grocery,2023-09-25,427,2,Very bad experience,1149.53
+PROD1149,Tata,Cooking Oil,Grocery,2023-12-19,482,4,Loved it,763.3
+PROD7745,ITC,Wheat Flour,Grocery,2023-04-29,417,3,Average product,60.47
+PROD4614,Godrej,Smartphone,Electronics,2023-05-08,93,4,Works well,1086.66
+PROD5664,Godrej,Basmati Rice,Grocery,2023-11-17,132,5,Loved it,799.08
+PROD3238,ITC,Earphones,Electronics,2023-05-18,221,1,Poor quality,322.6
+PROD4076,HUL,Basmati Rice,Grocery,2023-08-22,326,5,Works well,706.51
+PROD5410,Patanjali,Basmati Rice,Grocery,2023-01-26,283,1,Very bad experience,82.09
+PROD4558,Godrej,Toothpaste,FMCG,2023-01-05,129,1,Stopped working,180.79
+PROD2314,Amul,Wheat Flour,Grocery,2023-09-13,200,1,Very bad experience,722.34
+PROD5097,Amul,Shampoo,FMCG,2023-07-20,46,2,Poor quality,837.63
+PROD1549,Tata,Basmati Rice,Grocery,2024-01-01,137,4,Very good quality,607.96
+PROD7375,HUL,Soap,FMCG,2023-02-18,276,2,Stopped working,1015.71
+PROD3001,Amul,Smartphone,Electronics,2023-03-23,332,5,Value for money,1105.94
+PROD2850,HUL,Wheat Flour,Grocery,2023-06-02,111,1,Poor quality,572.62
+PROD2960,Godrej,Toothpaste,FMCG,2023-06-16,17,3,Could be better,292.67
+PROD3539,Tata,Basmati Rice,Grocery,2023-01-22,307,4,Value for money,1186.04
+PROD1983,Patanjali,Basmati Rice,Grocery,2023-03-22,265,5,Loved it,182.53
+PROD8992,HUL,Soap,FMCG,2023-03-20,369,1,Poor quality,827.71
+PROD1349,ITC,Soap,FMCG,2023-11-27,397,4,Very good quality,553.61
+PROD5828,Amul,Smartphone,Electronics,2023-03-10,138,4,Works well,1353.06
+PROD8674,Godrej,Earphones,Electronics,2023-04-08,300,3,Fine,320.61
+PROD5844,Reliance,Cooking Oil,Grocery,2023-10-11,92,2,Stopped working,149.87
+PROD4039,Amul,Cooking Oil,Grocery,2023-08-21,10,5,Works well,1175.08
+PROD9830,Reliance,Toothpaste,FMCG,2023-07-06,407,3,It’s okay,949.29
+PROD5638,ITC,Basmati Rice,Grocery,2023-12-16,264,2,Disappointed,1160.31
+PROD3126,HUL,Wheat Flour,Grocery,2023-06-14,66,1,Not worth it,189.57
+PROD7366,Patanjali,Shampoo,FMCG,2023-02-24,258,1,Disappointed,327.84
+PROD4616,ITC,Smartphone,Electronics,2023-11-16,369,1,Very bad experience,905.94
+PROD8668,Tata,Earphones,Electronics,2023-01-07,486,4,Excellent product,1385.5
+PROD1955,Amul,Smartwatch,Electronics,2023-10-13,390,4,Loved it,1410.45
+PROD4537,ITC,Smartphone,Electronics,2023-01-21,385,3,It’s okay,152.06
+PROD5075,Tata,Smartwatch,Electronics,2023-04-29,282,2,Disappointed,608.73
+PROD6864,Patanjali,Earphones,Electronics,2023-10-13,393,1,Disappointed,859.31
+PROD7579,HUL,Smartphone,Electronics,2023-12-07,228,2,Poor quality,1330.09
+PROD6163,HUL,Smartphone,Electronics,2023-03-22,283,4,Loved it,1497.73
+PROD4943,Reliance,Smartphone,Electronics,2023-07-10,221,4,Loved it,1158.07
+PROD8412,Patanjali,Earphones,Electronics,2023-07-12,402,3,Fine,847.85
+PROD5945,Tata,Wheat Flour,Grocery,2023-01-18,155,5,Very good quality,913.86
+PROD9376,Patanjali,Soap,FMCG,2023-04-20,448,3,Could be better,506.61
+PROD3267,ITC,Earphones,Electronics,2023-03-21,58,3,Average product,104.72
+PROD7550,ITC,Wheat Flour,Grocery,2023-05-08,129,3,It’s okay,421.55
+PROD8999,HUL,Smartwatch,Electronics,2023-02-09,380,4,Very good quality,520.8
+PROD7251,ITC,Earphones,Electronics,2023-02-18,314,1,Disappointed,981.27
+PROD2974,Reliance,Shampoo,FMCG,2023-06-21,188,4,Works well,1325.7
+PROD5993,HUL,Toothpaste,FMCG,2023-11-05,485,4,Excellent product,66.58
+PROD3509,Amul,Smartwatch,Electronics,2023-10-04,299,5,Very good quality,266.89
+PROD2475,HUL,Toothpaste,FMCG,2023-07-21,238,5,Value for money,1141.62
+PROD1807,Amul,Soap,FMCG,2023-07-21,85,1,Stopped working,241.67
+PROD8879,Amul,Smartphone,Electronics,2023-02-13,214,2,Poor quality,777.64
+PROD9589,Godrej,Smartwatch,Electronics,2023-07-22,343,5,Value for money,878.43
+PROD2843,Tata,Shampoo,FMCG,2023-05-17,407,5,Excellent product,673.6
+PROD1396,Godrej,Smartphone,Electronics,2023-07-07,188,3,Could be better,326.21
+PROD3389,Amul,Basmati Rice,Grocery,2023-11-12,430,4,Value for money,1485.73
+PROD2841,Reliance,Basmati Rice,Grocery,2023-04-30,112,2,Not worth it,1043.77
+PROD6624,Patanjali,Smartwatch,Electronics,2023-11-14,484,3,It’s okay,264.13
+PROD4471,Amul,Smartwatch,Electronics,2023-08-19,251,2,Disappointed,82.98
+PROD7170,ITC,Toothpaste,FMCG,2023-05-13,290,2,Not worth it,750.39
+PROD5444,ITC,Earphones,Electronics,2023-01-23,140,3,Average product,296.96
+PROD2767,HUL,Soap,FMCG,2023-01-05,44,3,Fine,613.54
+PROD2631,Reliance,Soap,FMCG,2023-11-29,207,4,Value for money,385.19
+PROD8503,Reliance,Wheat Flour,Grocery,2023-11-02,282,2,Disappointed,177.63
+PROD9027,Tata,Earphones,Electronics,2023-01-21,136,3,Fine,1387.29
+PROD4869,Patanjali,Cooking Oil,Grocery,2023-01-10,187,3,Fine,1042.25
+PROD5590,Reliance,Smartphone,Electronics,2023-02-01,330,4,Excellent product,423.64
+PROD4726,Amul,Shampoo,FMCG,2023-07-21,346,4,Value for money,249.03
+PROD8359,ITC,Basmati Rice,Grocery,2023-03-20,228,5,Loved it,1457.28
+PROD6062,Patanjali,Smartwatch,Electronics,2023-12-01,80,2,Poor quality,892.49
+PROD3589,ITC,Earphones,Electronics,2023-03-11,230,2,Disappointed,1493.74
+PROD3384,ITC,Basmati Rice,Grocery,2023-09-30,495,2,Very bad experience,1093.19
+PROD8258,Reliance,Smartwatch,Electronics,2023-06-13,460,4,Loved it,1460.7
+PROD4026,HUL,Earphones,Electronics,2023-05-21,87,1,Poor quality,1179.71
+PROD4804,ITC,Toothpaste,FMCG,2023-05-17,320,2,Disappointed,872.21
+PROD9230,Tata,Toothpaste,FMCG,2023-07-03,50,4,Very good quality,1047.8
+PROD8763,HUL,Smartphone,Electronics,2023-11-29,201,4,Works well,316.77
+PROD7767,Patanjali,Shampoo,FMCG,2023-04-26,26,1,Very bad experience,642.45
+PROD9027,HUL,Toothpaste,FMCG,2023-04-14,397,2,Stopped working,346.62
+PROD7232,Reliance,Smartphone,Electronics,2023-08-23,464,4,Excellent product,407.84
+PROD9605,Godrej,Smartphone,Electronics,2023-11-10,490,5,Value for money,1126.58
+PROD5025,Reliance,Earphones,Electronics,2023-01-20,276,4,Excellent product,208.51
+PROD5770,Godrej,Earphones,Electronics,2023-01-21,295,1,Poor quality,611.73
+PROD1893,Amul,Wheat Flour,Grocery,2023-05-27,246,3,Could be better,291.41
+PROD2854,Patanjali,Earphones,Electronics,2023-08-26,434,1,Disappointed,986.85
+PROD1408,HUL,Toothpaste,FMCG,2023-10-07,79,3,Neutral feeling,619.95
+PROD5097,ITC,Soap,FMCG,2023-12-31,468,4,Excellent product,342.8
+PROD2870,HUL,Cooking Oil,Grocery,2023-12-31,417,1,Not worth it,287.79
+PROD3619,HUL,Smartphone,Electronics,2023-07-05,53,4,Value for money,809.54
+PROD3459,Godrej,Cooking Oil,Grocery,2023-01-23,403,3,Could be better,297.78
+PROD5731,Patanjali,Shampoo,FMCG,2023-12-31,36,3,Neutral feeling,658.39
+PROD8514,Tata,Smartwatch,Electronics,2023-03-09,113,3,It’s okay,55.12
+PROD8794,ITC,Wheat Flour,Grocery,2023-01-03,321,2,Poor quality,1329.92
+PROD5556,Godrej,Wheat Flour,Grocery,2023-02-10,317,2,Disappointed,920.15
+PROD1601,ITC,Earphones,Electronics,2023-04-17,35,1,Very bad experience,318.02
+PROD1803,HUL,Shampoo,FMCG,2023-10-23,439,3,It’s okay,924.76
+PROD3906,Patanjali,Soap,FMCG,2023-03-24,354,5,Value for money,462.35
+PROD7038,ITC,Cooking Oil,Grocery,2023-07-04,486,3,Fine,101.97
+PROD3204,Reliance,Basmati Rice,Grocery,2023-08-07,441,3,Neutral feeling,848.18
+PROD4425,Reliance,Toothpaste,FMCG,2023-05-21,178,5,Very good quality,814.23
+PROD8924,Tata,Smartwatch,Electronics,2023-10-20,383,5,Excellent product,1470.06
+PROD9608,ITC,Earphones,Electronics,2023-12-28,157,3,Fine,669.23
+PROD9069,Amul,Earphones,Electronics,2023-03-08,324,5,Works well,865.82
+PROD1392,Patanjali,Toothpaste,FMCG,2023-12-29,158,1,Not worth it,1469.92
+PROD7783,Reliance,Cooking Oil,Grocery,2023-03-02,387,5,Works well,1279.7
+PROD5614,Amul,Soap,FMCG,2023-10-14,422,1,Poor quality,974.38
+PROD6460,Amul,Basmati Rice,Grocery,2023-06-03,269,1,Not worth it,847.49
+PROD6415,HUL,Wheat Flour,Grocery,2023-10-19,325,2,Poor quality,1442.16
+PROD3545,Godrej,Cooking Oil,Grocery,2023-08-31,418,2,Stopped working,101.56
+PROD9537,Reliance,Smartphone,Electronics,2023-10-02,468,4,Excellent product,535.91
+PROD6434,HUL,Cooking Oil,Grocery,2023-12-14,171,1,Poor quality,855.01
+PROD3719,Patanjali,Basmati Rice,Grocery,2023-05-24,440,4,Value for money,95.2
+PROD1518,Godrej,Earphones,Electronics,2023-04-06,314,3,Fine,219.42
+PROD4541,Tata,Wheat Flour,Grocery,2023-09-12,459,4,Loved it,394.58
+PROD8270,Patanjali,Smartphone,Electronics,2023-02-27,201,2,Not worth it,1188.17
+PROD8921,Reliance,Smartwatch,Electronics,2023-09-05,473,2,Very bad experience,775.08
+PROD3174,Amul,Earphones,Electronics,2023-06-17,83,1,Disappointed,1165.75
+PROD1067,Tata,Toothpaste,FMCG,2023-08-24,208,5,Excellent product,1084.83
+PROD2689,HUL,Basmati Rice,Grocery,2023-11-01,456,4,Excellent product,176.26
+PROD6257,HUL,Earphones,Electronics,2023-06-09,21,3,Average product,887.46
+PROD5467,Amul,Shampoo,FMCG,2023-05-22,282,4,Excellent product,512.77
+PROD2677,Amul,Shampoo,FMCG,2023-02-28,17,5,Value for money,1439.53
+PROD5011,Amul,Toothpaste,FMCG,2023-10-09,173,3,Could be better,443.03
+PROD3131,Amul,Shampoo,FMCG,2023-11-10,466,4,Excellent product,541.17
+PROD7421,HUL,Soap,FMCG,2023-01-26,64,1,Stopped working,606.22
+PROD6826,ITC,Toothpaste,FMCG,2023-10-31,332,4,Value for money,1262.45
+PROD8629,Reliance,Wheat Flour,Grocery,2023-04-12,375,5,Excellent product,1149.68
+PROD8709,Tata,Smartwatch,Electronics,2023-12-24,249,3,Neutral feeling,191.03
+PROD6412,Patanjali,Shampoo,FMCG,2023-11-12,142,4,Very good quality,1373.65
+PROD8556,Godrej,Wheat Flour,Grocery,2023-01-16,43,3,Neutral feeling,739.23
+PROD7646,Reliance,Soap,FMCG,2023-06-28,319,5,Excellent product,883.28
+PROD8552,Amul,Smartwatch,Electronics,2023-10-12,342,3,Could be better,152.84
+PROD7288,Godrej,Cooking Oil,Grocery,2023-05-03,327,2,Stopped working,403.35
+PROD6606,Patanjali,Soap,FMCG,2023-12-22,312,4,Value for money,675.17
+PROD2873,Patanjali,Earphones,Electronics,2023-03-30,349,5,Works well,1020.93
+PROD6046,Godrej,Earphones,Electronics,2023-06-16,294,4,Very good quality,191.6
+PROD9098,ITC,Basmati Rice,Grocery,2023-02-25,360,4,Loved it,1230.4
+PROD3403,Tata,Earphones,Electronics,2023-02-16,121,5,Excellent product,1234.7
+PROD4205,Godrej,Smartwatch,Electronics,2023-09-30,159,5,Works well,615.47
+PROD6640,Amul,Toothpaste,FMCG,2023-06-03,301,3,Neutral feeling,1201.8
+PROD2022,Tata,Toothpaste,FMCG,2023-11-10,271,2,Very bad experience,636.09
+PROD5623,Tata,Cooking Oil,Grocery,2023-01-01,370,3,It’s okay,862.04
+PROD7652,Godrej,Shampoo,FMCG,2023-12-26,312,3,Neutral feeling,621.69
+PROD7301,ITC,Wheat Flour,Grocery,2023-04-19,349,2,Poor quality,301.44
+PROD2175,Patanjali,Wheat Flour,Grocery,2023-05-28,456,2,Not worth it,1021.6
+PROD3248,Patanjali,Smartwatch,Electronics,2023-09-07,346,2,Not worth it,683.27
+PROD3945,Reliance,Smartphone,Electronics,2023-08-22,467,5,Works well,1193.95
+PROD4044,Godrej,Cooking Oil,Grocery,2023-10-10,429,3,Average product,702.57
+PROD5411,Tata,Cooking Oil,Grocery,2023-10-23,265,2,Disappointed,1277.87
+PROD7038,ITC,Cooking Oil,Grocery,2023-07-07,27,5,Works well,1468.44
+PROD8617,Godrej,Toothpaste,FMCG,2023-12-20,50,5,Loved it,256.03
+PROD6119,ITC,Smartwatch,Electronics,2023-11-09,55,1,Disappointed,405.59
+PROD8687,Amul,Smartwatch,Electronics,2023-10-01,408,4,Value for money,65.64
+PROD3744,Amul,Earphones,Electronics,2023-08-04,190,3,Fine,1442.84
+PROD8752,ITC,Toothpaste,FMCG,2023-06-05,382,3,It’s okay,1188.28
+PROD5699,ITC,Smartwatch,Electronics,2023-01-27,346,5,Excellent product,1486.03
+PROD3171,Patanjali,Basmati Rice,Grocery,2023-09-16,49,3,Fine,1284.6
+PROD3476,Amul,Smartphone,Electronics,2023-05-12,17,5,Very good quality,1125.07
+PROD3962,Amul,Smartphone,Electronics,2023-03-31,143,2,Stopped working,1184.67
+PROD7765,Amul,Smartwatch,Electronics,2023-02-13,84,2,Stopped working,913.54
+PROD6653,HUL,Basmati Rice,Grocery,2023-08-14,381,2,Disappointed,974.48
+PROD5937,Amul,Toothpaste,FMCG,2023-03-01,36,4,Works well,293.02
+PROD5302,Reliance,Cooking Oil,Grocery,2023-09-30,129,4,Works well,600.71
+PROD6172,Reliance,Toothpaste,FMCG,2023-08-11,16,4,Works well,468.75
+PROD5466,Tata,Earphones,Electronics,2023-02-19,479,3,Neutral feeling,820.38
+PROD4961,Amul,Wheat Flour,Grocery,2023-02-20,140,4,Works well,998.8
+PROD9972,ITC,Earphones,Electronics,2023-04-10,276,2,Very bad experience,539.24
+PROD8306,Tata,Toothpaste,FMCG,2023-02-04,16,5,Excellent product,646.31
+PROD2506,HUL,Basmati Rice,Grocery,2023-05-26,138,1,Disappointed,329.97
+PROD2415,HUL,Toothpaste,FMCG,2023-04-22,496,1,Not worth it,919.11
+PROD2816,Godrej,Smartwatch,Electronics,2023-12-03,401,5,Very good quality,1354.85
+PROD5528,Amul,Smartwatch,Electronics,2023-05-31,249,1,Stopped working,1007.69
+PROD2022,HUL,Cooking Oil,Grocery,2023-06-15,141,1,Very bad experience,284.85
+PROD8218,Amul,Wheat Flour,Grocery,2023-01-31,142,3,Average product,1435.63
+PROD3357,Patanjali,Soap,FMCG,2023-11-09,211,4,Excellent product,308.74
+PROD2692,Patanjali,Smartphone,Electronics,2023-11-11,339,4,Loved it,204.06
+PROD9154,Tata,Shampoo,FMCG,2023-10-20,382,4,Excellent product,413.36

@@ -1,0 +1,201 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit
+PROD5984,Amul,Smartphone,Electronics,2023-08-26,145,1,Poor quality,1286.1
+PROD7492,Reliance,Smartwatch,Electronics,2023-06-17,85,2,Very bad experience,182.26
+PROD8408,Amul,Earphones,Electronics,2023-05-14,429,1,Stopped working,1486.48
+PROD2010,Godrej,Smartwatch,Electronics,2023-02-22,421,1,Not worth it,1201.02
+PROD5240,Patanjali,Smartwatch,Electronics,2023-07-25,200,1,Disappointed,1045.11
+PROD6432,Tata,Smartwatch,Electronics,2023-04-12,472,2,Not worth it,986.68
+PROD9128,Godrej,Smartwatch,Electronics,2023-01-26,96,4,Works well,1389.99
+PROD5585,HUL,Smartphone,Electronics,2023-08-07,98,2,Very bad experience,563.22
+PROD7750,Tata,Smartwatch,Electronics,2023-11-11,327,3,Neutral feeling,944.62
+PROD5082,Tata,Smartwatch,Electronics,2023-05-24,206,2,Disappointed,248.99
+PROD9231,Reliance,Smartphone,Electronics,2024-01-01,193,4,Loved it,745.54
+PROD5602,Amul,Smartphone,Electronics,2023-04-03,23,2,Not worth it,512.37
+PROD2640,ITC,Smartphone,Electronics,2023-07-03,402,2,Poor quality,896.78
+PROD7363,Patanjali,Earphones,Electronics,2023-05-17,283,1,Poor quality,1233.61
+PROD1462,Patanjali,Smartwatch,Electronics,2023-05-02,313,3,Could be better,511.11
+PROD6063,ITC,Earphones,Electronics,2023-03-14,298,4,Value for money,1425.13
+PROD9625,Tata,Smartphone,Electronics,2023-02-16,38,2,Not worth it,387.3
+PROD6301,Amul,Smartwatch,Electronics,2023-11-11,113,3,Average product,1219.35
+PROD6978,Patanjali,Smartwatch,Electronics,2023-10-28,370,1,Disappointed,1379.98
+PROD6285,HUL,Smartphone,Electronics,2023-12-06,212,3,Fine,899.72
+PROD3854,HUL,Smartwatch,Electronics,2023-08-12,415,4,Loved it,976.94
+PROD3086,HUL,Smartwatch,Electronics,2023-10-29,427,3,Fine,304.26
+PROD3983,Tata,Earphones,Electronics,2023-12-26,495,5,Excellent product,880.61
+PROD6425,Patanjali,Earphones,Electronics,2023-11-24,299,4,Very good quality,200.96
+PROD8317,Amul,Smartwatch,Electronics,2023-06-13,95,1,Very bad experience,972.47
+PROD1020,Patanjali,Smartphone,Electronics,2023-05-08,364,3,It’s okay,148.3
+PROD6754,Godrej,Smartphone,Electronics,2023-08-03,95,4,Works well,1332.6
+PROD8393,Reliance,Smartwatch,Electronics,2023-09-03,413,2,Poor quality,1302.87
+PROD6600,Amul,Smartwatch,Electronics,2023-01-11,173,1,Not worth it,428.64
+PROD8909,Patanjali,Smartphone,Electronics,2023-02-08,290,1,Very bad experience,1415.66
+PROD2659,HUL,Smartphone,Electronics,2023-03-26,320,2,Not worth it,1340.14
+PROD5612,Patanjali,Smartwatch,Electronics,2023-07-29,366,5,Loved it,853.46
+PROD1893,Tata,Smartwatch,Electronics,2023-01-26,211,4,Very good quality,879.07
+PROD4271,Godrej,Smartwatch,Electronics,2023-02-14,160,5,Works well,1244.65
+PROD2892,Patanjali,Smartwatch,Electronics,2023-03-29,336,1,Stopped working,473.13
+PROD7349,Godrej,Smartphone,Electronics,2023-09-08,468,1,Disappointed,1008.51
+PROD8619,Godrej,Smartphone,Electronics,2023-07-09,105,3,Neutral feeling,696.37
+PROD6632,Reliance,Smartwatch,Electronics,2023-05-18,298,1,Not worth it,139.38
+PROD9773,Patanjali,Earphones,Electronics,2023-10-11,41,5,Works well,1269.16
+PROD9467,Patanjali,Earphones,Electronics,2023-09-01,163,1,Disappointed,164.48
+PROD4157,Reliance,Smartwatch,Electronics,2023-08-18,98,2,Poor quality,1426.14
+PROD5225,Godrej,Smartwatch,Electronics,2023-02-10,359,2,Disappointed,681.32
+PROD6343,Reliance,Earphones,Electronics,2023-02-04,54,4,Value for money,612.74
+PROD7874,Godrej,Earphones,Electronics,2023-01-07,412,5,Value for money,1065.6
+PROD2654,Patanjali,Smartphone,Electronics,2023-03-17,300,1,Not worth it,902.5
+PROD8750,Amul,Earphones,Electronics,2023-07-30,145,4,Value for money,605.41
+PROD7484,Amul,Smartwatch,Electronics,2023-07-26,83,4,Excellent product,946.45
+PROD1331,Patanjali,Earphones,Electronics,2023-01-26,391,3,Fine,739.07
+PROD3201,Amul,Smartphone,Electronics,2023-05-24,441,1,Poor quality,762.85
+PROD4079,Godrej,Earphones,Electronics,2023-06-14,147,5,Excellent product,1106.76
+PROD1920,Reliance,Smartwatch,Electronics,2023-07-28,389,5,Loved it,752.47
+PROD1474,Amul,Smartwatch,Electronics,2023-12-30,269,5,Value for money,634.91
+PROD1828,Reliance,Smartwatch,Electronics,2023-04-13,438,1,Stopped working,133.56
+PROD3029,Patanjali,Earphones,Electronics,2023-05-21,198,5,Works well,1244.08
+PROD6730,Amul,Smartwatch,Electronics,2023-09-08,314,4,Value for money,696.85
+PROD1449,Reliance,Smartwatch,Electronics,2023-05-13,393,1,Very bad experience,1254.76
+PROD4387,Patanjali,Smartwatch,Electronics,2023-10-20,409,2,Poor quality,1449.13
+PROD3167,Godrej,Earphones,Electronics,2023-09-20,20,1,Stopped working,1303.71
+PROD7943,Reliance,Earphones,Electronics,2023-01-05,124,3,Fine,415.97
+PROD7506,Godrej,Smartphone,Electronics,2023-05-10,121,5,Value for money,726.71
+PROD5631,ITC,Smartwatch,Electronics,2023-12-06,441,5,Value for money,1267.1
+PROD5536,Tata,Earphones,Electronics,2023-09-04,42,3,Fine,537.61
+PROD1930,HUL,Earphones,Electronics,2023-11-30,162,5,Very good quality,323.12
+PROD5250,Amul,Earphones,Electronics,2023-12-15,81,4,Loved it,1095.86
+PROD6622,Godrej,Smartphone,Electronics,2023-01-19,308,5,Very good quality,1076.7
+PROD5918,ITC,Earphones,Electronics,2023-11-23,411,3,Could be better,739.82
+PROD3999,ITC,Earphones,Electronics,2023-04-03,160,2,Very bad experience,191.52
+PROD6428,Tata,Earphones,Electronics,2023-04-24,191,3,Neutral feeling,373.83
+PROD2166,ITC,Smartphone,Electronics,2023-05-31,247,4,Excellent product,1284.26
+PROD7768,ITC,Smartwatch,Electronics,2023-03-03,454,5,Loved it,1037.01
+PROD3346,Patanjali,Smartwatch,Electronics,2023-04-13,185,5,Works well,643.33
+PROD1950,Patanjali,Earphones,Electronics,2023-02-11,259,2,Very bad experience,532.31
+PROD9021,Amul,Smartphone,Electronics,2023-04-18,399,5,Very good quality,1171.64
+PROD7280,ITC,Smartwatch,Electronics,2023-08-11,334,4,Works well,672.64
+PROD9700,ITC,Smartwatch,Electronics,2023-04-13,384,1,Very bad experience,591.0
+PROD6113,HUL,Smartwatch,Electronics,2023-01-03,330,2,Very bad experience,1113.72
+PROD5885,Godrej,Smartwatch,Electronics,2023-09-15,311,1,Not worth it,493.87
+PROD6615,HUL,Smartphone,Electronics,2023-09-24,315,4,Very good quality,809.97
+PROD4742,Reliance,Smartphone,Electronics,2023-04-07,94,4,Excellent product,1424.72
+PROD3017,Patanjali,Earphones,Electronics,2023-04-19,385,5,Very good quality,81.77
+PROD1796,HUL,Earphones,Electronics,2023-01-20,202,3,Could be better,1320.99
+PROD8279,Tata,Earphones,Electronics,2023-12-01,438,1,Stopped working,78.63
+PROD5933,ITC,Smartwatch,Electronics,2023-05-10,252,2,Not worth it,1067.71
+PROD7862,Tata,Earphones,Electronics,2023-12-06,276,5,Very good quality,441.47
+PROD4254,HUL,Earphones,Electronics,2023-11-13,70,1,Stopped working,459.92
+PROD3627,Reliance,Smartphone,Electronics,2023-09-25,113,4,Loved it,568.99
+PROD1044,Godrej,Earphones,Electronics,2023-04-17,362,3,Average product,1403.03
+PROD2475,Tata,Earphones,Electronics,2023-02-26,437,4,Very good quality,882.52
+PROD5850,HUL,Earphones,Electronics,2023-02-21,473,2,Stopped working,421.04
+PROD6901,Tata,Smartphone,Electronics,2023-02-21,426,1,Very bad experience,303.32
+PROD3267,HUL,Smartphone,Electronics,2023-03-01,58,1,Not worth it,1284.31
+PROD6615,Amul,Smartphone,Electronics,2023-08-13,499,1,Very bad experience,951.62
+PROD7909,Godrej,Smartwatch,Electronics,2023-07-24,243,4,Works well,444.16
+PROD7816,Patanjali,Smartwatch,Electronics,2023-12-23,381,2,Not worth it,135.04
+PROD1472,HUL,Earphones,Electronics,2023-08-13,102,3,Could be better,936.42
+PROD5286,Godrej,Smartphone,Electronics,2023-02-27,464,1,Not worth it,646.36
+PROD4669,HUL,Smartwatch,Electronics,2023-12-14,278,5,Value for money,1162.92
+PROD8895,ITC,Earphones,Electronics,2023-12-19,368,4,Very good quality,946.45
+PROD1894,HUL,Earphones,Electronics,2023-11-25,207,5,Value for money,265.55
+PROD2226,Patanjali,Earphones,Electronics,2023-09-16,444,4,Very good quality,730.47
+PROD7203,Patanjali,Smartphone,Electronics,2023-06-19,152,2,Disappointed,123.01
+PROD9166,Tata,Smartwatch,Electronics,2023-08-24,237,4,Excellent product,1211.83
+PROD7755,Tata,Smartphone,Electronics,2023-09-12,391,1,Stopped working,997.39
+PROD5990,ITC,Earphones,Electronics,2023-01-01,432,5,Value for money,181.8
+PROD8445,HUL,Earphones,Electronics,2023-08-22,496,1,Poor quality,544.24
+PROD2868,Reliance,Earphones,Electronics,2023-11-14,317,3,Neutral feeling,736.04
+PROD9552,Patanjali,Earphones,Electronics,2023-01-02,184,3,Could be better,564.95
+PROD2752,Tata,Earphones,Electronics,2023-01-24,469,2,Stopped working,288.03
+PROD8488,Patanjali,Earphones,Electronics,2023-04-07,71,4,Very good quality,1398.81
+PROD8381,Amul,Earphones,Electronics,2023-02-25,397,5,Excellent product,650.98
+PROD1795,ITC,Earphones,Electronics,2023-09-16,78,1,Disappointed,1447.59
+PROD3845,Godrej,Earphones,Electronics,2023-09-18,409,2,Disappointed,1385.69
+PROD7302,Godrej,Smartwatch,Electronics,2023-12-03,317,3,Could be better,928.93
+PROD8419,HUL,Earphones,Electronics,2023-05-08,150,3,Fine,626.91
+PROD9975,Godrej,Smartwatch,Electronics,2023-11-05,368,5,Loved it,1335.33
+PROD5760,HUL,Earphones,Electronics,2023-10-11,333,2,Disappointed,365.15
+PROD9888,Patanjali,Earphones,Electronics,2023-12-30,342,2,Disappointed,1464.01
+PROD9747,Tata,Earphones,Electronics,2023-06-30,297,5,Works well,746.54
+PROD1869,Reliance,Smartphone,Electronics,2023-01-07,277,4,Very good quality,204.38
+PROD5835,Amul,Smartwatch,Electronics,2023-03-24,156,2,Not worth it,1040.92
+PROD4675,Tata,Earphones,Electronics,2023-07-03,426,5,Value for money,706.26
+PROD7349,ITC,Smartwatch,Electronics,2023-12-23,157,1,Stopped working,1054.76
+PROD8259,Amul,Earphones,Electronics,2023-10-10,37,3,Average product,68.8
+PROD4218,HUL,Earphones,Electronics,2023-12-30,341,5,Value for money,583.22
+PROD2955,Godrej,Smartphone,Electronics,2023-04-01,359,2,Disappointed,157.98
+PROD5178,Godrej,Smartwatch,Electronics,2023-05-23,294,2,Disappointed,433.15
+PROD1833,Godrej,Smartphone,Electronics,2023-12-30,489,2,Very bad experience,274.47
+PROD4603,Reliance,Smartphone,Electronics,2023-10-21,291,3,Could be better,569.22
+PROD2506,Tata,Earphones,Electronics,2023-09-16,91,5,Works well,653.1
+PROD9691,Patanjali,Smartwatch,Electronics,2023-12-06,179,3,Average product,530.05
+PROD4937,Reliance,Earphones,Electronics,2023-11-29,14,3,Neutral feeling,216.35
+PROD5203,HUL,Smartwatch,Electronics,2023-06-14,205,1,Stopped working,1378.1
+PROD1718,ITC,Smartwatch,Electronics,2023-07-11,273,4,Works well,1214.08
+PROD9814,Patanjali,Earphones,Electronics,2023-06-14,273,1,Poor quality,169.4
+PROD2702,Tata,Earphones,Electronics,2023-04-18,353,2,Stopped working,962.8
+PROD3519,Reliance,Earphones,Electronics,2023-12-26,459,4,Excellent product,1465.52
+PROD5127,HUL,Smartphone,Electronics,2023-06-19,29,1,Poor quality,176.91
+PROD7626,Reliance,Earphones,Electronics,2023-04-27,476,4,Works well,425.04
+PROD2036,Tata,Smartphone,Electronics,2023-07-19,354,1,Disappointed,221.54
+PROD5937,Reliance,Earphones,Electronics,2023-02-07,193,1,Very bad experience,1395.67
+PROD3561,Reliance,Smartphone,Electronics,2023-08-13,205,1,Stopped working,622.91
+PROD3360,HUL,Smartwatch,Electronics,2023-07-20,417,5,Loved it,1206.35
+PROD3316,Reliance,Earphones,Electronics,2023-11-28,201,1,Disappointed,1438.22
+PROD5992,Tata,Smartwatch,Electronics,2023-10-21,315,5,Excellent product,621.42
+PROD3637,HUL,Earphones,Electronics,2023-06-26,118,5,Very good quality,648.35
+PROD9992,ITC,Smartwatch,Electronics,2023-05-10,109,5,Excellent product,216.2
+PROD4234,ITC,Earphones,Electronics,2023-02-07,158,3,It’s okay,1023.94
+PROD2143,Amul,Smartphone,Electronics,2023-03-07,353,1,Very bad experience,1000.44
+PROD3496,Godrej,Smartphone,Electronics,2023-08-19,178,3,Could be better,943.7
+PROD5533,Godrej,Smartphone,Electronics,2023-03-28,12,2,Stopped working,504.16
+PROD6004,HUL,Smartwatch,Electronics,2023-06-19,459,4,Loved it,745.93
+PROD9824,Tata,Earphones,Electronics,2023-03-31,340,3,Average product,929.61
+PROD1511,HUL,Smartphone,Electronics,2023-11-17,49,1,Disappointed,1104.77
+PROD3435,Patanjali,Earphones,Electronics,2023-01-19,292,5,Works well,427.89
+PROD9210,Patanjali,Smartphone,Electronics,2023-10-29,385,2,Stopped working,1292.89
+PROD9423,Amul,Smartphone,Electronics,2023-09-15,15,5,Very good quality,1010.88
+PROD6878,Patanjali,Smartphone,Electronics,2023-04-02,299,2,Stopped working,1425.63
+PROD1701,Reliance,Smartwatch,Electronics,2023-09-07,128,3,Average product,141.15
+PROD1653,Reliance,Earphones,Electronics,2023-07-04,208,4,Excellent product,731.03
+PROD9918,HUL,Smartwatch,Electronics,2023-09-24,334,3,Could be better,1252.99
+PROD5121,HUL,Smartphone,Electronics,2023-07-13,197,1,Disappointed,902.13
+PROD8898,ITC,Smartwatch,Electronics,2023-07-27,190,3,Neutral feeling,1234.99
+PROD4465,Patanjali,Earphones,Electronics,2023-08-14,94,5,Loved it,383.49
+PROD7793,Patanjali,Smartwatch,Electronics,2023-07-05,318,1,Poor quality,1090.09
+PROD3641,Tata,Earphones,Electronics,2023-09-04,355,2,Disappointed,744.28
+PROD9399,Patanjali,Smartwatch,Electronics,2023-01-23,75,2,Poor quality,881.56
+PROD7642,Patanjali,Earphones,Electronics,2023-01-29,95,2,Disappointed,424.48
+PROD8359,HUL,Earphones,Electronics,2023-12-05,430,1,Poor quality,461.01
+PROD3979,Patanjali,Smartphone,Electronics,2023-04-23,435,2,Disappointed,645.61
+PROD2127,HUL,Smartwatch,Electronics,2023-12-18,185,5,Value for money,1387.41
+PROD7877,Godrej,Smartphone,Electronics,2023-03-09,65,5,Value for money,74.02
+PROD9706,Tata,Earphones,Electronics,2023-04-01,253,5,Excellent product,1357.33
+PROD8069,Godrej,Smartwatch,Electronics,2023-12-04,76,5,Excellent product,1357.88
+PROD7246,Reliance,Smartphone,Electronics,2023-01-23,367,2,Stopped working,818.23
+PROD8817,Reliance,Earphones,Electronics,2023-12-23,304,2,Very bad experience,191.69
+PROD1089,Amul,Smartwatch,Electronics,2023-11-03,458,3,Average product,838.41
+PROD7698,ITC,Earphones,Electronics,2023-03-02,276,2,Very bad experience,60.43
+PROD7939,Patanjali,Smartwatch,Electronics,2023-08-07,343,3,Could be better,898.79
+PROD8904,Amul,Earphones,Electronics,2023-12-15,213,4,Value for money,1144.71
+PROD6641,ITC,Smartphone,Electronics,2023-10-12,257,3,Could be better,417.98
+PROD2642,Patanjali,Earphones,Electronics,2023-12-04,70,4,Very good quality,1134.33
+PROD7375,Godrej,Earphones,Electronics,2023-06-23,420,1,Poor quality,848.34
+PROD2049,Reliance,Smartwatch,Electronics,2023-03-16,251,4,Excellent product,1392.5
+PROD9536,Amul,Smartwatch,Electronics,2023-02-10,321,4,Works well,104.75
+PROD8192,ITC,Earphones,Electronics,2023-01-30,494,2,Stopped working,1171.73
+PROD1550,Reliance,Smartwatch,Electronics,2023-12-03,486,3,Average product,1215.67
+PROD2422,Patanjali,Earphones,Electronics,2023-12-12,28,1,Poor quality,571.62
+PROD1251,Amul,Smartphone,Electronics,2023-12-09,212,2,Disappointed,637.9
+PROD6693,ITC,Smartwatch,Electronics,2023-05-26,381,5,Loved it,1253.16
+PROD5277,ITC,Smartwatch,Electronics,2023-04-10,242,5,Excellent product,1398.09
+PROD2917,ITC,Smartphone,Electronics,2023-02-24,296,3,Fine,154.96
+PROD8923,Reliance,Earphones,Electronics,2023-10-22,138,4,Value for money,1056.58
+PROD8896,Reliance,Smartphone,Electronics,2023-08-23,358,5,Excellent product,718.04
+PROD6172,Tata,Smartphone,Electronics,2023-07-15,334,2,Poor quality,1193.55
+PROD5706,ITC,Smartphone,Electronics,2023-10-02,14,3,Average product,1066.19
+PROD6142,HUL,Smartphone,Electronics,2023-06-25,48,2,Stopped working,854.1
+PROD4271,ITC,Smartwatch,Electronics,2023-05-18,103,2,Stopped working,1423.32
+PROD6833,Patanjali,Earphones,Electronics,2023-05-16,115,2,Disappointed,382.35
+PROD1108,Tata,Smartwatch,Electronics,2023-02-10,356,4,Value for money,1435.88
+PROD9041,Amul,Smartphone,Electronics,2023-11-14,171,5,Loved it,763.89

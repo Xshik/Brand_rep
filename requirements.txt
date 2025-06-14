@@ -1,0 +1,8 @@
+Flask
+pandas
+textblob
+plotly
+scikit-learn
+matplotlib
+seaborn
+pip install -U kaleido

@@ -1,0 +1,10 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit
+PROD4068,Tata,Nexon,SUV,01-01-2023,324,5,"Stylish, feature-rich, reliable; strong performance and good value",20.5
+PROD1333,Hyundai,Creta,Compact,04-02-2023,498,5,Very bad experience,20.5
+PROD6850,Tata,Altroz,Premium Hatchback,22-11-2023,208,3,"Safe, spacious, well-built; good for city and highway drives",11.49
+PROD3185,Toyota,Glanza,Grocery,03-12-2023,331,5,nice milage,15.6
+PROD1334,Hyundai,Creta,Compact,04-02-2023,100,5,Not good,20.5
+PROD1335,Hyundai,Creta,Compact,05-02-2023,200,5,Very bad experience,20.5
+PROD1336,Hyundai,Creta,Compact,06-02-2023,270,5,Very bad experience,20.5
+PROD1337,Hyundai,Creta,Compact,07-02-2023,210,5,"Stylish, feature-rich, reliable; strong performance and good value",20.5
+PROD1338,Hyundai,Creta,Compact,08-02-2023,200,5,Very bad experience,20.5

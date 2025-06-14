@@ -1,0 +1,201 @@
+Product_ID,Brand,Product_Name,Category,Date,Units_Sold,Rating,Review,Price_Per_Unit
+PROD3483,HUL,Toothpaste,FMCG,2023-01-01,487,4,Loved it,104.86
+PROD8144,ITC,Smartphone,Electronics,2023-01-02,273,4,Works well,1076.03
+PROD2985,Reliance,Earphones,Electronics,2023-02-05,286,4,Works well,377.48
+PROD9759,HUL,Smartphone,Electronics,2023-06-05,215,1,Very bad experience,130.03
+PROD1644,Reliance,Smartwatch,Electronics,2023-08-24,399,2,Poor quality,1161.44
+PROD8970,Patanjali,Earphones,Electronics,2023-06-03,366,1,Very bad experience,615.65
+PROD4907,Godrej,Toothpaste,FMCG,2023-04-08,81,1,Disappointed,101.76
+PROD1268,Tata,Smartphone,Electronics,2023-10-04,339,5,Works well,496.21
+PROD4468,Tata,Soap,FMCG,2023-06-22,413,4,Excellent product,1095.47
+PROD1604,Reliance,Earphones,Electronics,2023-10-02,86,2,Not worth it,1124.52
+PROD4976,HUL,Soap,FMCG,2023-01-10,251,5,Excellent product,1365.41
+PROD3796,Patanjali,Shampoo,FMCG,2023-11-20,35,1,Stopped working,1361.76
+PROD4320,Tata,Shampoo,FMCG,2023-09-12,314,2,Not worth it,1208.8
+PROD3250,Reliance,Smartphone,Electronics,2023-12-14,215,5,Value for money,520.14
+PROD5487,Reliance,Smartwatch,Electronics,2023-01-24,313,1,Not worth it,301.5
+PROD1666,Patanjali,Soap,FMCG,2023-12-23,199,4,Very good quality,852.44
+PROD8978,Reliance,Shampoo,FMCG,2023-11-20,323,2,Not worth it,595.39
+PROD7819,Tata,Shampoo,FMCG,2023-04-02,484,5,Loved it,179.25
+PROD7750,Patanjali,Earphones,Electronics,2023-04-16,83,5,Works well,977.75
+PROD2442,ITC,Shampoo,FMCG,2023-12-21,29,4,Value for money,914.59
+PROD2567,Godrej,Smartphone,Electronics,2023-01-03,295,1,Disappointed,391.68
+PROD1869,ITC,Earphones,Electronics,2023-04-23,247,2,Very bad experience,1166.98
+PROD3888,Reliance,Shampoo,FMCG,2023-03-18,360,4,Works well,1273.48
+PROD5118,Tata,Toothpaste,FMCG,2023-01-28,340,2,Stopped working,578.08
+PROD3881,Reliance,Earphones,Electronics,2023-08-21,32,1,Disappointed,201.41
+PROD6340,Godrej,Shampoo,FMCG,2023-09-21,69,2,Stopped working,152.75
+PROD4731,HUL,Smartwatch,Electronics,2023-12-13,469,1,Very bad experience,522.24
+PROD8716,HUL,Shampoo,FMCG,2023-07-31,455,2,Not worth it,339.94
+PROD7346,Godrej,Smartwatch,Electronics,2023-03-16,120,4,Very good quality,1395.44
+PROD6503,Godrej,Smartwatch,Electronics,2023-04-10,333,3,Average product,569.96
+PROD8513,HUL,Shampoo,FMCG,2023-10-19,40,1,Stopped working,456.88
+PROD3784,Reliance,Smartwatch,Electronics,2023-06-25,122,5,Very good quality,1335.29
+PROD8757,Godrej,Shampoo,FMCG,2023-09-25,260,2,Disappointed,1300.19
+PROD8114,Tata,Smartphone,Electronics,2023-08-08,386,2,Very bad experience,1315.27
+PROD8711,Patanjali,Toothpaste,FMCG,2023-10-21,469,1,Not worth it,57.36
+PROD9114,ITC,Soap,FMCG,2023-07-21,255,1,Stopped working,1224.09
+PROD6872,ITC,Shampoo,FMCG,2023-01-07,364,2,Poor quality,1111.09
+PROD8524,HUL,Smartwatch,Electronics,2023-02-16,18,3,Average product,745.69
+PROD8607,Godrej,Soap,FMCG,2023-03-12,457,2,Very bad experience,1069.55
+PROD5859,Tata,Toothpaste,FMCG,2023-07-17,467,5,Excellent product,1051.59
+PROD6500,HUL,Smartphone,Electronics,2023-11-10,287,2,Not worth it,884.08
+PROD8624,HUL,Toothpaste,FMCG,2023-07-06,464,4,Loved it,124.77
+PROD4354,Amul,Soap,FMCG,2023-03-31,341,1,Disappointed,860.25
+PROD4693,Patanjali,Soap,FMCG,2023-10-04,68,5,Very good quality,991.11
+PROD7108,Amul,Smartphone,Electronics,2023-09-15,358,1,Not worth it,663.25
+PROD9730,Godrej,Smartphone,Electronics,2023-09-14,279,4,Value for money,1252.86
+PROD8501,ITC,Smartphone,Electronics,2023-07-08,419,1,Poor quality,1026.29
+PROD3699,Godrej,Shampoo,FMCG,2023-04-02,157,1,Not worth it,1439.47
+PROD1371,HUL,Smartwatch,Electronics,2023-03-17,264,2,Disappointed,268.22
+PROD8272,HUL,Smartphone,Electronics,2023-10-05,487,3,Neutral feeling,241.44
+PROD6503,Patanjali,Soap,FMCG,2023-02-02,21,2,Disappointed,1314.1
+PROD9686,Amul,Earphones,Electronics,2023-12-02,340,4,Value for money,1190.9
+PROD5259,Amul,Smartphone,Electronics,2023-10-18,77,3,Average product,1352.51
+PROD5659,Amul,Soap,FMCG,2023-05-28,404,2,Very bad experience,1275.99
+PROD3514,ITC,Smartwatch,Electronics,2023-03-24,374,2,Poor quality,826.21
+PROD7056,Tata,Shampoo,FMCG,2023-01-22,172,4,Loved it,883.06
+PROD7109,ITC,Shampoo,FMCG,2023-12-29,27,3,Average product,1015.05
+PROD9182,Patanjali,Earphones,Electronics,2023-10-01,164,1,Stopped working,226.16
+PROD6427,Amul,Soap,FMCG,2023-03-21,12,5,Value for money,1456.72
+PROD6549,Amul,Smartphone,Electronics,2023-10-21,351,5,Works well,263.27
+PROD1406,Godrej,Toothpaste,FMCG,2023-01-21,81,1,Very bad experience,1033.11
+PROD4197,Reliance,Earphones,Electronics,2023-04-23,238,3,It’s okay,568.22
+PROD9385,Patanjali,Soap,FMCG,2023-01-12,52,4,Excellent product,830.7
+PROD7513,Godrej,Smartwatch,Electronics,2023-06-12,318,1,Very bad experience,927.36
+PROD6651,Reliance,Toothpaste,FMCG,2023-08-07,199,1,Very bad experience,609.86
+PROD8249,Godrej,Smartphone,Electronics,2023-10-15,54,4,Works well,362.76
+PROD2410,Reliance,Smartwatch,Electronics,2023-08-06,383,2,Disappointed,1349.82
+PROD7156,Amul,Shampoo,FMCG,2023-09-01,454,3,It’s okay,811.69
+PROD8571,Godrej,Shampoo,FMCG,2023-11-24,478,2,Disappointed,446.33
+PROD5979,Patanjali,Shampoo,FMCG,2023-07-15,158,1,Very bad experience,853.11
+PROD5303,HUL,Earphones,Electronics,2023-08-26,124,1,Poor quality,88.92
+PROD3938,Reliance,Earphones,Electronics,2023-11-22,251,3,Neutral feeling,230.06
+PROD2093,HUL,Earphones,Electronics,2023-05-06,24,3,Neutral feeling,223.06
+PROD7114,Godrej,Earphones,Electronics,2023-10-17,233,4,Excellent product,1309.1
+PROD6855,Patanjali,Soap,FMCG,2023-10-25,39,4,Very good quality,261.9
+PROD5749,Amul,Shampoo,FMCG,2023-07-04,224,3,It’s okay,972.56
+PROD3738,HUL,Earphones,Electronics,2023-02-09,273,2,Not worth it,331.03
+PROD9755,Reliance,Smartphone,Electronics,2023-12-17,419,3,It’s okay,486.55
+PROD6575,Tata,Smartwatch,Electronics,2023-03-12,275,4,Works well,458.06
+PROD9612,Patanjali,Shampoo,FMCG,2023-03-21,267,2,Disappointed,370.61
+PROD6705,Godrej,Soap,FMCG,2023-02-09,69,1,Stopped working,1237.32
+PROD6604,Amul,Earphones,Electronics,2023-03-13,428,5,Value for money,690.81
+PROD3332,Amul,Toothpaste,FMCG,2023-01-15,391,2,Poor quality,1231.13
+PROD2273,Patanjali,Soap,FMCG,2023-04-18,76,4,Excellent product,1472.61
+PROD1971,Reliance,Soap,FMCG,2023-08-09,31,1,Disappointed,334.71
+PROD3028,Amul,Smartwatch,Electronics,2023-01-23,43,1,Not worth it,487.39
+PROD5544,Patanjali,Toothpaste,FMCG,2023-04-05,353,1,Poor quality,559.72
+PROD2119,Patanjali,Smartphone,Electronics,2023-09-14,409,2,Disappointed,1106.4
+PROD3814,Reliance,Toothpaste,FMCG,2023-01-08,280,2,Very bad experience,364.65
+PROD4033,Tata,Toothpaste,FMCG,2023-04-20,481,4,Loved it,781.08
+PROD4510,Tata,Earphones,Electronics,2023-04-03,437,4,Works well,564.49
+PROD9123,Tata,Soap,FMCG,2023-06-10,73,5,Very good quality,725.56
+PROD2895,Amul,Earphones,Electronics,2023-10-13,379,3,Neutral feeling,108.88
+PROD7672,Godrej,Smartphone,Electronics,2023-11-04,386,4,Very good quality,502.41
+PROD3937,Patanjali,Smartphone,Electronics,2023-02-05,468,4,Loved it,1269.53
+PROD2953,Godrej,Toothpaste,FMCG,2023-12-11,63,5,Excellent product,624.74
+PROD6959,Godrej,Soap,FMCG,2023-12-22,312,2,Not worth it,1467.48
+PROD7958,Patanjali,Soap,FMCG,2023-11-01,442,1,Poor quality,1486.46
+PROD6834,Reliance,Smartphone,Electronics,2024-01-01,402,3,Neutral feeling,893.78
+PROD2770,ITC,Earphones,Electronics,2023-07-27,258,2,Stopped working,791.55
+PROD2631,Godrej,Soap,FMCG,2023-09-12,128,2,Not worth it,961.14
+PROD6356,Godrej,Shampoo,FMCG,2023-12-14,23,4,Value for money,1459.51
+PROD8635,ITC,Soap,FMCG,2023-11-16,59,5,Works well,1152.25
+PROD9856,HUL,Soap,FMCG,2023-09-12,261,5,Loved it,781.95
+PROD8531,Godrej,Shampoo,FMCG,2023-03-02,206,4,Works well,702.67
+PROD9052,Patanjali,Shampoo,FMCG,2023-10-13,347,3,Average product,1297.52
+PROD9837,Amul,Smartwatch,Electronics,2023-07-19,259,5,Works well,1157.82
+PROD7189,ITC,Smartphone,Electronics,2023-03-22,269,3,Neutral feeling,130.82
+PROD6715,Amul,Smartphone,Electronics,2023-02-01,24,2,Very bad experience,906.17
+PROD6755,Amul,Toothpaste,FMCG,2023-07-14,59,3,Neutral feeling,670.81
+PROD2073,Patanjali,Toothpaste,FMCG,2023-05-07,130,5,Excellent product,989.72
+PROD7921,Amul,Smartwatch,Electronics,2023-03-28,20,1,Stopped working,830.7
+PROD7394,Tata,Smartphone,Electronics,2023-12-23,250,3,Neutral feeling,902.58
+PROD9138,Tata,Earphones,Electronics,2023-09-08,61,2,Very bad experience,1051.75
+PROD2234,ITC,Smartwatch,Electronics,2023-06-03,196,2,Stopped working,1455.67
+PROD2506,Amul,Soap,FMCG,2023-01-25,162,4,Very good quality,1494.53
+PROD7997,Amul,Toothpaste,FMCG,2023-05-20,44,5,Works well,871.32
+PROD8092,Reliance,Soap,FMCG,2023-02-09,343,5,Loved it,1244.42
+PROD3958,Godrej,Smartwatch,Electronics,2023-07-25,138,4,Value for money,956.2
+PROD8656,HUL,Toothpaste,FMCG,2023-09-22,451,4,Very good quality,320.48
+PROD1981,ITC,Earphones,Electronics,2023-11-11,446,4,Value for money,1165.22
+PROD7721,Godrej,Soap,FMCG,2023-03-17,133,3,Neutral feeling,268.19
+PROD5201,HUL,Smartwatch,Electronics,2023-04-15,443,3,Average product,648.04
+PROD8604,Patanjali,Soap,FMCG,2023-02-28,86,2,Very bad experience,328.28
+PROD5468,Godrej,Earphones,Electronics,2023-08-05,341,2,Poor quality,1363.2
+PROD1326,Amul,Shampoo,FMCG,2023-05-23,347,1,Stopped working,848.52
+PROD2479,Amul,Shampoo,FMCG,2023-11-05,162,4,Loved it,1307.4
+PROD9551,Reliance,Earphones,Electronics,2023-03-13,130,5,Excellent product,212.3
+PROD7388,Tata,Smartphone,Electronics,2023-05-02,317,3,Fine,227.3
+PROD7690,Patanjali,Soap,FMCG,2023-03-15,64,3,Neutral feeling,303.97
+PROD9941,Tata,Earphones,Electronics,2023-09-09,283,1,Very bad experience,593.32
+PROD8786,HUL,Smartphone,Electronics,2023-05-07,152,2,Very bad experience,1325.18
+PROD5144,Tata,Smartphone,Electronics,2023-11-27,473,1,Poor quality,928.43
+PROD4872,HUL,Smartphone,Electronics,2023-12-25,195,1,Disappointed,1359.58
+PROD2478,Tata,Smartphone,Electronics,2023-07-21,484,3,Fine,1468.09
+PROD1555,Patanjali,Soap,FMCG,2023-03-24,478,3,Neutral feeling,686.33
+PROD2644,Reliance,Smartwatch,Electronics,2023-09-09,251,3,Neutral feeling,1118.57
+PROD6353,Amul,Toothpaste,FMCG,2023-09-17,43,5,Value for money,560.19
+PROD1050,Tata,Earphones,Electronics,2023-01-27,338,4,Very good quality,980.31
+PROD5089,HUL,Smartwatch,Electronics,2023-06-06,170,1,Poor quality,884.92
+PROD3187,HUL,Toothpaste,FMCG,2023-07-30,415,4,Works well,1412.16
+PROD2382,HUL,Smartwatch,Electronics,2023-10-31,433,3,Average product,524.99
+PROD1339,Patanjali,Smartphone,Electronics,2023-07-21,458,5,Very good quality,597.11
+PROD4248,HUL,Toothpaste,FMCG,2023-11-10,330,1,Stopped working,381.63
+PROD5262,Reliance,Earphones,Electronics,2023-03-28,35,4,Value for money,631.5
+PROD8129,Amul,Shampoo,FMCG,2023-03-29,494,1,Disappointed,872.5
+PROD5717,Godrej,Earphones,Electronics,2023-03-02,124,2,Very bad experience,1084.67
+PROD4102,Patanjali,Smartphone,Electronics,2023-08-09,448,2,Very bad experience,349.58
+PROD8388,Godrej,Smartwatch,Electronics,2023-03-16,24,3,Average product,470.78
+PROD3182,ITC,Soap,FMCG,2023-12-17,341,1,Stopped working,714.34
+PROD5198,Godrej,Earphones,Electronics,2023-12-18,118,4,Value for money,1084.34
+PROD6804,ITC,Shampoo,FMCG,2023-01-31,36,2,Stopped working,532.65
+PROD3166,Amul,Shampoo,FMCG,2023-09-16,327,4,Loved it,602.36
+PROD3161,Patanjali,Toothpaste,FMCG,2023-05-14,96,3,Neutral feeling,780.43
+PROD1723,HUL,Soap,FMCG,2023-09-29,231,1,Very bad experience,255.6
+PROD5312,Reliance,Soap,FMCG,2023-05-24,392,4,Loved it,572.86
+PROD8208,Amul,Earphones,Electronics,2023-08-12,467,4,Very good quality,289.23
+PROD3679,Patanjali,Shampoo,FMCG,2023-01-28,127,4,Loved it,315.55
+PROD8499,Tata,Smartphone,Electronics,2023-09-11,30,5,Works well,690.2
+PROD3959,Reliance,Smartwatch,Electronics,2023-03-17,73,2,Very bad experience,556.93
+PROD1067,ITC,Toothpaste,FMCG,2023-05-20,298,5,Very good quality,1341.8
+PROD1425,Tata,Soap,FMCG,2023-05-07,403,1,Very bad experience,772.26
+PROD3519,HUL,Earphones,Electronics,2023-03-04,211,1,Very bad experience,591.66
+PROD1095,Godrej,Shampoo,FMCG,2023-12-29,347,3,Could be better,745.79
+PROD4463,HUL,Smartwatch,Electronics,2023-11-15,496,5,Very good quality,707.0
+PROD7248,Amul,Toothpaste,FMCG,2023-06-15,418,1,Disappointed,130.53
+PROD1336,Amul,Soap,FMCG,2023-04-02,132,4,Excellent product,1449.32
+PROD5891,Godrej,Shampoo,FMCG,2023-07-26,155,2,Not worth it,988.39
+PROD2574,HUL,Smartphone,Electronics,2023-06-08,472,2,Very bad experience,1043.19
+PROD7931,Patanjali,Earphones,Electronics,2023-09-08,238,4,Loved it,1333.85
+PROD1662,Reliance,Soap,FMCG,2023-07-08,324,4,Excellent product,320.22
+PROD9638,HUL,Smartphone,Electronics,2023-04-25,341,2,Stopped working,1045.04
+PROD3434,Godrej,Soap,FMCG,2023-08-12,50,4,Loved it,1365.45
+PROD2253,Amul,Toothpaste,FMCG,2023-05-08,277,5,Excellent product,670.21
+PROD5151,Tata,Toothpaste,FMCG,2023-09-19,227,4,Value for money,648.88
+PROD3941,ITC,Smartphone,Electronics,2023-02-11,403,1,Stopped working,779.99
+PROD8454,Tata,Soap,FMCG,2023-02-12,223,3,Fine,1321.3
+PROD4032,Reliance,Earphones,Electronics,2023-05-16,184,2,Poor quality,1451.74
+PROD1293,ITC,Toothpaste,FMCG,2023-05-13,456,4,Value for money,1026.44
+PROD8974,Tata,Soap,FMCG,2023-01-07,97,4,Works well,1000.91
+PROD2435,Reliance,Earphones,Electronics,2023-11-12,194,4,Loved it,1051.46
+PROD4428,Tata,Shampoo,FMCG,2023-04-08,67,2,Not worth it,1233.15
+PROD2410,Patanjali,Earphones,Electronics,2023-11-29,133,5,Very good quality,681.89
+PROD8295,Patanjali,Smartphone,Electronics,2023-08-31,226,2,Poor quality,81.63
+PROD7418,Tata,Smartphone,Electronics,2023-08-19,309,3,Could be better,401.81
+PROD9121,Tata,Soap,FMCG,2023-02-22,332,4,Works well,1279.06
+PROD4799,Godrej,Smartwatch,Electronics,2023-07-24,258,5,Works well,794.37
+PROD7834,Tata,Toothpaste,FMCG,2023-08-05,305,1,Very bad experience,507.98
+PROD1340,Godrej,Smartwatch,Electronics,2023-11-15,490,4,Works well,986.96
+PROD4599,HUL,Soap,FMCG,2023-04-09,250,2,Disappointed,548.58
+PROD7829,Reliance,Earphones,Electronics,2023-12-03,249,3,Neutral feeling,240.18
+PROD3115,Reliance,Smartphone,Electronics,2023-03-24,328,1,Stopped working,350.45
+PROD5975,Patanjali,Shampoo,FMCG,2023-11-07,261,4,Works well,196.31
+PROD3598,ITC,Shampoo,FMCG,2023-01-25,19,3,Fine,570.24
+PROD2977,Tata,Toothpaste,FMCG,2023-02-02,182,5,Very good quality,674.4
+PROD5382,Amul,Soap,FMCG,2023-06-24,411,1,Disappointed,565.1
+PROD8489,Reliance,Toothpaste,FMCG,2023-09-21,319,1,Stopped working,1020.75
+PROD1687,Reliance,Shampoo,FMCG,2023-11-09,322,1,Disappointed,1184.13
+PROD5786,HUL,Shampoo,FMCG,2023-03-02,455,3,Average product,347.81
+PROD3014,Godrej,Earphones,Electronics,2023-02-20,88,3,Average product,988.28

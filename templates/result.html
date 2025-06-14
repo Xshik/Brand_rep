@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BrandRep Insights | AI-Powered Analysis Results</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+  <style>
+    :root {
+      --primary-color: #6366f1;
+      --secondary-color: #f8fafc;
+      --accent-color: #4f46e5;
+      --dark-color: #1e293b;
+      --light-color: #ffffff;
+      --success-color: #10b981;
+      --warning-color: #f59e0b;
+      --danger-color: #ef4444;
+    }
+    
+    body {
+      background-color: var(--secondary-color);
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      min-height: 100vh;
+    }
+    
+    @supports (font-variation-settings: normal) {
+      body { font-family: 'Inter var', -apple-system, BlinkMacSystemFont, sans-serif; }
+    }
+    
+    .glass-card {
+      background: rgba(255, 255, 255, 0.9);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      border-radius: 1rem;
+      border: 1px solid rgba(255, 255, 255, 0.18);
+      box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
+      overflow: hidden;
+      transition: all 0.3s ease;
+    }
+    
+    .glass-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.15);
+    }
+    
+    .gradient-header {
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      color: white;
+      padding: 2rem;
+      border-radius: 1rem 1rem 0 0;
+    }
+    
+    .section-title {
+      color: var(--dark-color);
+      font-weight: 600;
+      position: relative;
+      padding-bottom: 0.75rem;
+      margin-bottom: 1.5rem;
+    }
+    
+    .section-title::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 60px;
+      height: 4px;
+      background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+      border-radius: 2px;
+    }
+    
+    .nav-pills .nav-link {
+      color: var(--dark-color);
+      font-weight: 500;
+      border-radius: 50px;
+      padding: 0.5rem 1.5rem;
+      margin: 0 0.5rem;
+      transition: all 0.3s;
+    }
+    
+    .nav-pills .nav-link.active {
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      color: white;
+      box-shadow: 0 4px 6px rgba(79, 70, 229, 0.2);
+    }
+    
+    .graph-container {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      transition: all 0.3s;
+    }
+    
+    .graph-container:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    }
+    
+    .table-container {
+      background-color: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    }
+    
+    .btn-primary {
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      border: none;
+      padding: 0.75rem 1.5rem;
+      font-weight: 500;
+      letter-spacing: 0.5px;
+      transition: all 0.3s;
+      box-shadow: 0 4px 6px rgba(79, 70, 229, 0.1);
+    }
+    
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 12px rgba(79, 70, 229, 0.15);
+      background: linear-gradient(135deg, var(--accent-color), var(--primary-color));
+    }
+    
+    .btn-outline-primary {
+      color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+    
+    .btn-outline-primary:hover {
+      background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+      color: white;
+    }
+    
+    .insight-badge {
+      font-size: 0.8rem;
+      font-weight: 500;
+      padding: 0.35rem 0.75rem;
+      border-radius: 50px;
+    }
+    
+    .badge-success {
+      background-color: rgba(16, 185, 129, 0.1);
+      color: var(--success-color);
+    }
+    
+    .badge-warning {
+      background-color: rgba(245, 158, 11, 0.1);
+      color: var(--warning-color);
+    }
+    
+    .badge-danger {
+      background-color: rgba(239, 68, 68, 0.1);
+      color: var(--danger-color);
+    }
+    
+    .floating {
+      animation: floating 6s ease-in-out infinite;
+    }
+    
+    @keyframes floating {
+      0% { transform: translateY(0px); }
+      50% { transform: translateY(-10px); }
+      100% { transform: translateY(0px); }
+    }
+    
+    .pulse-animation {
+      animation: pulse 2s infinite;
+    }
+    
+    @keyframes pulse {
+      0% { transform: scale(1); }
+      50% { transform: scale(1.05); }
+      100% { transform: scale(1); }
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .gradient-header {
+        padding: 1.5rem;
+      }
+      .graph-container, .table-container {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container py-5">
+    <!-- Animated Background Elements -->
+    <div class="position-absolute top-0 start-0 w-100 h-100" style="z-index: -1; overflow: hidden;">
+      <div class="position-absolute top-20 start-20 rounded-circle bg-primary opacity-10" style="width: 300px; height: 300px;"></div>
+      <div class="position-absolute bottom-10 end-10 rounded-circle bg-primary opacity-10" style="width: 200px; height: 200px;"></div>
+    </div>
+
+    <!-- Main Header -->
+    <div class="glass-card mb-5 animate__animated animate__fadeIn">
+      <div class="gradient-header text-center">
+        <div class="floating">
+          <i class="bi bi-bar-chart-line" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+        </div>
+        <h1 class="display-5 fw-bold mb-3">Brand Reputation & Sales Insights</h1>
+        <p class="lead mb-0">AI-Powered Product Performance Analysis</p>
+      </div>
+      <div class="card-body text-center py-4">
+        <div class="d-flex flex-wrap justify-content-center gap-2 mb-3">
+          <span class="insight-badge badge-success">
+            <i class="bi bi-check-circle-fill me-1"></i> Analysis Complete
+          </span>
+          <span class="insight-badge" style="background-color: rgba(99, 102, 241, 0.1); color: var(--primary-color);">
+            <i class="bi bi-calendar-check-fill me-1"></i> {{ date_processed }}
+          </span>
+          <span class="insight-badge" style="background-color: rgba(156, 163, 175, 0.1); color: var(--dark-color);">
+            <i class="bi bi-file-earmark-text-fill me-1"></i> {{ row_count }} Records Analyzed
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <div class="glass-card mb-4">
+      <div class="card-body p-3">
+        <ul class="nav nav-pills justify-content-center" id="resultsTabs" role="tablist">
+          <li class="nav-item" role="presentation">
+            <button class="nav-link active" id="graphs-tab" data-bs-toggle="pill" data-bs-target="#graphs" type="button" role="tab">
+              <i class="bi bi-graph-up-arrow me-2"></i>Visual Insights
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="data-tab" data-bs-toggle="pill" data-bs-target="#data" type="button" role="tab">
+              <i class="bi bi-table me-2"></i>Raw Data
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link" id="summary-tab" data-bs-toggle="pill" data-bs-target="#summary" type="button" role="tab">
+              <i class="bi bi-journal-text me-2"></i>AI Summary
+            </button>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Tab Content -->
+    <div class="tab-content" id="resultsTabsContent">
+      <!-- Graphs Tab -->
+      <div class="tab-pane fade show active" id="graphs" role="tabpanel">
+        {% for key, graph in graphs.items() %}
+        <div class="graph-container animate__animated animate__fadeInUp">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h3 class="section-title mb-0">
+              <i class="bi bi-{{ 'graph-up-arrow' if 'top' in key.lower() else 'graph-down-arrow' if 'bottom' in key.lower() else 'emoji-smile' if 'sentiment' in key.lower() else 'pie-chart' }} me-2"></i>
+              {{ key.replace("_", " ").title() }}
+            </h3>
+            <div>
+              <button class="btn btn-outline-primary btn-sm" onclick="downloadImage('{{ graph }}', '{{ key }}')">
+                <i class="bi bi-download"></i> Export
+              </button>
+              <button class="btn btn-outline-secondary btn-sm ms-2" onclick="showInsight('{{ key }}')">
+                <i class="bi bi-lightbulb"></i> Insight
+              </button>
+            </div>
+          </div>
+          
+          <img src="{{ graph }}" class="img-fluid rounded-3 shadow mb-3" style="border: 1px solid rgba(0, 0, 0, 0.05);">
+          
+          {% if 'top' in key.lower() %}
+          <div class="alert alert-success mt-3">
+            <i class="bi bi-check-circle-fill me-2"></i>
+            <strong>Key Opportunity:</strong> These products represent your best performers. Consider increasing marketing focus on these items.
+          </div>
+          {% elif 'bottom' in key.lower() %}
+          <div class="alert alert-warning mt-3">
+            <i class="bi bi-exclamation-triangle-fill me-2"></i>
+            <strong>Attention Needed:</strong> These products may require review of pricing, marketing, or product quality.
+          </div>
+          {% elif 'sentiment' in key.lower() %}
+          <div class="alert alert-info mt-3">
+            <i class="bi bi-chat-square-heart-fill me-2"></i>
+            <strong>Customer Sentiment:</strong> Positive sentiment indicates satisfied customers, while negative scores highlight areas for improvement.
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+
+      <!-- Data Tab -->
+      <div class="tab-pane fade" id="data" role="tabpanel">
+        <div class="table-container animate__animated animate__fadeIn">
+          <div class="d-flex justify-content-between align-items-center mb-4">
+            <h3 class="section-title mb-0">
+              <i class="bi bi-table me-2"></i>Analyzed Data
+            </h3>
+            <div>
+              <button class="btn btn-primary" onclick="exportToCSV()">
+                <i class="bi bi-file-earmark-excel"></i> Export CSV
+              </button>
+            </div>
+          </div>
+          
+          <div class="table-responsive">
+            {{ table|safe }}
+          </div>
+          
+          <div class="mt-4">
+            <div class="alert alert-secondary">
+              <i class="bi bi-info-circle-fill me-2"></i>
+              <strong>Data Notes:</strong> This table shows a sample of your analyzed data. Export the full dataset for complete records.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Summary Tab -->
+      <div class="tab-pane fade" id="summary" role="tabpanel">
+        <div class="glass-card animate__animated animate__fadeIn">
+          <div class="card-body p-4">
+            <h3 class="section-title">
+              <i class="bi bi-robot me-2"></i>AI Analysis Summary
+            </h3>
+            
+            <div class="alert alert-primary">
+              <i class="bi bi-lightbulb-fill me-2"></i>
+              <strong>Executive Summary:</strong> Based on our analysis of {{ row_count }} records, here are the key insights about your brand performance.
+            </div>
+            
+            <div class="row mt-4">
+              <div class="col-md-6 mb-4">
+                <div class="card h-100 border-0 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex align-items-center mb-3">
+                      <div class="bg-primary bg-opacity-10 p-3 rounded-circle me-3">
+                        <i class="bi bi-trophy-fill text-primary" style="font-size: 1.5rem;"></i>
+                      </div>
+                      <h5 class="mb-0">Top Performers</h5>
+                    </div>
+                    <p class="text-muted">Your best selling products are showing strong performance with consistent growth trends. These products account for approximately <strong>X%</strong> of your total revenue.</p>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item border-0 ps-0"><i class="bi bi-check-circle-fill text-success me-2"></i> Product A: 25% of total sales</li>
+                      <li class="list-group-item border-0 ps-0"><i class="bi bi-check-circle-fill text-success me-2"></i> Product B: 18% of total sales</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="col-md-6 mb-4">
+                <div class="card h-100 border-0 shadow-sm">
+                  <div class="card-body">
+                    <div class="d-flex align-items-center mb-3">
+                      <div class="bg-warning bg-opacity-10 p-3 rounded-circle me-3">
+                        <i class="bi bi-exclamation-triangle-fill text-warning" style="font-size: 1.5rem;"></i>
+                      </div>
+                      <h5 class="mb-0">Areas for Improvement</h5>
+                    </div>
+                    <p class="text-muted">Several products show declining sales trends or negative customer sentiment. These represent opportunities for strategic review and improvement.</p>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item border-0 ps-0"><i class="bi bi-arrow-down-circle-fill text-danger me-2"></i> Product X: -15% quarterly growth</li>
+                      <li class="list-group-item border-0 ps-0"><i class="bi bi-emoji-frown-fill text-danger me-2"></i> Product Y: 38% negative sentiment</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            <div class="card border-0 shadow-sm">
+              <div class="card-body">
+                <h5 class="mb-3"><i class="bi bi-graph-up-arrow me-2"></i>Recommendations</h5>
+                <ol class="list-group list-group-numbered list-group-flush">
+                  <li class="list-group-item border-0 ps-0">Increase marketing investment in top performing products</li>
+                  <li class="list-group-item border-0 ps-0">Conduct product review for underperforming items</li>
+                  <li class="list-group-item border-0 ps-0">Address customer concerns highlighted in sentiment analysis</li>
+                  <li class="list-group-item border-0 ps-0">Consider bundling strategies for complementary products</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Action Buttons -->
+    <div class="text-center mt-5">
+      <a href="/" class="btn btn-primary btn-lg px-5 py-3 me-3">
+        <i class="bi bi-arrow-left me-2"></i>Analyze Another File
+      </a>
+      <button class="btn btn-outline-primary btn-lg px-5 py-3" onclick="generateReport()">
+        <i class="bi bi-file-earmark-pdf me-2"></i>Generate Full Report
+      </button>
+    </div>
+
+    <!-- Footer -->
+    <div class="text-center mt-5 pt-4">
+      <p class="text-muted">BrandRep Insights &copy; 2023 | AI-Powered Product Analytics</p>
+    </div>
+  </div>
+
+  <!-- Insight Modal -->
+  <div class="modal fade" id="insightModal" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="insightModalTitle">Insight</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body" id="insightModalBody">
+          Loading insight...
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    // Function to download images
+    function downloadImage(src, filename) {
+      const link = document.createElement('a');
+      link.href = src;
+      link.download = filename.replace(/ /g, '_') + '.png';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+    }
+
+    // Function to export table data to CSV
+    function exportToCSV() {
+      // Show loading state
+      const btn = event.target;
+      const originalHtml = btn.innerHTML;
+      btn.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Exporting...';
+      btn.disabled = true;
+      
+      // Simulate API call
+      setTimeout(() => {
+        // In a real implementation, this would:
+        // 1. Make an API call to get CSV data
+        // 2. Create a download link for the CSV file
+        alert("In a real implementation, this would download the full dataset as CSV");
+        btn.innerHTML = originalHtml;
+        btn.disabled = false;
+      }, 1500);
+    }
+
+    // Function to show insights
+    function showInsight(graphKey) {
+      const modal = new bootstrap.Modal(document.getElementById('insightModal'));
+      const title = document.getElementById('insightModalTitle');
+      const body = document.getElementById('insightModalBody');
+      
+      // Set modal content based on graph type
+      title.textContent = graphKey.replace(/_/g, ' ').toUpperCase();
+      
+      if (graphKey.toLowerCase().includes('top')) {
+        body.innerHTML = `
+          <div class="alert alert-success">
+            <i class="bi bi-check-circle-fill me-2"></i>
+            <strong>High Performers:</strong> These products are driving your business success.
+          </div>
+          <p>Our analysis shows these products have consistently outperformed others in your catalog. Consider:</p>
+          <ul>
+            <li>Increasing inventory levels for these items</li>
+            <li>Creating targeted marketing campaigns</li>
+            <li>Exploring cross-selling opportunities</li>
+          </ul>
+        `;
+      } else if (graphKey.toLowerCase().includes('bottom')) {
+        body.innerHTML = `
+          <div class="alert alert-warning">
+            <i class="bi bi-exclamation-triangle-fill me-2"></i>
+            <strong>Performance Issues:</strong> These products may need attention.
+          </div>
+          <p>Our analysis suggests these products are underperforming. Potential actions:</p>
+          <ul>
+            <li>Review pricing strategy</li>
+            <li>Assess product quality or features</li>
+            <li>Consider promotional strategies</li>
+            <li>Evaluate potential discontinuation</li>
+          </ul>
+        `;
+      } else if (graphKey.toLowerCase().includes('sentiment')) {
+        body.innerHTML = `
+          <div class="alert alert-info">
+            <i class="bi bi-chat-left-heart-fill me-2"></i>
+            <strong>Customer Sentiment:</strong> Understanding customer emotions.
+          </div>
+          <p>Sentiment analysis reveals how customers feel about your products:</p>
+          <ul>
+            <li>Positive sentiment indicates satisfied customers</li>
+            <li>Negative scores highlight pain points</li>
+            <li>Neutral scores may indicate lack of strong opinions</li>
+          </ul>
+          <p>Use this data to improve customer experience and address concerns.</p>
+        `;
+      } else {
+        body.innerHTML = `
+          <div class="alert alert-primary">
+            <i class="bi bi-lightbulb-fill me-2"></i>
+            <strong>Data Insight:</strong> Key findings from this visualization.
+          </div>
+          <p>This chart shows important patterns in your product performance data. Look for:</p>
+          <ul>
+            <li>Seasonal trends or patterns</li>
+            <li>Unexpected spikes or dips</li>
+            <li>Comparisons between product categories</li>
+          </ul>
+        `;
+      }
+      
+      modal.show();
+    }
+
+    // Function to generate full report
+    function generateReport() {
+      const btn = event.target;
+      const originalHtml = btn.innerHTML;
+      btn.innerHTML = '<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Generating...';
+      btn.disabled = true;
+      
+      // Simulate report generation
+      setTimeout(() => {
+        alert("In a real implementation, this would generate a PDF report with all insights");
+        btn.innerHTML = originalHtml;
+        btn.disabled = false;
+      }, 2000);
+    }
+
+    // Animate elements on scroll
+    const animateOnScroll = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('animate__fadeInUp');
+        }
+      });
+    }, { threshold: 0.1 });
+
+    document.querySelectorAll('.graph-container, .table-container').forEach(el => {
+      animateOnScroll.observe(el);
+    });
+  </script>
+</body>
+</html>
